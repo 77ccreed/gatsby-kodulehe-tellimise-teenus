@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kiire kodulehe tellimine
-image: /img/home-jumbotron.jpg
+image: /img/abstract-background-abstract-oil-painting-abstract-painting-1629236.jpg
 heading: Great coffee with a conscience
 subheading: Kui soovid oma kodulehega inimesteni jõuda
 mainpitch:
