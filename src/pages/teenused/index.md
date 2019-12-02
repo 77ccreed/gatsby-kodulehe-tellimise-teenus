@@ -1,13 +1,12 @@
 ---
 templateKey: product-page
 title: Pakutavad teenused
-image: /img/abstract-painting-acrylic-paint-art-1616403.jpg
-heading: Kodulehe tellimine sisuloojale lihtsalt
+image: /img/abstract-expressionism-art-background-2011824.jpg
+heading: Kodulehe tellimine sisuloojale
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kiired ja lihtsalt internetist leitavad kodulehed. Võimalik on luua mahukaid
+  blogi tüüpi kodulehti, mille blogipostitused on siltidega grupeeritud.
+  Täislahendusena teenus koos veebimajutusega.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,9 +45,9 @@ intro:
 main:
   heading: Tänapäevane lahendus sisuloojale kodulehe loomiseks
   description: >-
-    Blogi funktsionaalsusega kiire koduleht Netlify CMS sisuhaldustarkvaraga.
-    Kolm muudetava sisuga lehte, blogi kollektsioon ja leht Netlify Form toega.
-    Kiire laadimisaeg ja perfektne Lighthouse skoor.
+    Kiire ja lihtne koduleht Netlify CMS sisuhaldustarkvaraga. Kolm muudetava
+    sisuga lehte - pealeht, meist ja tooted. Lisaks blogi kollektsioon ja leht
+    Netlify Form toega.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
