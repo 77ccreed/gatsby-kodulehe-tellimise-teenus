@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+templateKey: product-page
+title: Pakutavad teenused
+image: /img/abstract-painting-acrylic-paint-art-1616403.jpg
+heading: Kodulehe tellimine sisuloojale lihtsalt
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -45,12 +44,11 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Tänapäevane lahendus sisuloojale kodulehe loomiseks
+  description: >-
+    Blogi funktsionaalsusega kiire koduleht Netlify CMS sisuhaldustarkvaraga.
+    Kolm muudetava sisuga lehte, blogi kollektsioon ja leht Netlify Form toega.
+    Kiire laadimisaeg ja perfektne Lighthouse skoor.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -71,31 +69,34 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Lisatööd valminud lehel
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Funktsionaalsuse ja isikupära lisamine juba valminud kodulehel. Lai valik
+    võimalusi kodulehte edasi arendada.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Kodulehel väiksemate muutuste tegemiseks.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - kodulehe optimeerimine
+        - disaini muutmine
+        - lihtsam animatsioon
+        - konsultatsioon
+        - fotograafi teenus
+      plan: Lühiajaline projekt
+      price: '400'
+    - description: Kodulehel suuremate muutuste tegemiseks.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - kodulehe sisu kirjutamine - kolm lehte
+        - isikupärased disainilahendused
+        - isikupärased animatsioonilahe
+      plan: Pikaajaline projekt
+      price: '800'
+    - description: Kodulehel väga suurte muutuste tegemiseks.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
+        - mitmekeelsed lahendused
+        - e kaubanduse lahendused
+        - suuremahulise vormi loomine
+        - lisatööjõu kaasamist nõudvad projektid
+      plan: Määramata ajaga
       price: '??'
 ---
+
