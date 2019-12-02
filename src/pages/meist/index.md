@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Kodulehe tellimise teenus
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Õpingud
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Novembris 2017. olin 20 000 inimese seas, kes alustas programeerimise õppimist Udacity ja Google korraldatud Frond End arendaja kursuse esimeses osas. Õppekavas oli HTML, CSS, JavaScript ja nende põhialused ning pidi kirjutama paar väiksemat projekti. Peale kolmekuulist baaskursust olin üks 2000-st, kes pääses teise vooru. See eeldas materjali omandamist, projektide edukat sooritamist ja kursusekaaslaste aitamine foorumis ja Slackis.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Kursuse teine osa oli põhiliselt JavaScript ja React. Kokku tegin kaheksa projekti - lihtne kaardi kujundamine CSS-iga, mälu treenimise mäng, Arcade mäng, porfoolio koduleht, kaardirakendus, mis töötab ilma levita ja React rakendused..
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Mõned märksõnad õpetatust
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+mobiilisõbralik veebidisain, veebilehe optimeerimine, README kirjutamine, Git versioonikontroll, DOM-i manipuleerimine ja veebilehitseja sündmused, ARIA, JavaScript objektid, funktsioonid ja klassid, ES6, testide kirjutamine, Promises, AJAX, frameworks, Offline first veebilehed, Service Workers, React, API.
+
+Kursus oli raske, kuid huvitav ja meeldis väga. Valdav osa materjalist oli minu jaoks täiesti uus. Kui midagi ei osanud sain abi foorumist ja kursusekaaslastelt Slackis. Koos teistega õppimine tegi kõik palju lihtsamaks. Suureks abiks oli näha kuidas kaasõpilased ülesandeid lahendavad ja nende koodi lugemine. Kursus aitas kiiresti kasutusele võtta tööriistad nagu Visual Studio Code ja GitHub. Suutsin Udacity Front End tarkvaraarendaja kursuse lõpetada ja tunnistuse saada. Lisaks omandatud teadmistele kohtusin suure hulga inimestega, kellega jagan huvi veebiarenduse ja programeerimise vastu.
+
+### Peale kursust
+
+Olen enda täiendamist jätkanud iseseisvalt, et kinnistada kursusel omandatut. Tähelepanu pööranud rohkem praktikale kui teooriale - kirjutanud rohkem koodi, rohkem asju internetti üles pannud. Mõelnud, kuidas omandatud teadmised ellu rakendada. React ja Vue JS on kuumad märksõnad, mida Front End tarkvaraarendaja peaks tundma. GraphQL on huvitav ja vajalik tööriist.
+
+Tegutsen kiiresti areneval ja muutuval alal - muutustega tuleb kohaneda, et ajale mitte jalgu jääda. Mitmed tänasel päeval veebiarenduses kasutatud lahendused, nagu WordPress ja PHP, hakkavad oma sära kaotama. See loob võimaluse uutele turule tulevatele arendajatele. Tahan seda võimalust ära kasutada.
+
+###
