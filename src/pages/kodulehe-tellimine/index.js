@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Telli endale koduleht</h1>
+              <h1>Kodulehe tellimiseks täida küsimustik</h1>
               <form
                 name="contact"
                 method="post"
@@ -216,6 +216,83 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
+
+
+                <h3>Kodulehe struktuur</h3>
+                <p>Milliseid lehekülgi soovid kodulehele</p>
+
+                <div className='columns'>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'meist-leht'}>
+                      Meist leht
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'meist-leht'}
+                        onChange={this.handleChange}
+                        id={'meist-leht'}
+                        required={true}
+                        placeholder={'Meist, minust vms.'}
+                      />
+                    </div>
+                  </div>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'teenused-leht'}>
+                      Teenused leht
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'teenused-leht'}
+                        onChange={this.handleChange}
+                        id={'teenused-leht'}
+                        required={true}
+                        placeholder={'Tooted, teenused vms.'}
+                      />
+                    </div>
+                  </div>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'tehtud-kodulehed-leht'}>
+                      Tehtud kodulehed leht
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'tehtud-kodulehed-leht'}
+                        onChange={this.handleChange}
+                        id={'tehtud-kodulehed-leht'}
+                        required={true}
+                        placeholder={'Blogi, kuulutused, retseptid vms.'}
+                      />
+                    </div>
+                  </div>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'telli-koduleht-leht'}>
+                      Telli koduleht leht
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'telli-koduleht-leht'}
+                        onChange={this.handleChange}
+                        id={'telli-koduleht-leht'}
+                        required={true}
+                        placeholder={'Kontaktid, telli koduleht vms.'}
+                      />
+                    </div>
+                  </div>
+
+                </div>
+
 
 
 
