@@ -219,7 +219,7 @@ export default class Index extends React.Component {
 
 
                 <h3>Kodulehe struktuur</h3>
-                <p>Milliseid lehekülgi soovid kodulehele</p>
+                <p>Vaikimisi on kodulehe struktuur: pealeht, meist, teenused, blogi, kontaktid.</p>
 
                 <div className='columns'>
 
@@ -294,8 +294,46 @@ export default class Index extends React.Component {
                 </div>
 
 
+                <h3>Sotsiaalmeedia ja Google Analytics</h3>
+                <div className='columns'>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'sotsiaalmeedia'}>
+                      Sotsiaalmeedia
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'sotsiaalmeedia'}
+                        onChange={this.handleChange}
+                        id={'sotsiaalmeedia'}
+                        required={true}
+                        placeholder={'Lisa oma sotsiaalmeediakontod, mida soovid kodulehe päises ja jaluses kasutada'}
+                      />
+                    </div>
+                  </div>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'analytics'}>
+                      Google Analytics, Tag Manager ja Search Console
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'analytics'}
+                        onChange={this.handleChange}
+                        id={'analytics'}
+                        required={true}
+                        placeholder={'Jäta tühjaks kui ei kasuta enda omi'}
+                      />
+                    </div>
+                  </div>
 
 
+
+                </div>
 
 
 
