@@ -2,11 +2,13 @@
 templateKey: about-page
 title: Kodulehe tellimise teenus
 ---
-### Õpingud
+### Ettevõtjale
 
-Novembris 2017. olin 20 000 inimese seas, kes alustas programeerimise õppimist Udacity ja Google korraldatud Frond End arendaja kursuse esimeses osas. Õppekavas oli HTML, CSS, JavaScript ja nende põhialused ning pidi kirjutama paar väiksemat projekti. Peale kolmekuulist baaskursust olin üks 2000-st, kes pääses teise vooru. See eeldas materjali omandamist, projektide edukat sooritamist ja kursusekaaslaste aitamine foorumis ja Slackis.
+Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Meie pakutav kodulehe tellimise teenus teeb selle lihtsaks ja ühendab endas parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia, heas eesti keeles loodud teksti ja ilusad fotomaterjalid.
 
-Kursuse teine osa oli põhiliselt JavaScript ja React. Kokku tegin kaheksa projekti - lihtne kaardi kujundamine CSS-iga, mälu treenimise mäng, Arcade mäng, porfoolio koduleht, kaardirakendus, mis töötab ilma levita ja React rakendused..
+Teenus sobib sisuloojale, kellel on heal tasemel teksti kirjutamise oskus. Soov oma toote, teenuse, blogi vms. jõudmiseks suure hulga inimesteni interneti otsingumootorite orgaanilise otsingu kaudu. See tähendab, et külastajateni jõudmiseks pole vaja reklaamile ja teistele turundustegevustele aega ja raha enam kulutada. 
+
+
 
 ### Mõned märksõnad õpetatust
 
