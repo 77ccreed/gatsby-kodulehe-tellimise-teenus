@@ -4,9 +4,9 @@ title: Kodulehe tellimise teenus
 ---
 ### Ettevõtjale
 
-Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Meie pakutav kodulehe tellimise teenus teeb selle lihtsaks ja ühendab endas parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia, heas eesti keeles loodud teksti ja ilusad fotomaterjalid.
+Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Pakutav kodulehe tellimise teenus teeb selle lihtsaks ja ühendab endas parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia, heas eesti keeles loodud teksti ja  fotomaterjalid.
 
-Teenus sobib sisuloojale, kellel on heal tasemel teksti kirjutamise oskus. Soov oma toote, teenuse, blogi vms. jõudmiseks suure hulga inimesteni interneti otsingumootorite orgaanilise otsingu kaudu. See tähendab, et külastajateni jõudmiseks pole vaja reklaamile ja teistele turundustegevustele aega ja raha enam kulutada. 
+Teenus sobib sisuloojale, kellel on teksti kirjutamise oskus. Soov oma toote, teenuse, blogi vms. jõudmiseks suure hulga inimesteni interneti otsingumootori orgaanilise otsingu kaudu. Külastajateni jõudmiseks pole vaja reklaamile ja teistele turundustegevustele aega ja raha enam kulutada. 
 
 
 
