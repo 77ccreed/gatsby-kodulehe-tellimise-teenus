@@ -1,41 +1,31 @@
 ---
 templateKey: product-page
-title: Pakutavad teenused
+title: Ettevõtjale
 image: /img/abstract-expressionism-art-background-2011824.jpg
-heading: Kodulehe tellimine sisuloojale
+heading: Turundus läbi kodulehe
 description: >-
-  Kiired ja lihtsalt internetist leitavad kodulehed. Võimalik on luua mahukaid
-  blogi tüüpi kodulehti, mille blogipostitused on siltidega grupeeritud.
-  Täislahendusena teenus koos veebimajutusega.
+  Kui soovid turunduseks ettevõtte kodulehte kasutada. Hea on kui  kodulehe sisu
+  on juba olemas. Näiteks äriplaan vms. Vajadusel abistame teksti loomise ja
+  fotograafi teenusega. 
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+
+        Jõudlus - mõõdetakse kui kiiresti jõuab esimene pilt avakuvale peale
+        lehe laadimist. Ja kuna see interaktiivseks muutub.
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Kättesaadavus - Kontrollib levinumaid probleeme, mis võivad takistada
+        kasutajatel lehe sisule juurde pääseda.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Programmeerimisel kasutatud parim praktika - mõõdetakse kõike alates
+        HTTPS-i kasutamisest kuni pildi kuvasuhte korrigeerimiseni.
     - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: >-
+        Otsingumootoritele optimeeritus (SEO) - parimate tavade kontrollimine
+        kodulehe leitavuse tagamiseks.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
