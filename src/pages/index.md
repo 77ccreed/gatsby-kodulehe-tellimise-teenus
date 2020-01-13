@@ -10,8 +10,8 @@ mainpitch:
     Külastajateni jõudmiseks pole enam reklaamile ja teistele
     turundustegevustele aega ja raha vaja tingimata kulutada.
 description: >-
-  Koostame abimaterjalid kodulehe sisu loomiseks ja loome kodulehe
-  prooviversiooni, mida saab hallata sisuhaldustarkvaraga. Kliendile, kel puudub
+  Koostame abimaterjalid kodulehe sisu loomiseks ja loome kodulehe proovi ja
+  lõpp versiooni, mida saab hallata sisuhaldustarkvaraga. Kliendile, kel puudub
   kodulehe loomiseks vajalik materjal pakume teksti kirjutamise ja fotograafi
   teenust.
 intro:
