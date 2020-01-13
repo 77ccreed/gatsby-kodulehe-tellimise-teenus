@@ -1,14 +1,14 @@
 ---
 templateKey: index-page
-title: Kiire kodulehe tellimine
+title: Kodulehe tellimine ettevõtjale
 image: /img/abstract-background-abstract-oil-painting-abstract-painting-1629236.jpg
 heading: Great coffee with a conscience
-subheading: Kui soovid oma kodulehega inimesteni jõuda
+subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Kodulehe tellimine lihtsalt
   description: >-
-    Sisuloojale, kellel on soov oma toote, teenuse, blogi vms. jõudmiseks suure
-    hulga inimesteni interneti otsingumootori orgaanilise otsingu kaudu.
+    Külastajateni jõudmiseks pole vaja reklaamile ja teistele
+    turundustegevustele aega ja raha enam tingimata kulutada.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
