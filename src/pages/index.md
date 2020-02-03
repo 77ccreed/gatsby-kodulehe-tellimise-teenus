@@ -1,19 +1,19 @@
 ---
 templateKey: index-page
-title: Kiire kodulehe tellimine
+title: Kodulehe tellimine ettevõtjale
 image: /img/abstract-background-abstract-oil-painting-abstract-painting-1629236.jpg
-heading: Great coffee with a conscience
-subheading: Kui soovid oma kodulehega inimesteni jõuda
+heading: Täislahendus koos veebimajutusega
+subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: Kodulehe tellimine lihtsalt
+  title: Ettevõtte turundus läbi kodulehe
   description: >-
-    Sisuloojale, kellel on soov oma toote, teenuse, blogi vms. jõudmiseks suure
-    hulga inimesteni interneti otsingumootori orgaanilise otsingu kaudu.
+    Külastajateni jõudmiseks pole enam reklaamile ja teistele
+    turundustegevustele aega ja raha vaja tingimata kulutada.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Koostame abimaterjalid kodulehe sisu loomiseks ja loome kodulehe proovi ja
+  lõpp versiooni, mida saab hallata sisuhaldustarkvaraga. Kliendile, kel puudub
+  kodulehe loomiseks vajalik materjal pakume teksti kirjutamise ja fotograafi
+  teenust.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,10 +45,10 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
+    Kdgddfvaldi is the ultimate spot for coffee lovers who want to learn about
+    their java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    knowledge to anyone. This is an edit via identity...dfgddfd
 main:
   heading: Great coffee with no compromises
   description: >
