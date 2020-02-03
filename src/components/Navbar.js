@@ -75,9 +75,6 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/kodulehe-tellimine">
                 Tellimine
               </Link>
-              <Link className="navbar-item" to="/kodulehe-tellimine/examples">
-                Form Examples
-              </Link>
             </div>
             <div className="navbar-end has-text-centered">
               <a

@@ -90,18 +90,18 @@ export const IndexPageTemplate = ({
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/ettevõtjale">
-                        Kõik meie teenused
+                        Sobiv lahendus ettevõtjale
                     </Link>
                     </div>
                   </div>
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      Tehtud kodulehed
+                      Kodulehe loomiseks vajalikud teenused
                   </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/teenused">
-                        Tehtud kodulehed
+                        Kõik teenused
                     </Link>
                     </div>
                   </div>
