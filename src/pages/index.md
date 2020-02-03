@@ -2,47 +2,47 @@
 templateKey: index-page
 title: Kodulehe tellimine ettevõtjale
 image: /img/abstract-background-abstract-oil-painting-abstract-painting-1629236.jpg
-heading: Täislahendus koos veebimajutusega
+heading: Programeerimine ja arvutialane konsultatsioon
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Ettevõtte turundus läbi kodulehe
   description: >-
-    Külastajateni jõudmiseks pole enam reklaamile ja teistele
-    turundustegevustele aega ja raha vaja tingimata kulutada.
+    Parim viis kliendini jõudmiseks on tänapäevane koduleht. Pole vaja
+    reklaamile ja teistele turundustegevustele tingimata aega ja raha enam
+    kulutada, et konkurentidest edukam olla.
 description: >-
-  Koostame abimaterjalid kodulehe sisu loomiseks ja loome kodulehe proovi ja
-  lõpp versiooni, mida saab hallata sisuhaldustarkvaraga. Kliendile, kel puudub
-  kodulehe loomiseks vajalik materjal pakume teksti kirjutamise ja fotograafi
-  teenust.
+  Valmistame abimaterjalid kodulehe sisu loomiseks ja loome kodulehe proovi ja
+  valmis versiooni, mida saad hallata sisuhaldustarkvaraga Netlify CMS.
+  Kliendile, kel puudub kodulehe loomiseks vajalik materjal pakume teksti
+  kirjutamise teenust.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/advice-advise-advisor-business-7075.jpg
+      text: >+
+        Kohtumine kliendi valitud kohas aitab täpselt välja selgitada, mida on
+        vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja
+        orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimiseks ja
+        maksetingimuste paikapanemiseks
+
+
+    - image: /img/ballpen-blur-close-up-computer-461077.jpg
+      text: >-
+        Valmistame abimaterjalid kodulehe sisu loomiseks. Hindame ettevõtte
+        positsiooni turul ja konkurente. Loome ettevõtte kodulehe
+        prooviversiooni ja aitame ettevõtjal kodulehe haldamiseks vajaliku
+        sisuhaldustarkvara kasutusele võtta.
+    - image: /img/photo-of-person-typing-on-computer-keyboard-735911.jpg
+      text: >-
+        Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
+        veebimajutuse ja teostame vajadusel garantiitööd. Koduehe külastatavuse
+        statistika järgi selgitame välja võimalikud edasised tegevused ettevõtte
+        kodulehe  viimiseks veelgi suurema arvu inimesteni.
+    - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Võimalikud lisatööd valminud kodulehel. Isikupärane disain või
+        animatsioon või fotograafi teenus. Kodulehe optimeerimine ja
+        redigeerimine. E kaubanduse ja erinevatele sihtturgudele jõudmiseks
+        mõeldud lahendused. Suuremahulised kontaktvormiga seotud tööd.
   heading: What we offer
   description: >
     Kdgddfvaldi is the ultimate spot for coffee lovers who want to learn about
