@@ -89,7 +89,7 @@ export const IndexPageTemplate = ({
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/teenused">
+                      <Link className="btn" to="/ettevõtjale">
                         Kõik meie teenused
                     </Link>
                     </div>
@@ -100,7 +100,7 @@ export const IndexPageTemplate = ({
                   </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/tehtud-kodulehed">
+                      <Link className="btn" to="/teenused">
                         Tehtud kodulehed
                     </Link>
                     </div>

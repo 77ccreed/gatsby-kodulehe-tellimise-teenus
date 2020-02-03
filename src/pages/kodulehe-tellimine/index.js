@@ -198,6 +198,28 @@ export default class Index extends React.Component {
 
 
 
+                <h3>Kasutatavad otsingusõnad</h3>
+                <div className='columns'>
+
+                  <div className="field column">
+                    <label className="label" htmlFor={'sotsiaalmeedia'}>
+                      Otsingusõnad, mida soovid kasutada
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'sotsiaalmeedia'}
+                        onChange={this.handleChange}
+                        id={'sotsiaalmeedia'}
+                        required={true}
+                        placeholder={'Lisa sõnad'}
+                      />
+                    </div>
+                  </div>
+
+
+                </div>
 
 
 
@@ -309,7 +331,7 @@ export default class Index extends React.Component {
                         onChange={this.handleChange}
                         id={'sotsiaalmeedia'}
                         required={true}
-                        placeholder={'Lisa oma sotsiaalmeediakontod, mida soovid kodulehe päises ja jaluses kasutada'}
+                        placeholder={'Lisa oma sotsiaalmeediakontod'}
                       />
                     </div>
                   </div>
@@ -334,6 +356,12 @@ export default class Index extends React.Component {
 
 
                 </div>
+
+
+
+
+
+
 
 
 
