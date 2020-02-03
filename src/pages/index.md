@@ -17,7 +17,7 @@ description: >-
   kirjutamise teenust.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/advice-advise-advisor-business-7075.jpg
       text: >+
         Kohtumine kliendi valitud kohas aitab täpselt välja selgitada, mida on
         vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja
@@ -25,19 +25,19 @@ intro:
         maksetingimuste paikapanemiseks
 
 
-    - image: /img/coffee-gear.png
+    - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
         Valmistame abimaterjalid kodulehe sisu loomiseks. Hindame ettevõtte
         positsiooni turul ja konkurente. Loome ettevõtte kodulehe
         prooviversiooni ja aitame ettevõtjal kodulehe haldamiseks vajaliku
         sisuhaldustarkvara kasutusele võtta.
-    - image: /img/tutorials.png
+    - image: /img/photo-of-person-typing-on-computer-keyboard-735911.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
         veebimajutuse ja teostame vajadusel garantiitööd. Koduehe külastatavuse
         statistika järgi selgitame välja võimalikud edasised tegevused ettevõtte
         kodulehe  viimiseks veelgi suurema arvu inimesteni.
-    - image: /img/meeting-space.png
+    - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
         Võimalikud lisatööd valminud kodulehel. Isikupärane disain või
         animatsioon või fotograafi teenus. Kodulehe optimeerimine ja
