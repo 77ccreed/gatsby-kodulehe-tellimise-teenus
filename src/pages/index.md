@@ -1,20 +1,19 @@
 ---
 templateKey: index-page
-title: Kodulehe tellimine ettevõtjale
+title: Ettevõtte kodulehe tegemine
 image: /img/abstract-background-abstract-oil-painting-abstract-painting-1629236.jpg
 heading: Programeerimine ja arvutialane konsultatsioon
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: Ettevõtte turundus läbi kodulehe
+  title: Turundus läbi kodulehe
   description: >-
-    Parim viis kliendini jõudmiseks on tänapäevane koduleht. Pole vaja
-    reklaamile ja teistele turundustegevustele tingimata aega ja raha enam
-    kulutada, et konkurentidest edukam olla.
+    Parim viis kliendini jõudmiseks. Pole vaja reklaamile ja teistele
+    turundustegevustele tingimata aega ja raha enam kulutada.
 description: >-
-  Valmistame abimaterjalid kodulehe sisu loomiseks ja loome kodulehe proovi ja
-  valmis versiooni, mida saad hallata sisuhaldustarkvaraga Netlify CMS.
-  Kliendile, kel puudub kodulehe loomiseks vajalik materjal pakume teksti
-  kirjutamise teenust.
+  Toome suurema külastatavuse, sest Google kuvab meie lehti eelisjärjekorras.
+  Meie poolt kasutatava React JS-ga on võimalik luua mahukaid kodulehti, mis
+  võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte
+  kasutades. Pakume teenust täislahendusena koos veebimajutusega.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
@@ -34,13 +33,13 @@ intro:
     - image: /img/photo-of-person-typing-on-computer-keyboard-735911.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
-        veebimajutuse ja teostame vajadusel garantiitööd. Koduehe külastatavuse
-        statistika järgi selgitame välja võimalikud edasised tegevused ettevõtte
-        kodulehe  viimiseks veelgi suurema arvu inimesteni.
+        veebimajutuse ja teostame vajadusel garantiitööd. Selgitame välja
+        võimalikud edasised tegevused ettevõtte kodulehe  viimiseks veelgi
+        suurema arvu inimesteni.
     - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
-        Võimalikud lisatööd valminud kodulehel. Isikupärane disain või
-        animatsioon või fotograafi teenus. Kodulehe optimeerimine ja
+        Võimalikud lisatööd valminud kodulehel. Vali isikupärane disain või
+        animatsioon. Pakume fotograafi teenust. Kodulehe optimeerimine ja
         redigeerimine. E kaubanduse ja erinevatele sihtturgudele jõudmiseks
         mõeldud lahendused. Suuremahulised kontaktvormiga seotud tööd.
   heading: What we offer
