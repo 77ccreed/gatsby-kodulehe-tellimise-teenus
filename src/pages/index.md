@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Ettevõtte kodulehe tellimine
-image: /img/abstract-background-abstract-oil-painting-abstract-painting-1629236.jpg
+title: Ettevõtte kodulehe tegemine
+image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Programeerimine ja arvutialane konsultatsioon
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
