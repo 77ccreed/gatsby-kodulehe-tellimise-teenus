@@ -2,39 +2,25 @@
 templateKey: product-page
 title: Teenus ettevõtjale
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
-heading: Konkurentsieelis läbi uuema tehnoloogia kasutamise
+heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
-  Eestis kasutatakse kodulehtede tegemiseks valdavalt WordPress-i ja PHP
-  põhiseid lahendusi. Valdav enamus kodulehtedest tehakse neid tehnoloogiaid
-  kasutades. Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt
-  vähe ja neid kasutavad peamiselt suured ettevõtted,
+  Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse aega
+  ja vaeva, mis kulub hea teksti kirjutamisele. Meie pakutav kodulehe tellimise
+  teenus teeb kliendi jaoks selle lihtsamaks ja ühendab endas parima tänasel
+  päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud
+  teksti.
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >-
-
-        Üheleherakendus on veebirakendus või veebisait, mis suhtlusel kasutajaga
-        kirjutab käesoleva veebilehe dünaamiliselt üle, selle asemel et
-        serverist tervet uut lehte alla laadida. See tähendab, et rakendus
-        jookseb täielikult klientarvuti veebilehitsejas, luues sujuvama
-        kasutajakogemuse ilma katkestusteta eri lehtede vahel. Niimoodi jääb
-        mulje, et rakendus töötab nagu töölauaprogramm, kuna kogu informatsioon
-        laetakse alla esimese korraga või dünaamiliselt vastuseks kasutaja
-        tegevustele ning lisatakse vajaduste kohaselt lehele. Selline veebileht
-        ei lae ennast kasutussessiooni jooksul kordagi uuesti ega suuna
-        kontrolli edasi uuele lehele, kuigi eri tööriistadega, näiteks HTML5
-        History API, võib tekkida mulje, et laetakse uusi lehti juurde või
-        navigeeritakse teistele lehtedele.
-
-
-        Meie loodavad üheleherakendused 
+        Valmistame üheleherakendus tüüpi veebilehti, mis loovad sujuva
+        kasutajakogemuse ilma katkestusteta eri lehtede vahel. Loodud koduleht
+        töötab nagu töölauaprogramm. Selliseid kodulehti tehakse Eestis endiselt
+        vähe ja see annab Google otsingumootoris eelise.
     - image: /img/coffee-gear.png
-      text: >
-        Lisaks teksti kirjutamise teenus kliendile, kel puudub võimalus või
-        oskus kodulehe sisu loomiseks. Lisateenuse eesmärk on aidata kliendil
-        luua kodulehe sisu ja  pakkuda konsultatsiooni, et ta oleks võimeline
-        seda edaspidi ise tegema. Näit. kuidas muuta kodulehel olevat teksti ja
-        lisada telefonist pilte kodulehele.
+      text: >-
+        Vajadusel aitame kodulehe sisu loomisel. Lähtume kliendi tootest või
+        teenusest. 
     - image: /img/tutorials.png
       text: Sisuhaldustarkvara ja konsultatsioon
     - image: /img/meeting-space.png
