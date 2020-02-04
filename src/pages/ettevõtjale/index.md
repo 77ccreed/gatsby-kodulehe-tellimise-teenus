@@ -1,32 +1,46 @@
 ---
 templateKey: product-page
 title: Teenus ettevõtjale
-image: /img/designer-monitor-screen-concept-965345.jpg
+image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbi uuema tehnoloogia kasutamise
 description: >-
-  Meie pakutava teenuse konkurentsieelis teiste kodulehe tegijate ees on uuema
-  tehnoloogia kasutamine. Loome üheleherakendusi, mille tulemusel on valminud
-  kodulehed kiiremad ja paremini otsingumootoritele optimeeritud. See tagab
-  suurema külastatavuse ja parema kasutajakogemuse.
+  Eestis kasutatakse kodulehtede tegemiseks valdavalt WordPress-i ja PHP
+  põhiseid lahendusi. Valdav enamus kodulehtedest tehakse neid tehnoloogiaid
+  kasutades. Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt
+  vähe ja neid kasutavad peamiselt suured ettevõtted,
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
+      text: >-
 
-        Jõudlus - mõõdetakse kui kiiresti jõuab esimene pilt avakuvale peale
-        lehe laadimist. Ja kuna see interaktiivseks muutub.
+        Üheleherakendus on veebirakendus või veebisait, mis suhtlusel kasutajaga
+        kirjutab käesoleva veebilehe dünaamiliselt üle, selle asemel et
+        serverist tervet uut lehte alla laadida. See tähendab, et rakendus
+        jookseb täielikult klientarvuti veebilehitsejas, luues sujuvama
+        kasutajakogemuse ilma katkestusteta eri lehtede vahel. Niimoodi jääb
+        mulje, et rakendus töötab nagu töölauaprogramm, kuna kogu informatsioon
+        laetakse alla esimese korraga või dünaamiliselt vastuseks kasutaja
+        tegevustele ning lisatakse vajaduste kohaselt lehele. Selline veebileht
+        ei lae ennast kasutussessiooni jooksul kordagi uuesti ega suuna
+        kontrolli edasi uuele lehele, kuigi eri tööriistadega, näiteks HTML5
+        History API, võib tekkida mulje, et laetakse uusi lehti juurde või
+        navigeeritakse teistele lehtedele.
+
+
+        Meie loodavad üheleherakendused 
     - image: /img/coffee-gear.png
       text: >
-        Kättesaadavus - Kontrollib levinumaid probleeme, mis võivad takistada
-        kasutajatel lehe sisule juurde pääseda.
+        Lisaks teksti kirjutamise teenus kliendile, kel puudub võimalus või
+        oskus kodulehe sisu loomiseks. Lisateenuse eesmärk on aidata kliendil
+        luua kodulehe sisu ja  pakkuda konsultatsiooni, et ta oleks võimeline
+        seda edaspidi ise tegema. Näit. kuidas muuta kodulehel olevat teksti ja
+        lisada telefonist pilte kodulehele.
     - image: /img/tutorials.png
-      text: >
-        Programmeerimisel kasutatud parim praktika - mõõdetakse kõike alates
-        HTTPS-i kasutamisest kuni pildi kuvasuhte korrigeerimiseni.
+      text: Sisuhaldustarkvara ja konsultatsioon
     - image: /img/meeting-space.png
       text: >-
-        Otsingumootoritele optimeeritus (SEO) - parimate tavade kontrollimine
-        kodulehe leitavuse tagamiseks.
+        Soovin välja kujundada kindla kliendibaasi, kellele valmistan esmalt
+        kodulehed ja hiljem vajadusel arendan neid edasi.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
