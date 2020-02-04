@@ -1,14 +1,15 @@
 ---
 templateKey: index-page
-title: Ettevõtte kodulehe tegemine
+title: Ettevõtte kodulehe tellimine
 image: /img/abstract-background-abstract-oil-painting-abstract-painting-1629236.jpg
 heading: Programeerimine ja arvutialane konsultatsioon
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Turundus läbi kodulehe
   description: >-
-    Parim viis kliendini jõudmiseks. Pole vaja reklaamile ja teistele
-    turundustegevustele tingimata aega ja raha enam kulutada.
+    Parim viis kliendini jõudmiseks on kodulehe tellimise teenus. Pole vaja
+    reklaamile ja teistele turundustegevustele tingimata aega ja raha enam
+    kulutada.
 description: >-
   Toome suurema külastatavuse, sest Google kuvab meie lehti eelisjärjekorras.
   Meie poolt kasutatava React JS-ga on võimalik luua mahukaid kodulehti, mis
@@ -21,7 +22,7 @@ intro:
         Kohtumine kliendi valitud kohas aitab täpselt välja selgitada, mida on
         vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja
         orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimiseks ja
-        maksetingimuste paikapanemiseks
+        maksetingimuste paikapanemiseks.
 
 
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
@@ -34,20 +35,18 @@ intro:
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
         veebimajutuse ja teostame vajadusel garantiitööd. Selgitame välja
-        võimalikud edasised tegevused ettevõtte kodulehe  viimiseks veelgi
-        suurema arvu inimesteni.
+        võimalikud edasised tegevused ettevõtte kodulehel.
     - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
-        Võimalikud lisatööd valminud kodulehel. Vali isikupärane disain või
-        animatsioon. Pakume fotograafi teenust. Kodulehe optimeerimine ja
-        redigeerimine. E kaubanduse ja erinevatele sihtturgudele jõudmiseks
-        mõeldud lahendused. Suuremahulised kontaktvormiga seotud tööd.
-  heading: What we offer
+        Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale
+        projektile aitab kaasas käia turul toimuvate muutustega ja reageerida
+        konkurentide tegevusele.       
+  heading: Miks valida meid
   description: >
-    Kdgddfvaldi is the ultimate spot for coffee lovers who want to learn about
-    their java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...dfgddfd
+    Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
+    aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe tellimise teenus
+    teeb selle lihtsaks ja ühendab endas parima tänasel päeval kodulehtede
+    loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
 main:
   heading: Great coffee with no compromises
   description: >
