@@ -1,12 +1,13 @@
 ---
 templateKey: product-page
-title: Ettevõtjale
-image: /img/abstract-expressionism-art-background-2011824.jpg
-heading: Turundus läbi kodulehe
+title: Teenus ettevõtjale
+image: /img/designer-monitor-screen-concept-965345.jpg
+heading: Konkurentsieelis läbi uuema tehnoloogia kasutamise
 description: >-
-  Kui soovid turunduseks ettevõtte kodulehte kasutada. Hea on kui  kodulehe sisu
-  on juba olemas. Näiteks äriplaan vms. Vajadusel abistame teksti loomise ja
-  fotograafi teenusega. 
+  Meie pakutava teenuse konkurentsieelis teiste kodulehe tegijate ees on uuema
+  tehnoloogia kasutamine. Loome üheleherakendusi, mille tulemusel on valminud
+  kodulehed kiiremad ja paremini otsingumootoritele optimeeritud. See tagab
+  suurema külastatavuse ja parema kasutajakogemuse.
 intro:
   blurbs:
     - image: /img/coffee.png
