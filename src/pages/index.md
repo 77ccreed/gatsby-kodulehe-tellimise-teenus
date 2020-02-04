@@ -39,8 +39,8 @@ intro:
     - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
         Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale
-        projektile aitab kaasas käia turul toimuvate muutustega ja reageerida
-        konkurentide tegevusele.       
+        projektile aitab ennetada turul toimuvaid muutuseid ja konkurentidest
+        edukam olla.       
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
