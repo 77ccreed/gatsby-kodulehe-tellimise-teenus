@@ -5,7 +5,7 @@ image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
   Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse aega
-  ja vaeva, mis kulub hea teksti kirjutamisele. Meie pakutav kodulehe tellimise
+  ja vaeva, mis kulub hea teksti kirjutamisele. Pakutav kodulehe tellimise
   teenus teeb kliendi jaoks selle lihtsamaks ja ühendab endas parima tänasel
   päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud
   teksti.
@@ -13,20 +13,32 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >-
-        Valmistame üheleherakendus tüüpi veebilehti, mis loovad sujuva
-        kasutajakogemuse ilma katkestusteta eri lehtede vahel. Loodud koduleht
+        Valmistame üheleherakendus tüüpi veebilehti, et luua sujuv
+        kasutajakogemus ilma katkestusteta eri lehtede vahel. Loodud koduleht
         töötab nagu töölauaprogramm. Selliseid kodulehti tehakse Eestis endiselt
         vähe ja see annab Google otsingumootoris eelise.
     - image: /img/coffee-gear.png
       text: >-
-        Vajadusel aitame kodulehe sisu loomisel. Lähtume kliendi tootest või
-        teenusest. 
+        Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
+        aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
+        kirjutamise teenus teeb kliendi jaoks selle lihtsamaks ja ühendab parima
+        tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti
+        keeles loodud teksti..
     - image: /img/tutorials.png
-      text: Sisuhaldustarkvara ja konsultatsioon
+      text: >-
+        Aitame tellijal kodulehe sisuhaldustarkvara kasutusele võtta.
+        Konsultatsioon hõlbustab edaspidist kodulehe sisu loomist ja
+        kaasajastamist. Anname ülevaate, millisena paistab tema ja konkurendid
+        Google otsingus ja mida saab teha ettevõtte leitavuse parandamiseks.
+        Kiire koduleht Netlify CMS sisuhaldustarkvaraga. Kolm muudetava sisuga
+        lehte - pealeht, meist ja tooted. Lisaks blogi kollektsioon ja leht
+        Netlify Form toega.
     - image: /img/meeting-space.png
       text: >-
-        Soovin välja kujundada kindla kliendibaasi, kellele valmistan esmalt
-        kodulehed ja hiljem vajadusel arendan neid edasi.
+        Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
+        lihtsaid ja hästi töötavaid lahendusi. Meie eesmärk on välja kujundada
+        kindel kliendibaas, kellele valmistame esmalt kodulehe ja hiljem
+        vajadusel arendame neid edasi.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -34,11 +46,13 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Tänapäevane lahendus sisuloojale kodulehe loomiseks
+  heading: Tänapäevane lahendus ettevõtte kodulehe loomiseks
   description: >-
-    Kiire ja lihtne koduleht Netlify CMS sisuhaldustarkvaraga. Kolm muudetava
-    sisuga lehte - pealeht, meist ja tooted. Lisaks blogi kollektsioon ja leht
-    Netlify Form toega.
+    Eestis kasutatakse kodulehtede tegemiseks valdavalt WordPress-i ja PHP
+    põhiseid lahendusi. Valdav osa kodulehtedest tehakse neid tehnoloogiaid
+    kasutades. Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt
+    vähe ja neid kasutavad peamiselt suured ettevõtted, kes peavad ülal enda
+    arendajate meeskondi. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -49,20 +63,16 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: OÜ Kodulehe Tellimine
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
+      lihtsaid ja hästi töötavaid lahendus.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Lisatööd valminud lehel
+  heading: Lisatööd valminud lehel ja muud teenused
   description: >-
-    Funktsionaalsuse ja isikupära lisamine juba valminud kodulehel. Lai valik
-    võimalusi kodulehte edasi arendada.
+    Funktsionaalsuse ja isikupära lisamine valminud kodulehel. Võimalus
+    kodulehte edasi arendada.
   plans:
     - description: Kodulehel väiksemate muutuste tegemiseks.
       items:
@@ -72,7 +82,7 @@ pricing:
         - konsultatsioon
         - fotograafi teenus
       plan: Lühiajaline projekt
-      price: '400'
+      price: '600'
     - description: Kodulehel suuremate muutuste tegemiseks.
       items:
         - kodulehe sisu kirjutamine - kolm lehte
