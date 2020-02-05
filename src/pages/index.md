@@ -7,14 +7,13 @@ subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Turundus läbi kodulehe
   description: >-
-    Parim viis kliendini jõudmiseks on kodulehe tellimise teenus. Pole vaja
+    Parim viis kliendini jõudmiseks on ettevõtte koduleht, sest pole vaja
     reklaamile ja teistele turundustegevustele tingimata aega ja raha enam
     kulutada.
 description: >-
-  Toome suurema külastatavuse, sest Google kuvab meie lehti eelisjärjekorras.
-  Meie poolt kasutatava React JS-ga on võimalik luua mahukaid kodulehti, mis
-  võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte
-  kasutades. Pakume teenust täislahendusena koos veebimajutusega.
+  Ettevõtjale, kellel on toode või teenus ja soov seda turustada interneti
+  kaudu.  Kui tahad, et sinu ettevõtte koduleht oleks suurema külastatavusega
+  kui konkurendi oma ja omaks konkurentsieelist Google otsingumootoris.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
