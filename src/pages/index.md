@@ -29,18 +29,17 @@ intro:
       text: >-
         Valmistame abimaterjalid kodulehe sisu loomiseks. Hindame ettevõtte
         positsiooni turul ja konkurente. Loome ettevõtte kodulehe
-        prooviversiooni ja aitame ettevõtjal kodulehe haldamiseks vajaliku
-        sisuhaldustarkvara kasutusele võtta.
+        prooviversiooni ja aitame sisuhaldustarkvara kasutusele võtta.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
-        veebimajutuse ja teostame vajadusel garantiitööd. Selgitame välja
-        võimalikud edasised tegevused ettevõtte kodulehel.
+        veebimajutuse ja vajadusel teostame garantiitööd. Selgitame välja
+        võimalikud edasised tegevused.
     - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
         Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale
-        projektile aitab ennetada turul toimuvaid muutuseid ja konkurentidest
-        edukam olla.       
+        projektile aitab ennetada turul toimuvaid muutuseid ja tagab edu
+        konkurentide ees.       
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
@@ -56,12 +55,12 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/computer-data-display-documents-577210.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/screenshot_2020-02-05-web-dev.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/advice-advise-advisor-business-7075.jpg
 ---
 
