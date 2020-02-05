@@ -61,7 +61,7 @@ main:
     image: /img/businessman-man-space-desk-7059.jpg
   image3:
     alt: Coffee beans
-    image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+    image: /img/screenshot_2020-02-05-web-dev.png
 testimonials:
   - author: OÜ Kodulehe Tellimine
     quote: >-
