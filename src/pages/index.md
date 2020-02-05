@@ -13,7 +13,8 @@ mainpitch:
 description: >-
   Ettevõtjale, kellel on toode või teenus ja soov seda turustada interneti
   kaudu.  Kui tahad, et sinu ettevõtte koduleht oleks suurema külastatavusega
-  kui konkurendi oma ja omaks konkurentsieelist Google otsingumootoris.
+  kui konkurendi oma ja soovid konkurentsieelist Google otsingumootoris. Pakume
+  seda uuema tehnoloogia kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
@@ -30,7 +31,7 @@ intro:
         positsiooni turul ja konkurente. Loome ettevõtte kodulehe
         prooviversiooni ja aitame ettevõtjal kodulehe haldamiseks vajaliku
         sisuhaldustarkvara kasutusele võtta.
-    - image: /img/photo-of-person-typing-on-computer-keyboard-735911.jpg
+    - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
         veebimajutuse ja teostame vajadusel garantiitööd. Selgitame välja
