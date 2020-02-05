@@ -36,14 +36,10 @@ class BlogRoll extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
                   </p>
                 </header>
                 <p>
-                  {post.excerpt}
+                  {post.frontmatter.description}
                   <br />
                   <br />
                   <Link className="button" to={post.fields.slug}>
@@ -83,6 +79,7 @@ export default () => (
               }
               frontmatter {
                 title
+                description
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
                 featuredpost

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kiire kodulehe tellimine sisuloojale',
+    title: 'Ettevõtte kodulehe tellimine',
     description:
-      'Kliendile, kellel on soov oma toote, teenuse, blogi vms. jõudmiseks suure hulga inimesteni interneti otsingumootorite orgaanilise otsingu kaudu.',
+      'Programeerimine ja arvutialane konsultatsioon ettevõtjale, kellel on toode või teenus ja soov seda turustada interneti kaudu. Kui tahad, et sinu ettevõtte koduleht oleks suurema külastatavusega kui konkurendil.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
