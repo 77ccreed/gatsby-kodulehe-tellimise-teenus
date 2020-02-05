@@ -58,7 +58,7 @@ main:
     image: /img/computer-data-display-documents-577210.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/screenshot_2020-02-05-web-dev.png
+    image: /img/businessman-man-space-desk-7059.jpg
   image3:
     alt: Coffee beans
     image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
@@ -67,7 +67,7 @@ testimonials:
     quote: >-
       Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
       lihtsaid ja hästi töötavaid lahendus.
-full_image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+full_image: /img/screenshot_2020-02-05-web-dev.png
 pricing:
   heading: Lisatööd valminud lehel ja muud teenused
   description: >-
