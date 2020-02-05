@@ -55,19 +55,19 @@ main:
     arendajate meeskondi. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/computer-data-display-documents-577210.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/screenshot_2020-02-05-web-dev.png
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 testimonials:
   - author: OÜ Kodulehe Tellimine
     quote: >-
       Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
       lihtsaid ja hästi töötavaid lahendus.
-full_image: /img/products-full-width.jpg
+full_image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 pricing:
   heading: Lisatööd valminud lehel ja muud teenused
   description: >-
