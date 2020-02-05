@@ -11,20 +11,20 @@ description: >-
   teksti.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
         Valmistame üheleherakendus tüüpi veebilehti, et luua sujuv
         kasutajakogemus ilma katkestusteta eri lehtede vahel. Loodud koduleht
         töötab nagu töölauaprogramm. Selliseid kodulehti tehakse Eestis endiselt
         vähe ja see annab Google otsingumootoris eelise.
-    - image: /img/coffee-gear.png
+    - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
         Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
         aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
         kirjutamise teenus teeb kliendi jaoks selle lihtsamaks ja ühendab parima
         tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti
         keeles loodud teksti..
-    - image: /img/tutorials.png
+    - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Aitame tellijal kodulehe sisuhaldustarkvara kasutusele võtta.
         Konsultatsioon hõlbustab edaspidist kodulehe sisu loomist ja
@@ -33,7 +33,7 @@ intro:
         Kiire koduleht Netlify CMS sisuhaldustarkvaraga. Kolm muudetava sisuga
         lehte - pealeht, meist ja tooted. Lisaks blogi kollektsioon ja leht
         Netlify Form toega.
-    - image: /img/meeting-space.png
+    - image: /img/computer-data-display-documents-577210.jpg
       text: >-
         Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
         lihtsaid ja hästi töötavaid lahendusi. Meie eesmärk on välja kujundada
