@@ -59,7 +59,7 @@ testimonials:
     quote: >-
       Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
       lihtsaid ja hästi töötavaid lahendus.
-full_image: /img/screenshot_2020-02-05-web-dev.png
+full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
   heading: Lisatööd valminud lehel ja muud teenused
   description: >-
