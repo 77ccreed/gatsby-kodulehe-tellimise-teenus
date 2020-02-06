@@ -4,32 +4,33 @@ title: Teenus ettevõtjale
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
-  Kodulehe tellimise teenus ühendab parima tänasel päeval kodulehtede loomiseks
-  mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
+  Kodulehe eelis teiste turunduskanalite ees on, et see jõuab inimesteni, kes
+  ise aktiivselt otsivad endale vajalikku toodet või teenust. Meie teenuse eelis
+  teiste kodulehe tegijate ees on uuema tehnoloogia kasutamine, mis tagab parema
+  koha Google otsingus. 
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
         Valmistame üheleherakendus tüüpi veebilehti, mis loovad sujuva
         kasutajakogemuse. Loodud koduleht töötab nagu töölauaprogramm. Selliseid
-        kodulehti tehakse Eestis endiselt vähe ja see annab Google
-        otsingumootoris eelise.
+        kodulehti tehakse Eestis endiselt vähe ja see annab eelise.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
         Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
         aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
-        kirjutamise teenus teeb kliendi jaoks selle lihtsamaks.
+        kirjutamise teenus teeb kliendi jaoks selle lihtsaks.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
-        Aitame tellijal kodulehe sisuhaldustarkvara kasutusele võtta.
-        Konsultatsioon hõlbustab edaspidist kodulehe sisu loomist. Anname
-        ülevaate, millisena paistab klient ja konkurendid Google otsingus ja
-        mida saab teha ettevõtte leitavuse parandamiseks.
+        Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
+        hõlbustab edaspidist kodulehe sisu loomist. Anname ülevaate, millisena
+        paistab klient ja konkurendid Google otsingus ja mida saab teha
+        ettevõtte leitavuse parandamiseks.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
-        Meie eesmärk on kasvada koos kliendiga. Kujundame kindla kliendibaasi,
-        kellele esmalt valmistame kodulehe ja hiljem vajaduse tekkides arendame
-        neid edasi.
+        Meie eesmärk on pikaajaline koostöö ja kasvada koos kliendiga. Esmalt
+        valmistame kodulehe ja hiljem vajaduse tekkides arendame neid edasi
+        funktsionaalsust lisades.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
