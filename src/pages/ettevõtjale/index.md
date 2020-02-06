@@ -4,41 +4,32 @@ title: Teenus ettevõtjale
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
-  Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse aega
-  ja vaeva, mis kulub hea teksti kirjutamisele. Pakutav kodulehe tellimise
-  teenus teeb kliendi jaoks selle lihtsamaks ja ühendab endas parima tänasel
-  päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud
-  teksti.
+  Kodulehe tellimise teenus ühendab parima tänasel päeval kodulehtede loomiseks
+  mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
-        Valmistame üheleherakendus tüüpi veebilehti, et luua sujuv
-        kasutajakogemus ilma katkestusteta eri lehtede vahel. Loodud koduleht
-        töötab nagu töölauaprogramm. Selliseid kodulehti tehakse Eestis endiselt
-        vähe ja see annab Google otsingumootoris eelise.
+        Valmistame üheleherakendus tüüpi veebilehti, mis loovad sujuva
+        kasutajakogemuse. Loodud koduleht töötab nagu töölauaprogramm. Selliseid
+        kodulehti tehakse Eestis endiselt vähe ja see annab Google
+        otsingumootoris eelise.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
         Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
         aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
-        kirjutamise teenus teeb kliendi jaoks selle lihtsamaks ja ühendab parima
-        tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti
-        keeles loodud teksti..
+        kirjutamise teenus teeb kliendi jaoks selle lihtsamaks.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Aitame tellijal kodulehe sisuhaldustarkvara kasutusele võtta.
-        Konsultatsioon hõlbustab edaspidist kodulehe sisu loomist ja
-        kaasajastamist. Anname ülevaate, millisena paistab tema ja konkurendid
-        Google otsingus ja mida saab teha ettevõtte leitavuse parandamiseks.
-        Kiire koduleht Netlify CMS sisuhaldustarkvaraga. Kolm muudetava sisuga
-        lehte - pealeht, meist ja tooted. Lisaks blogi kollektsioon ja leht
-        Netlify Form toega.
+        Konsultatsioon hõlbustab edaspidist kodulehe sisu loomist. Anname
+        ülevaate, millisena paistab klient ja konkurendid Google otsingus ja
+        mida saab teha ettevõtte leitavuse parandamiseks.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
-        Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
-        lihtsaid ja hästi töötavaid lahendusi. Meie eesmärk on välja kujundada
-        kindel kliendibaas, kellele valmistame esmalt kodulehe ja hiljem
-        vajadusel arendame neid edasi.
+        Meie eesmärk on kasvada koos kliendiga. Kujundame kindla kliendibaasi,
+        kellele esmalt valmistame kodulehe ja hiljem vajaduse tekkides arendame
+        neid edasi.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
