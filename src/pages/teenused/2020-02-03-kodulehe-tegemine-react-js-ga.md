@@ -12,6 +12,8 @@ tags:
   - teenused
   - põhiteenus
 ---
+![Kodulehe tellimise kodulehe mõõtmistulemused](/img/screenshot_2020-02-05-web-dev.png "Kodulehe tellimise kodulehe mõõtmistulemused")
+
 ## Kindlat strateegiat omavale ettevõtjale
 
 Kes soovib oma toote või teenusega kliendini jõuda interneti otsingumootori orgaanilise otsingu kaudu. See tähendab, et kliendini jõudmiseks pole vaja tingimata reklaami enam teha.
