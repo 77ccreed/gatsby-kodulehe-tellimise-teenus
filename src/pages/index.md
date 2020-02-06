@@ -13,16 +13,16 @@ mainpitch:
 description: >-
   Ettevõtjale, kellel on toode või teenus ja soov seda turustada interneti
   kaudu.  Kui tahad, et sinu ettevõtte koduleht oleks suurema külastatavusega
-  kui konkurendi oma ja soovid konkurentsieelist Google otsingumootoris. Pakume
-  seda uuema tehnoloogia kasutamise näol.
+  kui konkurendi oma. Pakume konkurentsieelist Google otsingumootoris uuema
+  tehnoloogia kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
       text: >+
         Kohtumine kliendi valitud kohas aitab täpselt välja selgitada, mida on
         vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja
-        orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimiseks ja
-        maksetingimuste paikapanemiseks.
+        orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja
+        maksetingimuste paikapanemisel.
 
 
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
@@ -33,8 +33,8 @@ intro:
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
-        veebimajutuse ja vajadusel teostame garantiitööd. Selgitame välja
-        võimalikud edasised tegevused.
+        veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe
+        külastatavust ja selgitame välja võimalikud edasised tegevused.
     - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
         Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale
