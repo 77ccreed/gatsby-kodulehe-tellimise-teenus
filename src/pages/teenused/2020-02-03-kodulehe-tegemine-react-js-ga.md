@@ -1,18 +1,18 @@
 ---
 templateKey: blog-post
 title: Ettevõtte kodulehe tegemine React JS-ga
-date: 2020-01-28T13:15:19.441Z
+date: 2020-02-06T13:15:19.441Z
 description: >-
   Kodulehe tegemine koos veebimajutusega. Loome üheleherakendusi, mille
   tulemusel on valminud kodulehed kiiremad ja paremini otsingumootoritele
   optimeeritud, mis tagab suurema külastatavuse.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
   - teenused
   - põhiteenus
 ---
-![Kodulehe tellimise kodulehe külastatavus](/img/computer-data-display-documents-577210.jpg "Kodulehe tellimise kodulehe külastatavus")
+![Kodulehe tellimise kodulehe külastatavus](/img/ettevõtte-kodulehe-tegemine.jpg "Kodulehe tellimise kodulehe külastatavus")
 
 ### Kindlat strateegiat omavale ettevõtjale
 
@@ -30,8 +30,6 @@ Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See 
 * Kättesaadavus - Kontrollib levinumaid probleeme, mis võivad takistada kasutajatel lehe sisule juurde pääseda.
 * Programmeerimisel kasutatud parim praktika - mõõdetakse kõike alates HTTPS-i kasutamisest kuni pildi kuvasuhte korrigeerimiseni.
 * Otsingumootoritele optimeeritus (SEO) - parimate tavade kontrollimine kodulehe leitavuse tagamiseks.
-
-
 
 ### React JS-ga on võimalik luua mahukaid kodulehti
 
