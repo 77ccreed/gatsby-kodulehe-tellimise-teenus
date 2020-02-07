@@ -7,14 +7,14 @@ description: >-
   Kodulehe eelis teiste turunduskanalite ees on, et see jõuab inimesteni, kes
   ise aktiivselt otsivad endale vajalikku toodet või teenust. Meie teenuse eelis
   teiste kodulehe tegijate ees on uuema tehnoloogia kasutamine, mis tagab parema
-  koha Google otsingus. 
+  koha interneti otsingus. 
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
         Valmistame üheleherakendus tüüpi veebilehti, mis loovad sujuva
-        kasutajakogemuse. Loodud koduleht töötab nagu töölauaprogramm. Selliseid
-        kodulehti tehakse Eestis endiselt vähe ja see annab eelise.
+        kasutajakogemuse. Koduleht töötab nagu töölauaprogramm. Selliseid
+        kodulehti tehakse Eestis endiselt vähe ja see annab ettevõttele eelise.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
         Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
@@ -24,12 +24,12 @@ intro:
       text: >-
         Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
         hõlbustab edaspidist kodulehe sisu loomist. Anname ülevaate, millisena
-        paistab klient ja konkurendid Google otsingus ja mida saab teha
+        paistab klient ja konkurendid interneti otsingus ja mida saab teha
         ettevõtte leitavuse parandamiseks.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
         Meie eesmärk on pikaajaline koostöö ja kasvada koos kliendiga. Esmalt
-        valmistame kodulehe ja hiljem vajaduse tekkides arendame neid edasi
+        valmistame kodulehe ja hiljem vajaduse tekkides arendame seda edasi
         funktsionaalsust lisades.
   heading: What we offer
   description: >
@@ -66,25 +66,24 @@ pricing:
     Funktsionaalsuse ja isikupära lisamine valminud kodulehel. Võimalus
     kodulehte edasi arendada.
   plans:
-    - description: Kodulehel väiksemate muutuste tegemiseks.
+    - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
       items:
-        - kodulehe optimeerimine
-        - disaini muutmine
-        - lihtsam animatsioon
+        - optimeerimine
+        - redigeerimine
         - konsultatsioon
         - fotograafi teenus
       plan: Lühiajaline projekt
       price: '600'
-    - description: Kodulehel suuremate muutuste tegemiseks.
+    - description: Kodulehel suuremate muutuste tegemiseks töömahuga 60 tundi.
       items:
-        - kodulehe sisu kirjutamine - kolm lehte
+        - kodulehe teksti kirjutamine
         - isikupärased disainilahendused
-        - isikupärased animatsioonilahe
+        - isikupärased animatsioonilahendused
       plan: Pikaajaline projekt
       price: '800'
     - description: Kodulehel väga suurte muutuste tegemiseks.
       items:
-        - mitmekeelsed lahendused
+        - erinevatele sihtturgudele mõeldud lahendused
         - e kaubanduse lahendused
         - suuremahulise vormi loomine
         - lisatööjõu kaasamist nõudvad projektid
