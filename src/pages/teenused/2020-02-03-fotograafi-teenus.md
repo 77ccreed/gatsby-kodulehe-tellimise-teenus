@@ -1,11 +1,16 @@
 ---
 templateKey: blog-post
 title: Fotograafi teenus
-date: 2020-02-03T13:37:35.443Z
-description: Fotograafi teenus kodulehe piltide ja videode tegemiseks
-featuredpost: true
-featuredimage: /img/black-dslr-camera-on-white-surface-51383.jpg
+date: 2020-01-30T13:37:35.443Z
+description: >-
+  Fotograafi teenus kodulehe piltide ja videode tegemiseks  fotoaparaadiga Nikon
+  d5500 ja Sigma 18-35mm läätsega.
+featuredpost: false
+featuredimage: /img/black-nikon-dslr-camera-2972766.jpg
 tags:
   - teenused
+  - lisateenus
 ---
-Lisateenus
+![Kodulehe piltide ja videode tegemine](/img/kodulehe-piltide-ja-videode-tegemine.jpg "Kodulehe piltide ja videode tegemine")
+
+Lisateenus ettevõtte kodulehele piltide ja videode tegemiseks ja töötlemiseks.
