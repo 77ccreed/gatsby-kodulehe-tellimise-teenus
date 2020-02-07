@@ -11,15 +11,15 @@ mainpitch:
     reklaamile ja teistele turundustegevustele tingimata aega ja raha enam
     kulutada.
 description: >-
-  Ettevõtjale, kellel on toode või teenus ja soov seda turustada interneti
-  kaudu.  Kui tahad, et sinu ettevõtte koduleht oleks suurema külastatavusega
-  kui konkurendi oma. Pakume konkurentsieelist uuema tehnoloogia kasutamise
-  näol.
+  Kodulehe tegemine ettevõtjale, kellel on toode või teenus ja soov seda
+  turustada.  Kui tahad, et sinu ettevõtte koduleht oleks suurema
+  külastatavusega kui konkurendi oma. Pakume konkurentsieelist uuema tehnoloogia
+  kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
       text: >+
-        Kohtumine kliendi valitud kohas aitab täpselt välja selgitada, mida on
+        Kohtumine tellija valitud kohas aitab täpselt välja selgitada, mida on
         vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja
         orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja
         maksetingimuste paikapanemisel.
@@ -38,8 +38,8 @@ intro:
     - image: /img/blur-close-up-code-computer-546819.jpg
       text: >
         Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale
-        projektile aitab ennetada turul toimuvaid muutuseid ja tagab edu
-        konkurentide ees.       
+        projektile aitab ennetada turul toimuvaid muutuseid ja tagab ettevõttele
+        edu konkurentide ees.       
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
