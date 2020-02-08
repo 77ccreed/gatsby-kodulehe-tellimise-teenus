@@ -19,7 +19,7 @@ intro:
       text: >-
         Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
         aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
-        kirjutamise teenus teeb kliendi jaoks selle lihtsaks.
+        kirjutamise teenus teeb tellija jaoks selle lihtsaks.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
