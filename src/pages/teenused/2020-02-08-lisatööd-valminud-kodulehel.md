@@ -12,17 +12,16 @@ tags:
   - teenused
   - lisateenus
 ---
-
-
 ![](/img/lisatööd-valminud-kodulehel.jpg)
 
-## Loodud kodulehe täiendamine,  -  600 € töömaht 40h (15 €/h)
+## Loodud kodulehe täiendamine - hind 600 €, töömaht 40h (15 €/h)
+
+Loodud kodulehele funktsionaalsuse lisamine või isikupärase välimuse andmine.
 
 * konsultatsioon
 * optimeerimine ja redigeerimine
-* teksti kirjutamine
-* fotode ja videode tegemine ja töötlemine
 * isikupärased disainilahendused
 * isikupärased animatsioonid
 * suuremahulise kontaktvormi loomine
 * e kaubanduse lahendused
+* erinevatele sihtturgudele jõudmiseks mõeldud lahendused
