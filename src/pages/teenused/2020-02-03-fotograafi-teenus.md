@@ -17,6 +17,6 @@ Lisateenus ettevõtte kodulehele piltide ja videode tegemiseks ja töötlemiseks
 
 ![Pilt piprast](/img/dsc_0635.jpg "Pilt piprast")
 
-![Pipra naps](/img/dsc_0559.jpg "Pipra naps")
+![Pipra naps](/img/dsc_0485.nef.jpg "Pipra naps")
 
-![](/img/dsc_0414.jpg)
+![](/img/dsc_0100-3.jpg)
