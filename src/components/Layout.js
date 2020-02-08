@@ -47,6 +47,29 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
+
+        <script type="application/ld+json">
+          {JSON.stringify({
+            "@context": "http://schema.org",
+            "@type": "LocalBusiness",
+            "address": {
+              "@type": "PostalAddress",
+              "addressCountry": "Estonia",
+              "addressLocality": "Valga",
+              "streetAddress": "Petseri 8-53",
+              "postalCode": "	68204"
+            },
+            "description": "Programeerimine ja arvutialane konsultatsioon ettevõtjale.",
+            "name": "OÜ Kodulehe Tellimine",
+            "telephone": "+372 5688 4456",
+            "priceRange": "€€€-€€€€",
+            "areaServed": "Estonia",
+            "founder": "Kiur Jullis"
+
+            //"url": "https://valgaautoaed.ee/",
+            //"image": "https://valgaautoaed.ee/"
+          })}
+        </script>
       </Helmet>
       <Navbar />
       <div>{children}</div>
