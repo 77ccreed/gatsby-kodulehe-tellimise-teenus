@@ -75,7 +75,7 @@ export const IndexPageTemplate = ({
                       <h2 className="title is-size-3">{mainpitch.title}</h2>
                     </div>
                     <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
+                      <h4 className="subtitle is-size-4">{mainpitch.description}</h4>
                     </div>
                   </div>
                   <div className="columns">
