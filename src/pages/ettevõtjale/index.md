@@ -4,41 +4,33 @@ title: Teenus ettevõtjale
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
-  Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse aega
-  ja vaeva, mis kulub hea teksti kirjutamisele. Pakutav kodulehe tellimise
-  teenus teeb kliendi jaoks selle lihtsamaks ja ühendab endas parima tänasel
-  päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud
-  teksti.
+  Kodulehe eelis teiste turunduskanalite ees on, et see jõuab inimesteni, kes
+  ise aktiivselt otsivad endale vajalikku toodet või teenust. Meie teenuse eelis
+  teiste kodulehe tegijate ees on uuema tehnoloogia kasutamine, mis tagab parema
+  koha interneti otsingus. 
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
-        Valmistame üheleherakendus tüüpi veebilehti, et luua sujuv
-        kasutajakogemus ilma katkestusteta eri lehtede vahel. Loodud koduleht
-        töötab nagu töölauaprogramm. Selliseid kodulehti tehakse Eestis endiselt
-        vähe ja see annab Google otsingumootoris eelise.
+        Valmistame üheleherakendus tüüpi veebilehti, mis loovad sujuva
+        kasutajakogemuse. Koduleht töötab nagu töölauaprogramm. Selliseid
+        kodulehti tehakse Eestis endiselt vähe ja see annab ettevõttele eelise.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
         Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
         aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
-        kirjutamise teenus teeb kliendi jaoks selle lihtsamaks ja ühendab parima
-        tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti
-        keeles loodud teksti..
+        kirjutamise teenus teeb kliendi jaoks selle lihtsaks.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
-        Aitame tellijal kodulehe sisuhaldustarkvara kasutusele võtta.
-        Konsultatsioon hõlbustab edaspidist kodulehe sisu loomist ja
-        kaasajastamist. Anname ülevaate, millisena paistab tema ja konkurendid
-        Google otsingus ja mida saab teha ettevõtte leitavuse parandamiseks.
-        Kiire koduleht Netlify CMS sisuhaldustarkvaraga. Kolm muudetava sisuga
-        lehte - pealeht, meist ja tooted. Lisaks blogi kollektsioon ja leht
-        Netlify Form toega.
+        Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
+        hõlbustab edaspidist kodulehe sisu loomist. Anname ülevaate, millisena
+        paistab klient ja konkurendid interneti otsingus ja mida saab teha
+        ettevõtte leitavuse parandamiseks.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
-        Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
-        lihtsaid ja hästi töötavaid lahendusi. Meie eesmärk on välja kujundada
-        kindel kliendibaas, kellele valmistame esmalt kodulehe ja hiljem
-        vajadusel arendame neid edasi.
+        Meie eesmärk on pikaajaline koostöö ja kasvada koos kliendiga. Esmalt
+        valmistame kodulehe ja hiljem vajaduse tekkides arendame seda edasi
+        funktsionaalsust lisades.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -58,41 +50,40 @@ main:
     image: /img/computer-data-display-documents-577210.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/screenshot_2020-02-05-web-dev.png
+    image: /img/businessman-man-space-desk-7059.jpg
   image3:
     alt: Coffee beans
-    image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+    image: /img/screenshot_2020-02-05-web-dev.png
 testimonials:
   - author: OÜ Kodulehe Tellimine
     quote: >-
       Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
       lihtsaid ja hästi töötavaid lahendus.
-full_image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
   heading: Lisatööd valminud lehel ja muud teenused
   description: >-
     Funktsionaalsuse ja isikupära lisamine valminud kodulehel. Võimalus
     kodulehte edasi arendada.
   plans:
-    - description: Kodulehel väiksemate muutuste tegemiseks.
+    - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
       items:
-        - kodulehe optimeerimine
-        - disaini muutmine
-        - lihtsam animatsioon
+        - optimeerimine
+        - redigeerimine
         - konsultatsioon
         - fotograafi teenus
       plan: Lühiajaline projekt
       price: '600'
-    - description: Kodulehel suuremate muutuste tegemiseks.
+    - description: Kodulehel suuremate muutuste tegemiseks töömahuga 60 tundi.
       items:
-        - kodulehe sisu kirjutamine - kolm lehte
+        - kodulehe teksti kirjutamine
         - isikupärased disainilahendused
-        - isikupärased animatsioonilahe
+        - isikupärased animatsioonilahendused
       plan: Pikaajaline projekt
       price: '800'
     - description: Kodulehel väga suurte muutuste tegemiseks.
       items:
-        - mitmekeelsed lahendused
+        - erinevatele sihtturgudele mõeldud lahendused
         - e kaubanduse lahendused
         - suuremahulise vormi loomine
         - lisatööjõu kaasamist nõudvad projektid
