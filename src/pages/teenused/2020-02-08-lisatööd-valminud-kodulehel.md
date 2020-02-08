@@ -6,7 +6,7 @@ description: >-
   Isikupärane disaini või animatsioon, e-kaubandusega seonduv, kodulehe
   redigeerimist, optimeerimist, erinevatele sihtturgudele jõudmiseks mõeldud
   lahendused. 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/code-coding-computer-data-574073.jpg
 tags:
   - teenused
