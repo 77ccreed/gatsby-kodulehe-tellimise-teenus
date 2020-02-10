@@ -3,9 +3,9 @@ templateKey: blog-post
 title: Ettevõtte kodulehe tegemine React JS-ga
 date: 2020-02-06T13:15:19.441Z
 description: >-
-  Kodulehe tegemine koos veebimajutusega. Loome üheleherakendusi, mille
-  tulemusel on valminud kodulehed kiiremad ja paremini otsingumootoritele
-  optimeeritud, mis tagab suurema külastatavuse.
+  Telli koduleht koos tasuta veebimajutusega. Loome üheleherakendusi, mille
+  tulemusel on valminud kodulehed kiiremad ja paremini otsingumootorites
+  leitavad.
 featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
@@ -16,13 +16,13 @@ tags:
 
 ### Kindlat strateegiat omavale ettevõtjale
 
-Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab inimesteni, kes ise aktiivselt otsivad kindlat toodet või teenust. Meie pakutava teenuse eelis konkurentide ees on uuema tehnoloogia kasutamine, mis tagab parema koha Google otsingus. 
+Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab inimesteni, kes ise aktiivselt otsivad pakutavat toodet või teenust. Meie teenuse eelis konkurentide ees on uuema tehnoloogia kasutamine, mis tagab parema koha interneti otsingmootoris. 
 
-Teenuse kvaliteedi tagab Google ja Udacity poolt väljastatud front end arendaja kursuse sertifikaat. Tehtud kodulehe kvaliteeti saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it. 
+Teenuse kvaliteedi tagab Udacity poolt väljastatud sertifikaat. Tehtud kodulehe kvaliteeti saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it. 
 
 ### Kiired ja otsingumootorile optimeeritud kodulehed
 
-Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See tagab suurema külastatavuse, sest Google kuvab neid lehti eelisjärjekorras. 
+Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See tagab suurema külastatavuse, sest neid lehti kuvatakse eelisjärjekorras. 
 
 ![Kodulehe tellimise kodulehe mõõtmistulemused](/img/screenshot_2020-02-05-web-dev.png "Kodulehe tellimise kodulehe mõõtmistulemused")
 
