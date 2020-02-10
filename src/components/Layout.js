@@ -64,8 +64,8 @@ const TemplateWrapper = ({ children }) => {
             "telephone": "+372 5688 4456",
             "priceRange": "€€€-€€€€",
             "areaServed": "Estonia",
-            "founder": "Kiur Jullis"
-            //"url": "https://tellikoduleht.ee/",
+            "founder": "Kiur Jullis",
+            "url": "https://tellikoduleht.ee/",
             //"image": "https://valgaautoaed.ee/"
           })}
         </script>
