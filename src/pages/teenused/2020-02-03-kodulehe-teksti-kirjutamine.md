@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
-title: Kodulehe teksti kirjutamine
+title: Kodulehe sisu loomine ehk turundusteksti kirjutamine
 date: 2020-02-03T13:31:25.475Z
 description: >-
-  Teksti kirjutamise teenus kliendile, kel endal puudub võimalus kodulehe sisu
-  loomiseks. Teenuse eesmärk on luua kodulehe sisu ja  pakkuda konsultatsiooni,
-  et tellija oleks võimeline seda edaspidi ise tegema.
+  Teksti kirjutamise teenus tellijale, kel endal puudub selleks võimalus. Loome
+  kodulehe sisu ja  pakume konsultatsiooni, et klient saaks edaspidi seda ise
+  teha.
 featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
