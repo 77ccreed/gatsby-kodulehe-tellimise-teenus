@@ -1,12 +1,10 @@
 ---
 templateKey: blog-post
-title: Lisatööd valminud kodulehel
+title: Lisatööd valminud lehel - programmeerimine ja konsultatsioon
 date: 2020-02-02T07:25:08.608Z
 description: >-
-  Programmeerimine ja arvutialane konsultatsioon. Võimalus tellida isikupärane
-  disain või animatsioon, e-kaubandusega seonduv lahendus, veebilehe
-  redigeerimine ja optimeerimine. Erinevatele sihtturgudele jõudmiseks mõeldud
-  lahendused. 
+  Funktsionaalsuse lisamine või isikupärase välimuse andmine kodulehele.
+  Soovituste andmiseks analüüsime kodulehte ja selle külastatavuse statistikat. 
 featuredpost: false
 featuredimage: /img/code-coding-computer-data-574073.jpg
 tags:
@@ -17,7 +15,7 @@ tags:
 
 ## Loodud kodulehe täiendamine - hind 600 €, töömaht 40h (15 €/h)
 
-Funktsionaalsuse lisamine või isikupärase välimuse andmine.
+Programmeerimine ja arvutialane konsultatsioon lähtudes tellija soovist.
 
 * konsultatsioon
 * optimeerimine ja redigeerimine
