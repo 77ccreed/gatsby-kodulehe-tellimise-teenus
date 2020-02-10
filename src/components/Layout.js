@@ -65,7 +65,6 @@ const TemplateWrapper = ({ children }) => {
             "priceRange": "€€€-€€€€",
             "areaServed": "Estonia",
             "founder": "Kiur Jullis"
-
             //"url": "https://valgaautoaed.ee/",
             //"image": "https://valgaautoaed.ee/"
           })}
