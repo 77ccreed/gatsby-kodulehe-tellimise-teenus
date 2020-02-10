@@ -6,7 +6,7 @@ description: >-
   Teksti kirjutamise teenus kliendile, kel endal puudub võimalus kodulehe sisu
   loomiseks. Teenuse eesmärk on luua kodulehe sisu ja  pakkuda konsultatsiooni,
   et tellija oleks võimeline seda edaspidi ise tegema.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
   - teenused
