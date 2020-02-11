@@ -1,13 +1,13 @@
 ---
 templateKey: product-page
-title: Teenus ettevõtjale
+title: Kvaliteetne turundus läbi kodulehe
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
   Kodulehe eelis teiste turunduskanalite ees on, et see jõuab inimesteni, kes
   ise aktiivselt otsivad endale vajalikku toodet või teenust. Meie teenuse eelis
-  teiste kodulehe tegijate ees on uuema tehnoloogia kasutamine, mis tagab parema
-  koha interneti otsingus. 
+  teiste kodulehe tegijate ees on uuema tehnoloogia kasutamine. Vali kvaliteetne
+  turundus läbi kodulehe.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
@@ -38,7 +38,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Tänapäevane lahendus ettevõtte kodulehe loomiseks
+  heading: Tänapäevane lahendus ettevõtte turunduseks
   description: >-
     Eestis kasutatakse kodulehtede tegemiseks valdavalt WordPress-i ja PHP
     põhiseid lahendusi. Valdav osa kodulehtedest tehakse neid tehnoloogiaid
