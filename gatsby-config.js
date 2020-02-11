@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ettevõtte kodulehe tellimine. Programeerimine ja konsultatsioon',
     description:
-      'Kodulehe tegemine ettevõtjale, kes soovib oma toote või teenusega inimesteni jõuda.  Sisu loomine ja tasuta veebimajutus. Lihtne sisuhaldustarkvara.',
+      'Kodulehe tegemine ettevõtjale, kes soovib oma toote või teenusega inimesteni jõuda.   Sisu loomine, programmeerimine ning arvutialane konsultatsioon.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

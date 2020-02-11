@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Helmet from 'react-helmet'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
@@ -134,6 +135,10 @@ const ProductPage = ({ data }) => {
 
   return (
     <Layout>
+      <Helmet>
+        <title>Kvaliteetne turundus läbi ettevõtte kodulehe annab konkurentsieelise</title>
+        <meta name="description" content="Kodulehe sisu loomine ja tasuta veebimajutus. Lihtne sisuhaldustarkvara ja abi selle kasutuselevõtul. Kodulehe tellimise teenus sobib igas suuruses ettevõtetele." />
+      </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
