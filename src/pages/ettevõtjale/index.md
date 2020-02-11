@@ -17,9 +17,9 @@ intro:
         kodulehti tehakse Eestis endiselt vähe ja see annab ettevõttele eelise.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
-        Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
-        aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
-        kirjutamise teenus teeb tellija jaoks selle lihtsaks.
+        Kodulehe tegemisel on kõige raskem isikupärase sisu loomine. Enamasti
+        alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele.
+        Kodulehe teksti kirjutamise teenus teeb tellija jaoks selle lihtsaks.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
@@ -30,7 +30,7 @@ intro:
       text: >-
         Meie eesmärk on pikaajaline koostöö ja kasvada koos kliendiga. Esmalt
         valmistame kodulehe ja hiljem vajaduse tekkides arendame seda edasi
-        funktsionaalsust lisades.
+        funktsionaalsust lisades ja kodulehe sisu optimeerides.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -61,10 +61,8 @@ testimonials:
       lihtsaid ja hästi töötavaid lahendus.
 full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
-  heading: Lisatööd valminud lehel ja muud teenused
-  description: >-
-    Funktsionaalsuse ja isikupära lisamine valminud kodulehel. Võimalus
-    kodulehte edasi arendada.
+  heading: Lisatööd valminud kodulehel ja muud teenused
+  description: Funktsionaalsuse ja isikupära lisamine. Teenuste hind on 15 € tunnis.
   plans:
     - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
       items:
