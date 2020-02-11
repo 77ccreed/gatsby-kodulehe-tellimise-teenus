@@ -13,8 +13,8 @@ mainpitch:
 description: >-
   Kodulehe tegemine ettevõtjale, kellel on toode või teenus ja soov seda
   turustada.  Kui tahad, et sinu ettevõtte koduleht oleks suurema
-  külastatavusega kui konkurendi oma. Pakume konkurentsieelist uuema tehnoloogia
-  kasutamise näol.
+  külastatavusega kui konkurendi oma siis täida küsimustik kodulehe tellimise
+  lehel. Pakume konkurentsieelist uuema tehnoloogia kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
