@@ -1,6 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
+import Helmet from 'react-helmet'
 
 function encode(data) {
   return Object.keys(data)
@@ -36,10 +37,14 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <Helmet>
+          <title>Kodulehe tellimine. Täida küsimustik ja kohtume tellija valitud kohas</title>
+          <meta name="description" content="Kohtumine aitab välja selgitada, mida on vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja orienteeruva ajakulu ning hinna." />
+        </Helmet >
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Kodulehe tellimiseks täida küsimustik</h1>
+              <h1>Ettevõtte kodulehe tellimine</h1>
               <form
                 name="contact"
                 method="post"
