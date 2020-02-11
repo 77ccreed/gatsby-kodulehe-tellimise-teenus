@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Ettevõtte kodulehe tellimine. Programeerimine ja konsultatsioon',
+    title: 'Kodulehe tellimine. Programeerimine ja konsultatsioon',
     description:
       'Kodulehe tegemine ettevõtjale, kes soovib oma toote või teenusega inimesteni jõuda.   Sisu loomine, programmeerimine ning arvutialane konsultatsioon.',
   },
