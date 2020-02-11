@@ -1,13 +1,13 @@
 ---
 templateKey: product-page
-title: Teenus ettevõtjale
+title: Kvaliteetne turundus läbi kodulehe
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
   Kodulehe eelis teiste turunduskanalite ees on, et see jõuab inimesteni, kes
   ise aktiivselt otsivad endale vajalikku toodet või teenust. Meie teenuse eelis
-  teiste kodulehe tegijate ees on uuema tehnoloogia kasutamine, mis tagab parema
-  koha interneti otsingus. 
+  teiste kodulehe tegijate ees on uuema tehnoloogia kasutamine. Vali kvaliteetne
+  turundus läbi kodulehe.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
@@ -17,9 +17,9 @@ intro:
         kodulehti tehakse Eestis endiselt vähe ja see annab ettevõttele eelise.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
-        Kodulehe tegemisel on kõige raskem sisu loomine. Enamasti alahinnatakse
-        aega ja vaeva, mis kulub hea teksti kirjutamisele. Kodulehe teksti
-        kirjutamise teenus teeb tellija jaoks selle lihtsaks.
+        Kodulehe tegemisel on kõige raskem isikupärase sisu loomine. Enamasti
+        alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele.
+        Kodulehe teksti kirjutamise teenus teeb tellija jaoks selle lihtsaks.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
@@ -30,7 +30,7 @@ intro:
       text: >-
         Meie eesmärk on pikaajaline koostöö ja kasvada koos kliendiga. Esmalt
         valmistame kodulehe ja hiljem vajaduse tekkides arendame seda edasi
-        funktsionaalsust lisades.
+        funktsionaalsust lisades ja kodulehe sisu optimeerides.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -38,13 +38,14 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Tänapäevane lahendus ettevõtte kodulehe loomiseks
+  heading: Tänapäevane lahendus ettevõtte turunduseks
   description: >-
     Eestis kasutatakse kodulehtede tegemiseks valdavalt WordPress-i ja PHP
     põhiseid lahendusi. Valdav osa kodulehtedest tehakse neid tehnoloogiaid
     kasutades. Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt
     vähe ja neid kasutavad peamiselt suured ettevõtted, kes peavad ülal enda
-    arendajate meeskondi. 
+    arendajate meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka
+    väikestele ja alles alustavatele ettevõtetele.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/computer-data-display-documents-577210.jpg
@@ -61,10 +62,8 @@ testimonials:
       lihtsaid ja hästi töötavaid lahendus.
 full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
-  heading: Lisatööd valminud lehel ja muud teenused
-  description: >-
-    Funktsionaalsuse ja isikupära lisamine valminud kodulehel. Võimalus
-    kodulehte edasi arendada.
+  heading: Lisatööd valminud kodulehel ja muud teenused
+  description: Funktsionaalsuse ja isikupära lisamine. Teenuste hind on 15 € tunnis.
   plans:
     - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
       items:

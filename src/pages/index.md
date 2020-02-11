@@ -5,7 +5,7 @@ image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Programeerimine ja arvutialane konsultatsioon
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: Turundus läbi kodulehe
+  title: Kvaliteetne turundus läbi kodulehe
   description: >-
     Parim viis kliendini jõudmiseks on ettevõtte koduleht, sest pole vaja
     reklaamile ja teistele turundustegevustele tingimata aega ja raha enam
@@ -13,8 +13,8 @@ mainpitch:
 description: >-
   Kodulehe tegemine ettevõtjale, kellel on toode või teenus ja soov seda
   turustada.  Kui tahad, et sinu ettevõtte koduleht oleks suurema
-  külastatavusega kui konkurendi oma. Pakume konkurentsieelist uuema tehnoloogia
-  kasutamise näol.
+  külastatavusega kui konkurendi oma siis täida küsimustik kodulehe tellimise
+  lehel. Pakume konkurentsieelist uuema tehnoloogia kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
