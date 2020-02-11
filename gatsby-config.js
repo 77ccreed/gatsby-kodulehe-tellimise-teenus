@@ -65,19 +65,19 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    {
+    /*{
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
         siteUrl: `https://tellikoduleht.ee`,
       },
-    },
-    {
+    },*/
+    /*{
       resolve: `gatsby-plugin-hotjar`,
       options: {
         id: 1680588,
         sv: { hjid: 1680588, hjsv: 6 }
       },
-    },
+    },*/
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
