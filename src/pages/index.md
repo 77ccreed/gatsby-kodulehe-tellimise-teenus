@@ -7,9 +7,8 @@ subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Kvaliteetne turundus läbi kodulehe
   description: >-
-    Parim viis kliendini jõudmiseks on ettevõtte koduleht, sest pole vaja
-    reklaamile ja teistele turundustegevustele tingimata aega ja raha enam
-    kulutada.
+    Parim viis kliendini jõudmiseks on ettevõtte koduleht - pole vaja reklaamile
+    ja teistele turundustegevustele tingimata aega ja raha enam kulutada.
 description: >-
   Kodulehe tegemine ettevõtjale, kellel on toode või teenus ja soov seda
   turustada.  Kui tahad, et sinu ettevõtte koduleht oleks suurema
