@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Kodulehe tellimise teenus ettevõtjale
+title: OÜ Kodulehe Tellimine
 ---
 ### Miks valida meid
 
@@ -16,8 +16,4 @@ Kui lehe sisu on valmis, viime kodulehe soovitud domeenile ja indekseerime suure
 
 ### Kuidas me seda teeme
 
-Loome [üheleherakendusi](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus), mille tulemusel on valminud kodulehed kiiremad ja paremini [otsingumootoritele optimeeritud](https://et.wikipedia.org/wiki/Otsingumootoritele_optimeerimine) kui näiteks WordPressi-ga loodud kodulehed. See tagab suurema külastatavuse, sest Google kuvab meie lehti eelisjärjekorras. Meie poolt kasutatava [React JS](https://et.wikipedia.org/wiki/React_(JavaScripti_raamistik))-ga on võimalik luua mahukaid kodulehti, mis võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades. Pakume teenust  täislahendusena koos veebimajutusega. 
-
-
-
-###
+Loome [üheleherakendusi](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus), mille tulemusel on valminud kodulehed kiiremad ja paremini [otsingumootoritele optimeeritud](https://et.wikipedia.org/wiki/Otsingumootoritele_optimeerimine). See tagab suurema külastatavuse. Meie poolt kasutatava [React JS](https://et.wikipedia.org/wiki/React_(JavaScripti_raamistik))-ga on võimalik luua mahukaid kodulehti, mis võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades. Pakume teenust  täislahendusena koos veebimajutusega. 
