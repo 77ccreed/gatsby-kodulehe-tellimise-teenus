@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Ettevõtte turundus
+title: Kvaliteetne turundus
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
@@ -39,12 +39,10 @@ intro:
 main:
   heading: Tänapäevane lahendus ettevõtte turunduseks
   description: >-
-    Eestis kasutatakse kodulehtede tegemiseks valdavalt WordPress-i ja PHP
-    põhiseid lahendusi. Valdav osa kodulehtedest tehakse neid tehnoloogiaid
-    kasutades. Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt
-    vähe ja neid kasutavad peamiselt suured ettevõtted, kes peavad ülal enda
-    arendajate meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka
-    väikestele ja alles alustavatele ettevõtetele.
+    Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe ja
+    neid kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
+    meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka väikestele ja
+    alles alustavatele ettevõtetele.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/computer-data-display-documents-577210.jpg
