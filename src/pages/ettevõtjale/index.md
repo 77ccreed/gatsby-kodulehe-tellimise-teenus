@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: Kvaliteetne turundus
+title: Ettevõtte turundus
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
