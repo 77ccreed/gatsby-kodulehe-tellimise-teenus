@@ -1,12 +1,17 @@
 import React from 'react'
 
 import Layout from '../../components/Layout'
+import Helmet from 'react-helmet'
 import BlogRoll from '../../components/BlogRoll'
 
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
       <Layout>
+          <Helmet>
+          <title>Kodulehe tegemine ja veebilehe sisu loomine</title>
+          <meta name="description" content="Sisu loomine, programmeerimine ning arvutialane konsultatsioon. Kõik vajalik ettevõtte veebilehe tegemiseks. Tasuta veebimajutus ja sisuhaldustarkvara." />
+        </Helmet >
         <div
           className="full-width-image-container margin-top-0"
           style={{
