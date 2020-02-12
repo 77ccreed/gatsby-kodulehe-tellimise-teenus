@@ -136,8 +136,8 @@ const ProductPage = ({ data }) => {
   return (
     <Layout>
       <Helmet>
-        <title>Kvaliteetne turundus läbi ettevõtte kodulehe annab konkurentsieelise</title>
-        <meta name="description" content="Kodulehe sisu loomine ja tasuta veebimajutus. Lihtne sisuhaldustarkvara ja abi selle kasutuselevõtul. Kodulehe tellimise teenus sobib igas suuruses ettevõtetele." />
+        <title>Kvaliteetne turundus läbi ettevõtte kodulehe</title>
+        <meta name="description" content="Kodulehe sisu loomine ja tasuta veebimajutus. Lihtne sisuhaldustarkvara ja abi selle kasutuselevõtul. Kodulehe tellimise teenus sobib igas suuruses ettevõtetele" />
       </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}

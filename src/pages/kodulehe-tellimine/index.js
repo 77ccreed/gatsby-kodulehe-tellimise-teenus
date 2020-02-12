@@ -38,7 +38,7 @@ export default class Index extends React.Component {
     return (
       <Layout>
         <Helmet>
-          <title>Kodulehe tellimine. Täida küsimustik ja kohtume tellija valitud kohas</title>
+          <title>Kodulehe tellimine. Täida küsimustik ja kohtume</title>
           <meta name="description" content="Kohtumine aitab välja selgitada, mida on vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja orienteeruva ajakulu ning hinna." />
         </Helmet >
         <section className="section">

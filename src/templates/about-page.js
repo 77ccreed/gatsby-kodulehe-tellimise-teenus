@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import Helmet from 'react-helmet'
 import Content, { HTMLContent } from '../components/Content'
 
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
@@ -36,6 +37,10 @@ const AboutPage = ({ data }) => {
 
   return (
     <Layout>
+      <Helmet>
+        <title>Sõidukite müük autoplatsil ja kodulehel. Lühi- ja pikaajaline autorent</title>
+        <meta name="description" content="Sõidukite müük. Tellimine ja trantsport Euroopast. Komisjonimüük ja sõiduki vahetamise teenus. Autorent. Abistame dokumentide vormistamisel." />
+      </Helmet >
       <AboutPageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
