@@ -5,6 +5,7 @@ module.exports = {
       'Kodulehe tegemine ettevõtjale, kes soovib oma toote või teenusega inimesteni jõuda.   Sisu loomine, programmeerimine ning arvutialane konsultatsioon.',
   },
   plugins: [
+    //`gatsby-plugin-offline`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
@@ -75,7 +76,7 @@ module.exports = {
       resolve: `gatsby-plugin-hotjar`,
       options: {
         id: 1680588,
-        sv: { hjid: 1680588, hjsv: 6 }
+        sv: 6 
       },
     },*/
     {
