@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
+import Slide from 'react-reveal/Slide';
+
 export const IndexPageTemplate = ({
   image,
   title,
@@ -36,19 +38,21 @@ export const IndexPageTemplate = ({
             flexDirection: 'column',
           }}
         >
-          <h1
-            className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-            style={{
-              boxShadow:
-                'rgb(255, 68, 0, 0.7) 0.5rem 0px 0px, rgb(255, 68, 0, 0.7) -0.5rem 0px 0px',
-              backgroundColor: 'rgb(255, 68, 0, 0.7)',
-              color: 'white',
-              lineHeight: '1',
-              padding: '0.25em',
-            }}
-          >
-            {title}
-          </h1>
+          <Slide left>
+            <h1
+              className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+              style={{
+                boxShadow:
+                  'rgb(255, 68, 0, 0.7) 0.5rem 0px 0px, rgb(255, 68, 0, 0.7) -0.5rem 0px 0px',
+                backgroundColor: 'rgb(255, 68, 0, 0.7)',
+                color: 'white',
+                lineHeight: '1',
+                padding: '0.25em',
+              }}
+            >
+              {title}
+            </h1>
+          </Slide>
           <h3
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
