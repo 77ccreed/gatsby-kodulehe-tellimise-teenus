@@ -39,8 +39,8 @@ intro:
 main:
   heading: Tänapäevane lahendus ettevõtte turunduseks
   description: >-
-    Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe ja
-    neid kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
+    Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe. Neid
+    kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
     meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka väikestele ja
     alles alustavatele ettevõtetele.
   image1:
@@ -60,7 +60,9 @@ testimonials:
 full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
   heading: Lisatööd valminud kodulehel ja muud teenused
-  description: Funktsionaalsuse ja isikupära lisamine. Teenuste hind on 15 € tunnis.
+  description: >-
+    Funktsionaalsuse ja isikupära lisamine. Teenuse hind on 15 € tunnis. Kõik
+    hinnad on lõplikud ja käibemaksu ei lisandu.
   plans:
     - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
       items:
