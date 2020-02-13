@@ -5,6 +5,17 @@ module.exports = {
       'Kodulehe tegemine ettevõtjale, kes soovib oma toote või teenusega inimesteni jõuda.   Sisu loomine, programmeerimine ning arvutialane konsultatsioon.',
   },
   plugins: [
+    /*{
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `OÜ Kodulehe Tellimine`,
+        short_name: `Kodulehe Tellimine`,
+        start_url: `/`,
+        background_color: `#fff`,
+        theme_color: `#fff`,
+        display: `standalone`,
+      },
+    },*/
     //`gatsby-plugin-offline`,
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
