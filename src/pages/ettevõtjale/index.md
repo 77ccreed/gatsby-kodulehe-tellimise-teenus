@@ -4,9 +4,10 @@ title: Ettevõtte turundus
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
-  Koduleht jõuab inimesteni, kes ise aktiivselt otsivad endale vajalikku toodet
-  või teenust. Meie teenuse eelis teiste kodulehe tegijate ees on uuema
-  tehnoloogia kasutamine. Vali kvaliteetne turundus läbi kodulehe.
+  Koduleht jõuab inimesteni, kes ise aktiivselt otsivad endale internetist
+  vajalikku toodet või teenust. Meie teenuse eelis teiste kodulehe tegijate ees
+  on uuema tehnoloogia kasutamine. Vali kvaliteetne turundus läbi ettevõtte
+  kodulehe.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
@@ -23,7 +24,7 @@ intro:
       text: >-
         Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
         hõlbustab edaspidist kodulehe sisu loomist. Anname ülevaate, millisena
-        paistab klient ja konkurendid interneti otsingus ja mida saab teha
+        paistab tellija ja konkurendid interneti otsingus ja mida saab teha
         ettevõtte leitavuse parandamiseks.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
@@ -42,7 +43,8 @@ main:
     Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe. Neid
     kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
     meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka väikestele ja
-    alles alustavatele ettevõtetele.
+    alles alustavatele ettevõtetele ja muudab ettevõtte kodulehe peamiseks
+    turunduskanaliks.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/computer-data-display-documents-577210.jpg
