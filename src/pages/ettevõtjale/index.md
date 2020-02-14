@@ -24,7 +24,7 @@ intro:
       text: >-
         Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
         hõlbustab edaspidist kodulehe sisu loomist. Anname ülevaate, millisena
-        paistab klient ja konkurendid interneti otsingus ja mida saab teha
+        paistab tellija ja konkurendid interneti otsingus ja mida saab teha
         ettevõtte leitavuse parandamiseks.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
