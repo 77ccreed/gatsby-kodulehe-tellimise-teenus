@@ -123,7 +123,6 @@ export default class Index extends React.Component {
                         name={'aadress'}
                         onChange={this.handleChange}
                         id={'aadress'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -146,7 +145,6 @@ export default class Index extends React.Component {
                         name={'kodulehe-nimi'}
                         onChange={this.handleChange}
                         id={'kodulehe-nimi'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -162,7 +160,6 @@ export default class Index extends React.Component {
                         name={'tegevusala'}
                         onChange={this.handleChange}
                         id={'tegevusala'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -178,7 +175,6 @@ export default class Index extends React.Component {
                         name={'tegevuspiirkond'}
                         onChange={this.handleChange}
                         id={'tegevuspiirkond'}
-                        required={true}
                       />
                     </div>
                   </div>
@@ -194,44 +190,16 @@ export default class Index extends React.Component {
                         name={'konkurendid'}
                         onChange={this.handleChange}
                         id={'konkurendid'}
-                        required={true}
                       />
                     </div>
                   </div>
 
                 </div>
-
-
-
-                <h3>Kasutatavad otsingusõnad</h3>
-                <div className='columns'>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'sotsiaalmeedia'}>
-                      Otsingusõnad, mida soovid kasutada
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'sotsiaalmeedia'}
-                        onChange={this.handleChange}
-                        id={'sotsiaalmeedia'}
-                        required={true}
-                        placeholder={'Lisa sõnad'}
-                      />
-                    </div>
-                  </div>
-
-
-                </div>
-
-
 
 
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Kirjuta kodulehest lähemalt
+                    Kirjuta oma soovidest lähemalt
                   </label>
                   <div className="control">
                     <textarea
@@ -244,219 +212,6 @@ export default class Index extends React.Component {
                   </div>
                 </div>
 
-
-                <h3>Kodulehe struktuur</h3>
-                <p>Vaikimisi on kodulehe struktuur: pealeht, meist, teenused, blogi, kontaktid.</p>
-
-                <div className='columns'>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'meist-leht'}>
-                      Meist leht
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'meist-leht'}
-                        onChange={this.handleChange}
-                        id={'meist-leht'}
-                        required={true}
-                        placeholder={'Meist, minust vms.'}
-                      />
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'teenused-leht'}>
-                      Teenused leht
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'teenused-leht'}
-                        onChange={this.handleChange}
-                        id={'teenused-leht'}
-                        required={true}
-                        placeholder={'Tooted, teenused vms.'}
-                      />
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'tehtud-kodulehed-leht'}>
-                      Tehtud kodulehed leht
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'tehtud-kodulehed-leht'}
-                        onChange={this.handleChange}
-                        id={'tehtud-kodulehed-leht'}
-                        required={true}
-                        placeholder={'Blogi, kuulutused, retseptid vms.'}
-                      />
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'telli-koduleht-leht'}>
-                      Telli koduleht leht
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'telli-koduleht-leht'}
-                        onChange={this.handleChange}
-                        id={'telli-koduleht-leht'}
-                        required={true}
-                        placeholder={'Kontaktid, telli koduleht vms.'}
-                      />
-                    </div>
-                  </div>
-
-                </div>
-
-
-                <h3>Sotsiaalmeedia ja Google Analytics</h3>
-                <div className='columns'>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'sotsiaalmeedia'}>
-                      Sotsiaalmeedia
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'sotsiaalmeedia'}
-                        onChange={this.handleChange}
-                        id={'sotsiaalmeedia'}
-                        required={true}
-                        placeholder={'Lisa oma sotsiaalmeediakontod'}
-                      />
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'analytics'}>
-                      Google Analytics, Tag Manager ja Search Console
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'analytics'}
-                        onChange={this.handleChange}
-                        id={'analytics'}
-                        required={true}
-                        placeholder={'Jäta tühjaks kui ei kasuta enda omi'}
-                      />
-                    </div>
-                  </div>
-
-
-
-                </div>
-
-
-
-
-
-
-
-
-
-                <div className='columns'>
-
-                  <div className='field column is-half'>
-                    <h3>Kodulehe sisu. Tekst, pildid ja logo.</h3>
-                    <div className="control">
-                      <label className="radio label" htmlFor={'tekstPildidLogo'}>
-                        <input type="radio" name="sisuOn" id={'tekstPildidLogo'} />
-                        Mul on kodulehe tekst, pildid ja logo olemas.</label>
-                      <label className="radio label" htmlFor={'tekstPildid'}>
-                        <input type="radio" name="sisuOn" id={'tekstPildid'} />
-                        Mul on kodulehe tekst ja pildid. Logo pole.</label>
-                      <label className="radio label" htmlFor={'tekst'}>
-                        <input type="radio" name="sisuOn" id={'tekst'} />
-                        Mul on kodulehe tekst. Pilte pole.</label>
-                      <label className="radio label" htmlFor={'pildid'}>
-                        <input type="radio" name="sisuOn" id={'pildid'} />
-                        Mul pole kodulehe teksti. Pildid on.</label>
-                      <label className="radio label" htmlFor={'sisuPole'}>
-                        <input type="radio" name="sisuOn" id={'sisuPole'} />
-                        Mul pole kodulehe teksti ega pilte.</label>
-                    </div>
-                  </div>
-
-
-                </div>
-
-
-                <div className='columns'>
-
-                  <div className='field column'>
-                    <h3>Domeen</h3>
-                    <div className="control">
-                      <label className="radio label" htmlFor={'domeenOn'} >
-                        <input
-                          type="radio"
-                          name="domeenOlemas"
-                          id={'domeenOn'}
-                          onChange={this.handleChange}
-                        />
-                        Mul on endal kodulehe domeen olemas.</label>
-                      <label className="radio label" htmlFor={'domeenPole'} >
-                        <input
-                          type="radio"
-                          name="domeenOlemas"
-                          id={'domeenPole'}
-                          onChange={this.handleChange}
-                        />
-                        Mul pole kodulehe domeeni.</label>
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'domeen'}>
-                      Sisesta domeeninimi, mida soovid kasutada:
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'domeen'}
-                        onChange={this.handleChange}
-                        id={'domeen'}
-                      />
-                    </div>
-                  </div>
-
-
-                </div>
-
-
-                <h3>Kohtumispaigana sobib:</h3>
-                <div className='field column is-half'>
-                  <div className="control">
-                    <label className="radio label" htmlFor={'tallinn'}>
-                      <input type="radio" name="kohtumispaik" id={'tallinn'} />
-                      Tallinn</label>
-                    <label className="radio label" htmlFor={'tartu'}>
-                      <input type="radio" name="kohtumispaik" id={'tartu'} />
-                      Tartu</label>
-                    <label className="radio label" htmlFor={'valga'}>
-                      <input type="radio" name="kohtumispaik" id={'valga'} />
-                      Valga</label>
-                    <label className="radio label" htmlFor={'eiSooviKohtuda'}>
-                      <input type="radio" name="kohtumispaik" id={'eiSooviKohtuda'} />
-                      Ei soovi kohtuda</label>
-                  </div>
-                </div>
 
                 <div className="field column is-half">
                   <button className="button is-link" type="submit">

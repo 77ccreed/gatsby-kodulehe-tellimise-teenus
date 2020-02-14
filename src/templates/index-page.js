@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
-import Slide from 'react-reveal/Slide';
+import Slide from 'react-reveal/Fade';
 
 export const IndexPageTemplate = ({
   image,
@@ -38,21 +38,21 @@ export const IndexPageTemplate = ({
             flexDirection: 'column',
           }}
         >
-          <Slide left>
-            <h1
-              className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-              style={{
-                boxShadow:
-                  'rgb(255, 68, 0, 0.7) 0.5rem 0px 0px, rgb(255, 68, 0, 0.7) -0.5rem 0px 0px',
-                backgroundColor: 'rgb(255, 68, 0, 0.7)',
-                color: 'white',
-                lineHeight: '1',
-                padding: '0.25em',
-              }}
-            >
+          <h1
+            className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
+            style={{
+              boxShadow:
+                'rgb(255, 68, 0, 0.7) 0.5rem 0px 0px, rgb(255, 68, 0, 0.7) -0.5rem 0px 0px',
+              backgroundColor: 'rgb(255, 68, 0, 0.7)',
+              color: 'white',
+              lineHeight: '1',
+              padding: '0.25em',
+            }}
+          >
+            <Fade left>
               {title}
-            </h1>
-          </Slide>
+            </Fade>
+          </h1>
           <h3
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
@@ -160,38 +160,38 @@ export default IndexPage
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
-      frontmatter {
+        markdownRemark(frontmatter: {templateKey: {eq: "index-page" } }) {
+        frontmatter {
         title
         image {
-          childImageSharp {
-            fluid(maxWidth: 2048, quality: 100) {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
-        heading
-        subheading
-        mainpitch {
-          title
-          description
-        }
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 240, quality: 64) {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
-            text
-          }
-          heading
-          description
-        }
+        childImageSharp {
+        fluid(maxWidth: 2048, quality: 100) {
+        ...GatsbyImageSharpFluid
+      }
       }
     }
+    heading
+    subheading
+        mainpitch {
+        title
+          description
+    }
+    description
+        intro {
+        blurbs {
+        image {
+        childImageSharp {
+        fluid(maxWidth: 240, quality: 64) {
+        ...GatsbyImageSharpFluid
+      }
+      }
+    }
+    text
   }
+  heading
+  description
+}
+}
+}
+}
 `
