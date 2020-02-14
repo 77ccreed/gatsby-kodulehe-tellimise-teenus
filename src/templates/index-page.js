@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
-import Slide from 'react-reveal/Fade';
+import Fade from 'react-reveal/Fade';
 
 export const IndexPageTemplate = ({
   image,
