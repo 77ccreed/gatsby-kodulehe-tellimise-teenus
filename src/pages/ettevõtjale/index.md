@@ -4,7 +4,7 @@ title: Ettevõtte turundus
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Konkurentsieelis läbimõeldud lahendusi kasutades
 description: >-
-  Koduleht jõuab inimesteni, kes ise aktiivselt otsivad endale internetist
+  Koduleht jõuab inimesteni, kes ise aktiivselt otsivad internetist endale
   vajalikku toodet või teenust. Meie teenuse eelis teiste kodulehe tegijate ees
   on uuema tehnoloogia kasutamine. Vali kvaliteetne turundus läbi ettevõtte
   kodulehe.
