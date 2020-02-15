@@ -61,6 +61,11 @@ const Footer = class extends React.Component {
                         Tellimine
                       </Link>
                     </li>
+                    <li>
+                      <Link className="navbar-item" to="/privaatsuspoliitika">
+                        Privaatsuspoliitika
+                      </Link>
+                    </li>
                   </ul>
                 </section>
               </div>
