@@ -5,6 +5,10 @@ import Layout from '../../components/Layout'
 const Privaatsuspoliitika = () => {
   return (
     <Layout>
+      <Helmet>
+        <title>OÜ Kodulehe Tellimine - privaatsuspoliitika</title>
+        <meta name="description" content="Tellimuse saatmisel kinnitab tellija, et on tutvunud veebilehe tellikoduleht.ee privaatsuse ja andmekaitse tingimustega ning aktsepteerib neid." />
+      </Helmet >
       <section className="section section--gradient">
         <div className="container">
           <div className="columns">
