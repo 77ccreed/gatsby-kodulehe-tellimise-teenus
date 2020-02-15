@@ -10,7 +10,7 @@ Teenus sobib ettevõtjale, kellel on soov oma toote või teenuse jõudmiseks suu
 
 ### Mida me teeme
 
-Kodulehel oleva küsimustiku abil selgitame esmalt välja, mida tellija täpselt vajab. Peale tellimuse saamist koostame abimaterjalid kodulehe sisu loomiseks (otsingusõnade ja konkurentide analüüs), loome kodulehe prooviversiooni, mida tellija saab hallata sisuhaldustarkvaraga Netlify CMS (teeme sisuhaldustarkvara kasutuskoolituse, eestindame kodulehe põhja, redigeerime kliendi poolt loodud teksti). Kui puudub kodulehe loomiseks vajalik materjal, saame pakkuda teksti kirjutamise ja fotograafi teenust.
+Kodulehel oleva küsimustiku abil selgitame esmalt välja, mida tellija täpselt vajab. Peale kohtumist ja tellimuse saamist koostame abimaterjalid kodulehe sisu loomiseks (otsingusõnade ja konkurentide analüüs), loome kodulehe prooviversiooni, mida tellija saab hallata sisuhaldustarkvaraga Netlify CMS (teeme sisuhaldustarkvara kasutuskoolituse, eestindame kodulehe põhja, redigeerime kliendi poolt loodud teksti). Kui puudub kodulehe loomiseks vajalik materjal, saame pakkuda teksti kirjutamise ja fotograafi teenust.
 
 Kui lehe sisu on valmis, viime kodulehe soovitud domeenile ja indekseerime suuremates interneti otsingumootorites.
 

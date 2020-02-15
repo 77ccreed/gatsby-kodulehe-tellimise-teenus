@@ -15,8 +15,6 @@ tags:
 
 Lisateenus ettevõtte kodulehele piltide ja videode tegemiseks ja töötlemiseks. Portree- ja maastikuvaates pildistamine sobib inimeste, asjade ja erinevate vaadete jäädvustamiseks. Konsultatsioon, kuidas kodulehele pilte lisada.
 
-![Pilt piprast](/img/dsc_0635.jpg "Pilt piprast")
+![Maastikuvaade](/img/dsc_0801.nef.jpg "Maastikuvaade")
 
-![Pipra naps](/img/dsc_0485.nef.jpg "Pipra naps")
-
-![](/img/dsc_0100-3.jpg)
+![Lähivaade](/img/dsc_0300.nef.jpg "Lähivaade")
