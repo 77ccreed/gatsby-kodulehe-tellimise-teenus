@@ -14,10 +14,8 @@ tags:
 ---
 ### Teksti kirjutamise teenus - 800 eurot 60h (15 €/h)
 
-* Kolm sisulehte (pealeht, meist, tooted/teenused) - tööaeg 52 tundi
+* Kolm sisulehte (pealeht, meist, tooted/teenused), privaatsuspoliitika ja blogi struktuur - tööaeg 52 tundi
 * Konsultatsioon - 8 tundi
-
-
 
 ![Kodulehe teksti kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe teksti kirjutamine")
 
