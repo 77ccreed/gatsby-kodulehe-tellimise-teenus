@@ -31,6 +31,8 @@ Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See 
 * Programmeerimisel kasutatud parim praktika - mõõdetakse kõike alates HTTPS-i kasutamisest kuni pildi kuvasuhte korrigeerimiseni.
 * Otsingumootoritele optimeeritus (SEO) - parimate tavade kontrollimine kodulehe leitavuse tagamiseks.
 
+Allikas: [web.dev](https://web.dev/measure/)
+
 ### React JS-ga on võimalik luua mahukaid kodulehti
 
 Kodulehed võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades. Täislahendusena teenus koos veebimajutusega.
