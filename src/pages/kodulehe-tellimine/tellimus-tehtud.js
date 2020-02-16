@@ -7,7 +7,7 @@ export default () => (
       <div className="container">
         <div className="content">
           <h1>Täname kirja eest!</h1>
-          <p>Vastame peatselt ja lepime edasises kokku.</p>
+          <p>Vastame peatselt ja lepime edasistes tegevustes kokku.</p>
         </div>
       </div>
     </section>

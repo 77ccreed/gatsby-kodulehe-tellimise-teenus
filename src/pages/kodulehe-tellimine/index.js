@@ -135,16 +135,16 @@ export default class Index extends React.Component {
                 <div className='columns'>
 
                   <div className="field column">
-                    <label className="label" htmlFor={'kodulehe-nimi'}>
-                      Kodulehe nimi
+                    <label className="label" htmlFor={'ettevõtte-nimi'}>
+                      Ettevõtte nimi
                   </label>
                     <div className="control">
                       <input
                         className="input"
                         type={'text'}
-                        name={'kodulehe-nimi'}
+                        name={'ettevõtte-nimi'}
                         onChange={this.handleChange}
-                        id={'kodulehe-nimi'}
+                        id={'ettevõtte-nimi'}
                       />
                     </div>
                   </div>
