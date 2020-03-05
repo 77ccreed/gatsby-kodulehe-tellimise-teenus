@@ -133,7 +133,7 @@ export default class Index extends React.Component {
 
                 <div className="field column is-half">
                   <button className="button is-link" type="submit">
-                    Saada
+                    Saada kiri
                   </button>
                 </div>
               </form>
