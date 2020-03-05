@@ -83,11 +83,11 @@ const Footer = class extends React.Component {
         </div>
 
 
-        <div className="content has-text-centered">
+        {/* <div className="content has-text-centered">
 
           <p className="has-text-grey">OÜ Kodulehe Tellimine | +(372) 5688 4456 | Valga, Petseri 8-53,	68204</p>
         </div>
-
+        */}
       </footer>
     )
   }
