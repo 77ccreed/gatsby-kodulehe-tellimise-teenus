@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Ettevõtte kodulehe tegemine
+title: Üheleherakenduse tüüpi kodulehed
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: Programeerimine ja arvutialane konsultatsioon
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
