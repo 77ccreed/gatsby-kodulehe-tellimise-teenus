@@ -117,7 +117,7 @@ export default class Index extends React.Component {
 
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Kirjuta meile
+                    Sinu sõnum
                   </label>
                   <div className="control">
                     <textarea
