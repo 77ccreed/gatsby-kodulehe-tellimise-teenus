@@ -112,94 +112,12 @@ export default class Index extends React.Component {
                     </div>
                   </div>
 
-                  <div className="field column">
-                    <label className="label" htmlFor={'aadress'}>
-                      Aadress
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'aadress'}
-                        onChange={this.handleChange}
-                        id={'aadress'}
-                      />
-                    </div>
-                  </div>
-
-                </div>
-
-
-
-
-                <div className='columns'>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'ettevõtte-nimi'}>
-                      Ettevõtte nimi
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'ettevõtte-nimi'}
-                        onChange={this.handleChange}
-                        id={'ettevõtte-nimi'}
-                      />
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'tegevusala'}>
-                      Tegevusala
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'tegevusala'}
-                        onChange={this.handleChange}
-                        id={'tegevusala'}
-                      />
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'tegevuspiirkond'}>
-                      Tegevuspiirkond
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'tegevuspiirkond'}
-                        onChange={this.handleChange}
-                        id={'tegevuspiirkond'}
-                      />
-                    </div>
-                  </div>
-
-                  <div className="field column">
-                    <label className="label" htmlFor={'konkurendid'}>
-                      Konkurendid
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'text'}
-                        name={'konkurendid'}
-                        onChange={this.handleChange}
-                        id={'konkurendid'}
-                      />
-                    </div>
-                  </div>
-
                 </div>
 
 
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Kirjuta oma soovidest lähemalt
+                    Kirjuta meile
                   </label>
                   <div className="control">
                     <textarea
@@ -219,6 +137,9 @@ export default class Index extends React.Component {
                   </button>
                 </div>
               </form>
+
+              <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks võid saata meile kirja või täita kontaktvormi siinsamas.</a>
             </div>
           </div>
         </section>
