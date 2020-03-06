@@ -2,7 +2,9 @@
 templateKey: index-page
 title: Ettevõtte kodulehe tegemine
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
-heading: 'Programeerimine ja arvutialane konsultatsioon on teenused, mida pakume'
+heading: >-
+  Programeerimine, arvutialane konsultatsioon ja kodulehe sisu loomine on
+  teenused, mida pakume
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Kvaliteetne turundus läbi kodulehe tagab konkurentsieelise
