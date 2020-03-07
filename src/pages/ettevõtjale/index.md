@@ -2,12 +2,12 @@
 templateKey: product-page
 title: Ettevõtte turundus
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
-heading: Konkurentsieelis läbimõeldud lahendusi kasutades
+heading: Pakume konkurentsieelist läbimõeldud lahendusi kasutades
 description: >-
-  Koduleht jõuab inimesteni, kes ise aktiivselt otsivad internetist endale
-  vajalikku toodet või teenust. Meie teenuse eelis teiste kodulehe tegijate ees
-  on uuema tehnoloogia kasutamine. Vali kvaliteetne turundus läbi ettevõtte
-  kodulehe.
+  Koduleht on ettevõtte jaoks parim turunduskanal, sest see jõuab inimesteni,
+  kes ise aktiivselt otsivad internetist endale vajalikku toodet või teenust.
+  Meie teenuse eelis teiste kodulehe tegijate ees on uuema tehnoloogia
+  kasutamine. Vali kvaliteetne turundus läbi ettevõtte kodulehe.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
