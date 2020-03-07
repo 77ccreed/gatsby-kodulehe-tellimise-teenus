@@ -63,8 +63,9 @@ full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
   heading: Lisatööd valminud kodulehel ja muud teenused
   description: >-
-    Funktsionaalsuse ja isikupära lisamine. Teenuse hind on 15 € tunnis. Kõik
-    hinnad on lõplikud ja käibemaksu ei lisandu.
+    Valminud kodulehti on võimalik edaspidi täiendada lisades funktsionaalsust
+    ja isikupära. Kõigi teenuste hind on 15 € tunnis. Kõik hinnad on lõplikud ja
+    käibemaksu ei lisandu.
   plans:
     - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
       items:
