@@ -80,13 +80,13 @@ pricing:
         - kodulehe teksti kirjutamine
         - isikupärased disainilahendused
         - isikupärased animatsioonilahendused
+        - suuremahulise kontaktvormi loomine
       plan: Pikaajaline projekt
       price: '800'
     - description: Kodulehel väga suurte muutuste tegemiseks.
       items:
         - erinevatele sihtturgudele mõeldud lahendused
         - e kaubanduse lahendused
-        - suuremahulise vormi loomine
         - lisatööjõu kaasamist nõudvad projektid
       plan: Määramata ajaga
       price: '??'
