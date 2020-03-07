@@ -32,7 +32,8 @@ intro:
       text: >-
         Valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte
         positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ja
-        aitame sisuhaldustarkvara kasutusele võtta.
+        aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti
+        ja teeme pildid.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
