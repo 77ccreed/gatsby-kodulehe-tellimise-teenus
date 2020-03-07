@@ -38,7 +38,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Tänapäevane lahendus ettevõtte turunduseks
+  heading: Tänapäevane lahendus sobib igas suuruses ettevõtte turunduseks
   description: >-
     Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe. Neid
     kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
