@@ -31,7 +31,7 @@ intro:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
         Valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte
-        positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ja
+        positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning
         aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti
         ja teeme pildid.
     - image: /img/analogue-background-business-camera-593324.jpg
