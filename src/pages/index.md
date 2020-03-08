@@ -13,11 +13,11 @@ mainpitch:
     ja teistele turundustegevustele tingimata aega ja raha enam kulutada.
 description: >-
   Üheleherakenduse tüüpi kodulehe tegemine ettevõtjale, kellel on toode või
-  teenus ja soov seda turustada. Aitame kodulehe sisuhaldustarkvara kasutusele
-  võtta ja vajadusel teksti ning piltide loomisel. Kui tahad, et sinu ettevõtte
-  koduleht oleks suurema külastatavusega kui konkurendi oma. Täida küsimustik
-  kodulehe tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia
-  kasutamise näol.
+  teenus ja soov seda turustada. Aitame tellijal kodulehe sisuhaldustarkvara
+  kasutusele võtta ja vajadusel teksti ja piltide loomisel. Kui tahad, et sinu
+  ettevõtte koduleht oleks suurema külastatavusega kui konkurendi oma siis täida
+  küsimustik kodulehe tellimise lehel. Pakume konkurentsieelist uuema
+  tehnoloogia kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
