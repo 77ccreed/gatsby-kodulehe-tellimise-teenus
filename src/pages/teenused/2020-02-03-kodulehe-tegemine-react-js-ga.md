@@ -21,7 +21,7 @@ Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab in
 
 Tehtud kodulehe väärtust ettevõtte jaoks saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it ja Google Search Console. Kodulehe külastatavuse statistika järgi paneme paika edasised tegevused.
 
-### Kohtumine tellija valitud kohas aitab täpselt välja selgitada, mida on vaja eduka kodulehe loomiseks
+### Kohtumine tellija valitud kohas
 
 Täpsustame tööde sisu, mahu ja orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja maksetingimuste paikapanemisel.
 
