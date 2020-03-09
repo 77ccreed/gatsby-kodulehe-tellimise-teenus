@@ -27,9 +27,7 @@ Täpsustame tööde sisu, mahu ja orienteeruva ajakulu ning hinna, mis on alusek
 
 Peale kohtumist valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti ja teeme pildid.
 
-Indekseerime valminud kodulehe interneti otsingumootorites. Tagame veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe külastatavust ja selgitame välja võimalikud edasised tegevused.
-
-Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale projektile aitab ennetada turul toimuvaid muutuseid ja tagab ettevõttele edu konkurentide ees.
+Indekseerime valminud kodulehe interneti otsingumootorites. Tagame veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe külastatavust ja selgitame välja võimalikud edasised tegevused. Personaalne lähenemine igale projektile aitab ennetada turul toimuvaid muutuseid ja tagab ettevõttele edu konkurentide ees.
 
 ### Kiired ja otsingumootorile optimeeritud kodulehed
 
