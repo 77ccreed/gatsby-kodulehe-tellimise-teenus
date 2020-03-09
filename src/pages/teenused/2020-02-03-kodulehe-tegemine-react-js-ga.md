@@ -3,9 +3,10 @@ templateKey: blog-post
 title: Ettevõtte kodulehe tegemine React JS-ga
 date: 2020-02-06T13:15:19.441Z
 description: >-
-  Telli koduleht koos tasuta veebimajutusega. Loome üheleherakendusi, mille
-  tulemusel on valminud kodulehed kiiremad ja paremini otsingumootorites
-  leitavad.
+  Telli koduleht koos tasuta veebimajutuse ja sisuhaldustarkvara
+  kasutuselevõtuks vajaliku konsultatsiooniga. Loome üheleherakendusi, mille
+  tulemusel on valminud kodulehed kiiremad ja paremini otsingumootoritele
+  optimeeritud. 
 featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
@@ -14,11 +15,11 @@ tags:
 ---
 ![Kodulehe tellimise kodulehe külastatavus](/img/ettevõtte-kodulehe-tegemine.jpg "Kodulehe tellimise kodulehe külastatavus")
 
-### Kindlat strateegiat omavale ettevõtjale
+### Teenus sobib igas suuruses ettevõtte turunduseks
 
-Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab inimesteni, kes ise aktiivselt otsivad pakutavat toodet või teenust. Meie teenuse eelis konkurentide ees on uuema tehnoloogia kasutamine, mis tagab parema koha interneti otsingmootoris. 
+Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab inimesteni, kes ise aktiivselt otsivad pakutavat toodet või teenust. Meie teenuse eelis konkurentide ees on uuema tehnoloogia kasutamine, mis tagab parema koha interneti otsingmootoris.
 
-Teenuse kvaliteedi tagab Udacity poolt väljastatud sertifikaat. Tehtud kodulehe kvaliteeti saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it. 
+Tehtud kodulehe väärtust ettevõtte jaoks saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it ja Google Search Console. Kodulehe külastatavuse statistika järgi paneme paika edasised tegevused.
 
 ### Kiired ja otsingumootorile optimeeritud kodulehed
 
