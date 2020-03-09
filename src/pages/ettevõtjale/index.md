@@ -43,8 +43,8 @@ main:
     Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe. Neid
     kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
     meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka väikestele ja
-    alles alustavatele ettevõtetele ja muudab kodulehe ettevõtte peamiseks
-    turunduskanaliks.
+    alles alustavatele ettevõtetele. Muudame kodulehe ettevõtte peamiseks
+    turunduskanaliks. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/computer-data-display-documents-577210.jpg
