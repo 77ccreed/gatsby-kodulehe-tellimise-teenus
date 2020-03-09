@@ -2,12 +2,12 @@
 templateKey: product-page
 title: Ettevõtte turundus
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
-heading: Konkurentsieelis läbimõeldud lahendusi kasutades
+heading: Pakume konkurentsieelist läbimõeldud lahendusi kasutades
 description: >-
-  Koduleht jõuab inimesteni, kes ise aktiivselt otsivad internetist endale
-  vajalikku toodet või teenust. Meie teenuse eelis teiste kodulehe tegijate ees
-  on uuema tehnoloogia kasutamine. Vali kvaliteetne turundus läbi ettevõtte
-  kodulehe.
+  Koduleht on ettevõtte jaoks parim turunduskanal, sest see jõuab inimesteni,
+  kes ise aktiivselt otsivad internetist endale vajalikku toodet või teenust.
+  Meie teenuse eelis teiste kodulehe tegijate ees on uuema tehnoloogia
+  kasutamine. Vali kvaliteetne turundus läbi ettevõtte kodulehe.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
@@ -38,13 +38,13 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Tänapäevane lahendus ettevõtte turunduseks
+  heading: Tänapäevane lahendus sobib igas suuruses ettevõtte turunduseks
   description: >-
     Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe. Neid
     kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
     meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka väikestele ja
-    alles alustavatele ettevõtetele ja muudab kodulehe ettevõtte peamiseks
-    turunduskanaliks.
+    alles alustavatele ettevõtetele. Muudame kodulehe ettevõtte peamiseks
+    turunduskanaliks. 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/computer-data-display-documents-577210.jpg
@@ -63,8 +63,9 @@ full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
   heading: Lisatööd valminud kodulehel ja muud teenused
   description: >-
-    Funktsionaalsuse ja isikupära lisamine. Teenuse hind on 15 € tunnis. Kõik
-    hinnad on lõplikud ja käibemaksu ei lisandu.
+    Valminud kodulehti on võimalik edaspidi täiendada lisades funktsionaalsust
+    ja isikupära. Kõigi teenuste hind on 15 € tunnis. Kõik hinnad on lõplikud ja
+    käibemaksu ei lisandu.
   plans:
     - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
       items:
@@ -79,13 +80,13 @@ pricing:
         - kodulehe teksti kirjutamine
         - isikupärased disainilahendused
         - isikupärased animatsioonilahendused
+        - suuremahulise kontaktvormi loomine
       plan: Pikaajaline projekt
       price: '800'
     - description: Kodulehel väga suurte muutuste tegemiseks.
       items:
         - erinevatele sihtturgudele mõeldud lahendused
         - e kaubanduse lahendused
-        - suuremahulise vormi loomine
         - lisatööjõu kaasamist nõudvad projektid
       plan: Määramata ajaga
       price: '??'

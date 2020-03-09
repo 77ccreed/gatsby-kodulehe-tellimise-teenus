@@ -2,18 +2,22 @@
 templateKey: index-page
 title: Ettevõtte kodulehe tegemine
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
-heading: Programeerimine ja arvutialane konsultatsioon
+heading: >-
+  Programeerimine, arvutialane konsultatsioon ja kodulehe sisu loomine on
+  teenused, mida pakume
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: Kvaliteetne turundus läbi kodulehe
+  title: Kvaliteetne turundus läbi kodulehe tagab konkurentsieelise
   description: >-
     Parim viis kliendini jõudmiseks on ettevõtte koduleht - pole vaja reklaamile
     ja teistele turundustegevustele tingimata aega ja raha enam kulutada.
 description: >-
   Üheleherakenduse tüüpi kodulehe tegemine ettevõtjale, kellel on toode või
-  teenus ja soov seda turustada.  Kui tahad, et sinu ettevõtte koduleht oleks
-  suurema külastatavusega kui konkurendi oma. Täida küsimustik kodulehe
-  tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia kasutamise näol.
+  teenus ja soov seda turustada. Aitame kodulehe sisuhaldustarkvara kasutusele
+  võtta ning vajadusel teksti ja piltide loomisel. Kui tahad, et sinu ettevõtte
+  koduleht oleks suurema külastatavusega kui konkurendi oma siis täida
+  küsimustik kodulehe tellimise lehel. Pakume konkurentsieelist uuema
+  tehnoloogia kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
@@ -27,8 +31,9 @@ intro:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
         Valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte
-        positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ja
-        aitame sisuhaldustarkvara kasutusele võtta.
+        positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning
+        aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti
+        ja teeme pildid.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame

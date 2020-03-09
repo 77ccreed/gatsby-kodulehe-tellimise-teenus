@@ -14,9 +14,9 @@ tags:
 ---
 ![](/img/lisatööd-valminud-kodulehel.jpg)
 
-## Loodud kodulehe täiendamine - hind 600 €, töömaht 40h (15 €/h)
+## Loodud kodulehe täiendamine - teenuse hind 15 € tund
 
-Programmeerimine ja arvutialane konsultatsioon lähtudes tellija soovist.
+Programmeerimine, arvutialane konsultatsioon ja kodulehe sisu loomine.
 
 * konsultatsioon
 * optimeerimine ja redigeerimine
