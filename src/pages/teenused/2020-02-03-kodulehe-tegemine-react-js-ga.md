@@ -36,7 +36,7 @@ Allikas: [web.dev](https://web.dev/measure/)
 
 ### React JS-ga on võimalik luua mahukaid kodulehti
 
-Kodulehed võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades. Täislahendusena teenus koos veebimajutusega.
+Kodulehed võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades. 
 
 Teenuse maksetingimused - pool summast tuleb kliendil ette maksta ja teine pool enne kodulehe otsingumootoris indekseerimist, st kui koduleht on valmis.
 
