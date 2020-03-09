@@ -21,6 +21,16 @@ Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab in
 
 Tehtud kodulehe väärtust ettevõtte jaoks saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it ja Google Search Console. Kodulehe külastatavuse statistika järgi paneme paika edasised tegevused.
 
+### Kohtumine tellija valitud kohas aitab täpselt välja selgitada, mida on vaja eduka kodulehe loomiseks
+
+Täpsustame tööde sisu, mahu ja orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja maksetingimuste paikapanemisel.
+
+Peale kohtumist valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti ja teeme pildid.
+
+Indekseerime valminud kodulehe interneti otsingumootorites. Tagame veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe külastatavust ja selgitame välja võimalikud edasised tegevused.
+
+Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale projektile aitab ennetada turul toimuvaid muutuseid ja tagab ettevõttele edu konkurentide ees.
+
 ### Kiired ja otsingumootorile optimeeritud kodulehed
 
 Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See tagab suurema külastatavuse, sest neid lehti kuvatakse eelisjärjekorras. 
