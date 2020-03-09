@@ -46,10 +46,6 @@ Allikas: [web.dev](https://web.dev/measure/)
 
 Loodud kodulehed võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades. 
 
-Teenuse maksetingimused - pool summast tuleb kliendil ette maksta ja teine pool enne kodulehe otsingumootoris indekseerimist, st kui koduleht on valmis.
-
-Tööaja sisse on arvestatud 16 tundi garantiitöid esimese aasta jooksul ja 8 tundi aasta lõpus, hindamaks lehe külastatavust jms.
-
 ### Kodulehe tegemine - hind 1200 € (15 €/h), tööaeg 80h
 
 * kodulehe prooviversiooni ülesseadmine ja kliendile kättesaadavaks tegemine - 4h
@@ -62,6 +58,10 @@ Tööaja sisse on arvestatud 16 tundi garantiitöid esimese aasta jooksul ja 8 t
 * kodulehe indekseerimine otsingumootorites -4h
 * garantiitööd esimese aasta jooksul - 16h
 * aasta lõpus külastatavuse analüüs, kodulehe redigeerimine ja optimeerimine - 8h
+
+Teenuse maksetingimused - pool summast tuleb kliendil ette maksta ja teine pool enne kodulehe otsingumootoris indekseerimist, st kui koduleht on valmis.
+
+Tööaja sisse on arvestatud 16 tundi garantiitöid esimese aasta jooksul ja 8 tundi aasta lõpus, hindamaks lehe külastatavust jms.
 
 ### Orienteeruv aeg ühe kodulehe valmistamiseks on kolm nädalat.
 
