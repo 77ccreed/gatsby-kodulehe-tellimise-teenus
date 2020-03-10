@@ -52,8 +52,8 @@ main:
     alt: A green cup of a coffee on a wooden table
     image: /img/businessman-man-space-desk-7059.jpg
   image3:
-    alt: Coffee beans
-    image: /img/screenshot_2020-02-05-web-dev.png
+    alt: Tellikoduleht.ee mõõtmistulemused
+    image: /img/tellikoduleht.ee-mõõtmistulemused.png
 testimonials:
   - author: OÜ Kodulehe Tellimine
     quote: >-
