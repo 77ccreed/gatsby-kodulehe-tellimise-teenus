@@ -46,10 +46,10 @@ main:
     alles alustavatele ettevõtetele. Muudame kodulehe ettevõtte peamiseks
     turunduskanaliks. 
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Kodulehe optimeerimine
     image: /img/computer-data-display-documents-577210.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Kodulehe teksti kirjutamise teenus
     image: /img/businessman-man-space-desk-7059.jpg
   image3:
     alt: Tellikoduleht.ee mõõtmistulemused
