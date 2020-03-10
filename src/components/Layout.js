@@ -48,6 +48,8 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
 
+        <meta name="google-site-verification" content="DYwWl0JM6R7-PjJn43OLicq2M9mfJLNIML4cG4_CkhI" />
+
         <script type="application/ld+json">
           {JSON.stringify({
             "@context": "http://schema.org",
