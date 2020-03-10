@@ -17,6 +17,12 @@ module.exports = {
       },
     },*/
     //`gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-160191922-1",
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
@@ -77,19 +83,19 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    /*{
+    {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
         siteUrl: `https://tellikoduleht.ee`,
       },
-    },*/
-    /*{
+    },
+    {
       resolve: `gatsby-plugin-hotjar`,
       options: {
         id: 1680588,
-        sv: 6 
+        sv: 6
       },
-    },*/
+    },
     {
       resolve: 'gatsby-plugin-purgecss', // purges all unused/unreferenced css rules
       options: {
