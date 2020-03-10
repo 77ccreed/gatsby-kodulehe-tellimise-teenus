@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: 'https://tellikoduleht.ee'
   },
   plugins: [
-    /*{
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `OÜ Kodulehe Tellimine`,
@@ -15,9 +15,10 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
+        icon: `src/images/iconfinder_icon.png`,
       },
-    },*/
-    //`gatsby-plugin-offline`,
+    },
+    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
