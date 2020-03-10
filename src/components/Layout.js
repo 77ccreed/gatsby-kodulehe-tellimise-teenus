@@ -66,6 +66,7 @@ const TemplateWrapper = ({ children }) => {
             "areaServed": "Estonia",
             "founder": "Kiur Jullis",
             "url": "https://tellikoduleht.ee/",
+            "sameAs": "https://www.facebook.com/O%C3%9C-Kodulehe-Tellimine-111480883801254/"
             //"image": "https://valgaautoaed.ee/"
           })}
         </script>
