@@ -33,7 +33,7 @@ Indekseerime valminud kodulehe interneti otsingumootorites. Tagame veebimajutuse
 
 Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See tagab suurema külastatavuse, sest neid lehti kuvatakse eelisjärjekorras. 
 
-![Kodulehe tellimise kodulehe mõõtmistulemused](/img/screenshot_2020-02-05-web-dev.png "Kodulehe tellimise kodulehe mõõtmistulemused")
+![Kodulehe tellimise kodulehe mõõtmistulemused](/img/tellikoduleht.ee-mõõtmistulemused.png "Kodulehe tellimise kodulehe mõõtmistulemused")
 
 * Jõudlus - mõõdetakse kui kiiresti jõuab esimene pilt avakuvale peale lehe laadimist. Ja kuna see interaktiivseks muutub.
 * Kättesaadavus - Kontrollib levinumaid probleeme, mis võivad takistada kasutajatel lehe sisule juurde pääseda.
