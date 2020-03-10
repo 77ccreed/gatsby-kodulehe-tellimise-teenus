@@ -3,6 +3,7 @@ module.exports = {
     title: 'Kodulehe tegemine. Programeerimine ja konsultatsioon',
     description:
       'Kodulehe tegemine ettevõtjale, kes soovib oma toote või teenusega inimesteni jõuda.   Sisu loomine, programmeerimine ning arvutialane konsultatsioon.',
+    siteUrl: 'https://tellikoduleht.ee'
   },
   plugins: [
     /*{
