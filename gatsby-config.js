@@ -23,7 +23,7 @@ module.exports = {
         trackingId: "UA-160191922-1",
       },
     },
-    'gatsby-plugin-robots-txt',
+    //'gatsby-plugin-robots-txt',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
@@ -85,12 +85,12 @@ module.exports = {
         modulePath: `${__dirname}/src/cms/cms.js`,
       },
     },
-    /*{
+    {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
         siteUrl: `https://tellikoduleht.ee`,
       },
-    },*/
+    },
     {
       resolve: `gatsby-plugin-hotjar`,
       options: {
