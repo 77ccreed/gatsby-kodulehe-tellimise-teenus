@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.jpg`}
+          content={`${withPrefix('/')}img/og-image.png`}
         />
 
         <meta name="google-site-verification" content="DYwWl0JM6R7-PjJn43OLicq2M9mfJLNIML4cG4_CkhI" />
