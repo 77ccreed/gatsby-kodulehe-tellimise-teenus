@@ -11,7 +11,6 @@ mainpitch:
   description: >-
     Parim viis kliendini jõudmiseks on ettevõtte koduleht - pole vaja reklaamile
     ja teistele turundustegevustele tingimata aega ja raha enam kulutada.
-    Kvaliteetne turundus läbi veebilehe tagab konkurentsieelise.
 description: >-
   Üheleherakenduse tüüpi kodulehe tegemine ettevõtjale, kellel on toode või
   teenus ja soov seda turustada. Aitame kodulehe sisuhaldustarkvara kasutusele
