@@ -3,21 +3,19 @@ templateKey: index-page
 title: Ettevõtte kodulehe tegemine
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: >-
-  Programmeerimine, arvutialane konsultatsioon ja kodulehe sisu loomine. Lisaks
-  veebilehe haldus.
+  Kui tahad, et Sinu ettevõtte koduleht oleks suurema külastatavusega kui
+  konkurendi oma. Täida küsimustik tellimise lehel.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: 'Ettevõtte kodulehe tegemine, sisu loomine ja haldus hinnaga 100 € kuus!'
+  title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 100 € kuus!'
   description: >-
     Parim viis kliendini jõudmiseks on ettevõtte koduleht - pole vaja reklaamile
     ja teistele turundustegevustele tingimata aega ja raha enam kulutada.
 description: >-
   Üheleherakenduse tüüpi kodulehe tegemine ettevõtjale, kellel on toode või
   teenus ja soov seda turustada. Aitame kodulehe sisuhaldustarkvara kasutusele
-  võtta ning vajadusel teksti ja piltide loomisel. Kui tahad, et sinu ettevõtte
-  koduleht oleks suurema külastatavusega kui konkurendi oma. Täida küsimustik
-  kodulehe tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia
-  kasutamise näol.
+  võtta ning vajadusel teksti ja piltide loomisel. Pakume konkurentsieelist
+  uuema tehnoloogia kasutamise näol.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
