@@ -7,9 +7,7 @@ heading: >-
   teenused, mida pakume. Lisatööna veebilehe haldus.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: >-
-    Avamishinnad - ettevõtte koduleht tegemine, sisu loomine ja haldus hinnaga
-    100 € kuus!
+  title: 'Ettevõtte koduleht tegemine, sisu loomine ja haldus hinnaga 100 € kuus!'
   description: >-
     Parim viis kliendini jõudmiseks on ettevõtte koduleht - pole vaja reklaamile
     ja teistele turundustegevustele tingimata aega ja raha enam kulutada.
