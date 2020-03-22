@@ -3,8 +3,8 @@ templateKey: index-page
 title: Ettevõtte kodulehe tegemine
 image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
 heading: >-
-  Programmeerimine, arvutialane konsultatsioon ja kodulehe sisu loomine on
-  teenused, mida pakume. Lisatööna veebilehe haldus.
+  Programmeerimine, arvutialane konsultatsioon ja kodulehe sisu loomine. Lisaks
+  veebilehe haldus.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: 'Ettevõtte koduleht tegemine, sisu loomine ja haldus hinnaga 100 € kuus!'
