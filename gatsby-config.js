@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kodulehe tegemine. Programmeerimine ja konsultatsioon',
+    title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 100 € kuus.',
     description:
-      'Kodulehe tegemine ettevõtjale, kes soovib oma toote või teenusega inimesteni jõuda.   Sisu loomine, programmeerimine ning arvutialane konsultatsioon.',
+      'Telli koduleht koos veebimajutuse. Teeme veebilehest sinu ettevõtte peamise turunduskanali. Pakume konkurentsieelist uuema tehnoloogia kasutamise näol.',
     siteUrl: 'https://tellikoduleht.ee'
   },
   plugins: [

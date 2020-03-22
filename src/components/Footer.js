@@ -12,7 +12,7 @@ const Footer = class extends React.Component {
             color: '#ff4400',
             fontSize: '2.5rem',
             fontWeight: '650'
-          }}>Kodulehe tellimine</p>
+          }}>Telli koduleht</p>
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
