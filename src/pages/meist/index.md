@@ -2,7 +2,7 @@
 templateKey: about-page
 title: OÜ Kodulehe Tellimine
 ---
-Ettevõte ( registrikood: 14933675) on loodud 2020. aasta märtsis. Pakume kaasaegseid kodulehe tegemisega seotud lihtsaid ja hästi töötavaid lahendus.
+Pakume kaasaegseid kodulehe tegemisega seotud lihtsaid ja hästi töötavaid lahendusi.
 
 ### Miks valida just meid
 
