@@ -45,6 +45,9 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Ettevõtte kodulehe tellimine</h1>
+              <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks võid saata meile kirja või avades küsimustiku siin.</a>
+              <hr />
               <form
                 name="contact"
                 method="post"
@@ -137,9 +140,13 @@ export default class Index extends React.Component {
                   </button>
                 </div>
               </form>
-
-              <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks võid saata meile kirja või täita kontaktvormi siinsamas.</a>
+              <hr />
+              <h3>OÜ Kodulehe Tellimine</h3>
+              <p>Reg: 14933675</p>
+              <p>Petseri tn. 8-53, 68204, Valga, Eesti</p>
+              <p>Telefon: (+372) 56 8844 56</p>
+              <p>E-mail: kiur.jullis@gmail.com</p>
+              <p>Arveldusarve: SEB EE461010220285246226</p>
             </div>
           </div>
         </section>
