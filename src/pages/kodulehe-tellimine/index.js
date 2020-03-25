@@ -46,7 +46,7 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Ettevõtte kodulehe tellimine</h1>
               <a className="is-size-4" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks võid saata meile kirja või avades küsimustiku siin.</a>
+                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks võid saata meile kirja või avada küsimustiku siin.</a>
               <hr />
               <form
                 name="contact"
