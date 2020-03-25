@@ -1,7 +1,9 @@
 ---
 templateKey: about-page
-title: OÜ Kodulehe Tellimine (14933675)
+title: OÜ Kodulehe Tellimine
 ---
+Pakume kaasaegseid kodulehe tegemisega seotud lihtsaid ja hästi töötavaid lahendusi.
+
 ### Miks valida just meid
 
 Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. OÜ Kodulehe Tellimine teeb selle lihtsaks ja ühendab endas parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia, heas eesti keeles loodud teksti ja  fotomaterjalid.
