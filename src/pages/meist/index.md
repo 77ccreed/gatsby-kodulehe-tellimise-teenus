@@ -2,7 +2,7 @@
 templateKey: about-page
 title: OÜ Kodulehe Tellimine
 ---
-Pakume kaasaegseid kodulehe tegemisega seotud lihtsaid ja hästi töötavaid lahendusi.
+**Pakume kaasaegseid kodulehe tegemisega seotud lihtsaid ja hästi töötavaid lahendusi.**
 
 ### Miks valida just meid
 
@@ -14,7 +14,7 @@ Teenus sobib ettevõtjale, kellel on soov oma toote või teenuse jõudmiseks suu
 
 Küsimustiku abil selgitame esmalt välja, mida tellija täpselt vajab. Peale kohtumist ja tellimuse saamist koostame abimaterjalid kodulehe sisu loomiseks (otsingusõnade ja konkurentide analüüs), loome kodulehe prooviversiooni, mida tellija saab hallata sisuhaldustarkvaraga Netlify CMS (teeme sisuhaldustarkvara kasutuskoolituse, eestindame kodulehe põhja, redigeerime kliendi poolt loodud teksti). Kui puudub kodulehe loomiseks vajalik materjal, saame pakkuda teksti kirjutamise ja fotograafi teenust.
 
-Kui lehe sisu on valmis, viime kodulehe soovitud domeenile ja indekseerime suuremates interneti otsingumootorites.  Vajadusel kodulehe haldamise teenust hinnaga 100 € kuus.
+Kui lehe sisu on valmis, viime kodulehe soovitud domeenile ja indekseerime suuremates interneti otsingumootorites.  Vajadusel kodulehe haldamise teenust hinnaga 99 € kuus.
 
 ### Kuidas me seda teeme
 
