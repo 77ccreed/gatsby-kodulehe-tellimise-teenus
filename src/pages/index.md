@@ -12,7 +12,7 @@ mainpitch:
     Parim viis kliendini jõudmiseks - pole vaja reklaamile ja teistele
     turundustegevustele aega ja raha enam kulutada.
 description: >-
-  Üheleherakenduse tüüpi kodulehe loob sujuva kasutuskogemuse. Aitame
+  Üheleherakenduse tüüpi koduleht loob sujuva kasutuskogemuse. Aitame
   sisuhaldustarkvara kasutusele võtta, vajadusel teksti ja piltide loomisel.
   Täislahendus koos veebimajutuse ja domeeniga 99 € kuus.
 intro:
