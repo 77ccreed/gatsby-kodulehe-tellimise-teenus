@@ -12,7 +12,7 @@ const FeatureGrid = ({ gridItems }) => (
           }}>
             <div
               style={{
-                width: '80%',
+                width: '70%',
                 display: 'inline-block',
 
 
@@ -23,12 +23,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p style={{
-            margin: '10px',
-
-
-            fontSize: '18px',
-            letterSpacing: '.03em',
-            lineHeight: '26px',
+            marginTop: '10px',
 
           }}>{item.text}</p>
         </section>
