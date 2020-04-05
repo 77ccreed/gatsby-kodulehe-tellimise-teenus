@@ -6,7 +6,7 @@ title: OÜ Kodulehe Tellimine
 
 Programmeerimist ja arvutialast konsultatsiooni pakkuv ettevõte ([reg. kood: 14933675](https://www.e-krediidiinfo.ee/14933675-KODULEHE%20TELLIMINE%20O%C3%9C)) loodi 2020. aast märtsis.  Sellele eelnes Google ja Udacity poolt korraldatud [front end arendaja kursuse](https://graduation.udacity.com/confirm/AEKKNEEJ) läbimine, rea väiksemate ja suuremate tööde tegemine ning kirg programmeerimise vastu. 
 
-### Miks valida just meid
+### Miks valida kodulehe tellimise teenus
 
 Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks ja ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
 
@@ -20,7 +20,7 @@ Mõned [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) t�
 
 Pakume täislahendusena teenust kodulehe tegemise, sisu loomise ja halduse näol. Lisaks tasuta veebimajutus.
 
-### Kuidas seda teeme - tööprotsess
+### Kuidas käib kodulehe tellimine - tööprotsess
 
 [Tellimise lehel](https://tellikoduleht.ee/kodulehe-tellimine/) oleva [küsimustiku](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform) abil selgitame esmalt välja, mida tellija täpselt vajab. Peale kohtumist ja tellimuse saamist valmistame kodulehe prooviversiooni, mida saab hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/).
 
@@ -32,7 +32,7 @@ Peale kodulehe valmimist on pool tööd tehtud. Edasi järgneb kodulehe külasta
 
 Palju õnne! Nüüd on Sul koduleht, mis on ettevõtte peamine turunduskanal ja omad eelist konkurentide ees. 
 
-### Kellele teenus sobib
+### Kellele kodulehe tellimise teenus sobib
 
 Ettevõtjale, kelle on kvaliteetne toode või teenus ja kes soovib:
 
