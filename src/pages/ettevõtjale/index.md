@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Ettevõtte turundus
-image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+image: /img/kodulehe-tegemine-sisu-loomine.jpg
 heading: Pakume konkurentsieelist läbimõeldud lahendusi kasutades
 description: >-
   Koduleht on ettevõtte jaoks parim turunduskanal, sest see jõuab inimesteni,
