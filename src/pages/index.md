@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ettevõtte kodulehe tegemine
-image: /img/gray-laptop-computer-showing-html-codes-in-shallow-focus-160107.jpg
+image: /img/kodulehe-tegemine-sisu-loomine.jpg
 heading: >-
   Täida küsimustik tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia
   kasutamise näol.
