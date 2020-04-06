@@ -6,7 +6,7 @@ title: OÜ Kodulehe Tellimine
 
 Programmeerimist ja arvutialast konsultatsiooni pakkuv ettevõte ([reg. kood: 14933675](https://www.e-krediidiinfo.ee/14933675-KODULEHE%20TELLIMINE%20O%C3%9C)) loodi 2020. aast märtsis.  Sellele eelnes Google ja Udacity poolt korraldatud [front end arendaja kursuse](https://graduation.udacity.com/confirm/AEKKNEEJ) läbimine, rea väiksemate ja suuremate tööde tegemine ning kirg programmeerimise vastu. 
 
-### Miks valida kodulehe tellimise teenus
+### Miks valida kodulehe tellimine
 
 Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks ja ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
 
@@ -32,7 +32,7 @@ Peale kodulehe valmimist on pool tööd tehtud. Edasi järgneb kodulehe külasta
 
 Palju õnne! Nüüd on Sul koduleht, mis on ettevõtte peamine turunduskanal ja omad eelist konkurentide ees. 
 
-### Kellele kodulehe tellimise teenus sobib
+### Kellele kodulehe tellimine sobib
 
 Ettevõtjale, kelle on kvaliteetne toode või teenus ja kes soovib:
 
@@ -40,9 +40,9 @@ Ettevõtjale, kelle on kvaliteetne toode või teenus ja kes soovib:
 * konkurentsieelist interneti otsingumootori [orgaanilises otsingus](https://support.google.com/google-ads/answer/6054492?hl=et)
 * suurendada kliendibaasi väikese kuluga
 
-Parima lahendus sünnib koos tulemusest huvitatud kliendiga. Teeme tööriista ja aitame selle kasutusele võttal. Kui oled avatud ja valmis panustama siis on lihtne tulemuseni jõuda, sest meie tahame kodulehti teha.
+Parima lahendus sünnib koos tulemusest huvitatud kliendiga. Teeme tööriista ja aitame selle kasutusele võtta. Kui oled avatud ja valmis panustama siis on lihtne tulemuseni jõuda, sest meie tahame kodulehti teha.
 
-### Kodulehe valmistamise hind
+### Kodulehe tellimise hind
 
 Esimesele kümnele tellijale pakume soodushinda - kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus. Peale kindla kliendibaasi loomist läheme tagasi tavapärase hinnakirja juurde. 
 
