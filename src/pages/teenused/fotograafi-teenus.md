@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Fotograafi teenus
+title: Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
 description: >-
   Fotograafi teenus kodulehe piltide ja videode tegemiseks fotoaparaadiga Nikon
