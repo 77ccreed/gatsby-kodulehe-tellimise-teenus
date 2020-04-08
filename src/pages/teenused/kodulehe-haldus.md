@@ -18,7 +18,7 @@ tags:
 
 Tellija saab kodulehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/). Teeme kasutuskoolituse ja pakume jooksvalt abi kodulehe haldamisega seotud küsimuste lahendamiseks. 
 
-**Hallata saab sisulehti. Tellikoduleht.ee näitel on hallatavad:**
+##### Hallata saab sisulehti. Tellikoduleht.ee näitel on hallatavad:
 
 * pealeht
 * meist
@@ -26,7 +26,7 @@ Tellija saab kodulehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [N
 
 Sisuhaldustarkvaraga saab kodulehele teksti ja pilte lisada ja muuta. Kokkuleppel saame hallatavaid lehti lisada.
 
-**Saab luua ja kustutada blogi tüüpi lehti. Tellikoduleht.ee näitel on need postitused teenuste lehel:**
+##### Saab luua ja kustutada blogi tüüpi lehti. Tellikoduleht.ee näitel on need postitused teenuste lehel:
 
 * Ettevõtte kodulehe tegemine React JS-ga
 * Kodulehe sisu loomine ehk teksti kirjutamine
@@ -34,6 +34,8 @@ Sisuhaldustarkvaraga saab kodulehele teksti ja pilte lisada ja muuta. Kokkuleppe
 * Fotograafi teenus kodulehe piltide tegemiseks
 
 ![Kodulehe haldus sisuhaldustarkvaraga](/img/kodulehe-haldus-sisuhaldustarkvaraga.jpg "Kodulehe haldus sisuhaldustarkvaraga")
+
+Lehe sisu saab hallata nii tekstina kui ka _markdown_ formaadis. 
 
 ## Veebihalduri teenus hinnaga 99 € kuus
 
