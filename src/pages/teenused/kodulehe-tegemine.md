@@ -8,33 +8,25 @@ description: >-
   tulemusel on valminud kodulehed kiiremad ja paremini otsingumootoritele
   optimeeritud.
 featuredpost: false
-featuredimage: /img/computer-data-display-documents-577210.jpg
+featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
   - teenused
 ---
+![Ettevõtte kodulehe tegemine](/img/ettevõtte-kodulehe-tegemine.jpg "Ettevõtte kodulehe tegemine")
+
 ## Teenus sobib igas suuruses ettevõtte turunduseks
 
 Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab inimesteni, kes ise aktiivselt otsivad pakutavat toodet või teenust. Meie teenuse eelis konkurentide ees on uuema tehnoloogia kasutamine, mis tagab parema koha interneti otsingmootoris.
 
-
-
 Tehtud kodulehe väärtust ettevõtte jaoks saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it ja Google Search Console. Kodulehe külastatavuse statistika järgi paneme paika edasised tegevused.
-
-
 
 ## Kohtumine tellija valitud kohas
 
 Täpsustame tööde sisu, mahu ja orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja maksetingimuste paikapanemisel.
 
-
-
 Peale kohtumist valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti ja teeme pildid.
 
-
-
 Indekseerime valminud kodulehe interneti otsingumootorites. Tagame veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe külastatavust ja selgitame välja võimalikud edasised tegevused. Personaalne lähenemine igale projektile aitab ennetada turul toimuvaid muutuseid ja tagab ettevõttele edu konkurentide ees.
-
-
 
 ## Kiired ja otsingumootorile optimeeritud kodulehed
 
@@ -53,8 +45,6 @@ Allikas: [web.dev](https://web.dev/measure/)
 
 Loodud kodulehed võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades.
 
-
-
 * Kodulehe tegemine - hind 1200 € (15 €/h), tööaeg 80h
 * kodulehe prooviversiooni ülesseadmine ja kliendile kättesaadavaks tegemine - 4h
 * otsingusõnade ja konkurentide analüüs - 8h
@@ -69,11 +59,7 @@ Loodud kodulehed võivad koosneda kümnetest või sadadest lehtedest ja on kiire
 
 Teenuse maksetingimused - pool summast tuleb kliendil ette maksta ja teine pool enne kodulehe otsingumootoris indekseerimist, st kui koduleht on valmis.
 
-
-
 Tööaja sisse on arvestatud 16 tundi garantiitöid esimese aasta jooksul ja 8 tundi aasta lõpus, hindamaks lehe külastatavust jms.
-
-
 
 ## Orienteeruv aeg ühe kodulehe valmistamiseks on kolm nädalat.
 
