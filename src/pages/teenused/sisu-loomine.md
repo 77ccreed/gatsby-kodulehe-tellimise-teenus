@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Sisu loomine
+title: Kodulehe sisu loomine ehk teksti kirjutamine
 date: 2020-04-07T04:42:12.611Z
 description: >-
   Teksti kirjutamise teenus tellijale, kel endal puudub selleks võimalus. Loome
