@@ -10,6 +10,7 @@ featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
   - teenused
+  - põhiteenus
 ---
 ## Teksti kirjutamise teenus - 800 eurot 60h (15 €/h)
 
