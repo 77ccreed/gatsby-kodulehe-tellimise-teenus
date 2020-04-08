@@ -33,9 +33,7 @@ Sisuhaldustarkvaraga saab kodulehele teksti ja pilte lisada ja muuta. Kokkuleppe
 * Kodulehe haldus
 * Fotograafi teenus kodulehe piltide tegemiseks
 
- 
-
-![Kodulehe haldus](/img/kodulehe-haldus.png "Kodulehe haldus")
+![Kodulehe haldus sisuhaldustarkvaraga](/img/kodulehe-haldus-sisuhaldustarkvaraga.jpg "Kodulehe haldus sisuhaldustarkvaraga")
 
 ## Veebihalduri teenus hinnaga 99 € kuus
 
