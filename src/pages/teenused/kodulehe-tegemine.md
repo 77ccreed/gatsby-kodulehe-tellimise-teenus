@@ -11,6 +11,7 @@ featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
   - teenused
+  - põhiteenus
 ---
 ![Ettevõtte kodulehe tegemine](/img/ettevõtte-kodulehe-tegemine.jpg "Ettevõtte kodulehe tegemine")
 
