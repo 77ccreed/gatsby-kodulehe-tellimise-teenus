@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kodulehe tegemine
+title: Ettevõtte kodulehe tegemine React JS-ga
 date: 2020-04-08T04:57:25.469Z
 description: >-
   Telli koduleht koos tasuta veebimajutuse ja sisuhaldustarkvara
