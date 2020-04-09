@@ -3,35 +3,48 @@ templateKey: blog-post
 title: Ettevõtte kodulehe tegemine React JS-ga
 date: 2020-04-08T04:57:25.469Z
 description: >-
-  Telli koduleht koos tasuta veebimajutuse ja sisuhaldustarkvara
-  kasutuselevõtuks vajaliku konsultatsiooniga. Loome üheleherakendusi, mille
-  tulemusel on valminud kodulehed kiiremad ja paremini otsingumootoritele
-  optimeeritud.
+  Üheleherakendus tüüpi kiire ja kasutajasõbraliku veebilehe valmistamine.
+  Täislahendus koos veebimajutusega. Teeme kodulehe tegemise ettevõtjale
+  lihtsaks.
 featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
   - teenused
   - põhiteenus
 ---
-![Ettevõtte kodulehe tegemine](/img/ettevõtte-kodulehe-tegemine.jpg "Ettevõtte kodulehe tegemine")
+![Ettevõtte kodulehe tegemine](/img/kodulehe-tegemine-sisu-loomine.jpg "Ettevõtte kodulehe tegemine")
 
-## Teenus sobib igas suuruses ettevõtte turunduseks
+## Valmistame kiireid otsingumootorile optimeeritud kodulehti
 
-Ettevõtja jaoks on kodulehe eelis teiste turunduskanalite ees, et see jõuab inimesteni, kes ise aktiivselt otsivad pakutavat toodet või teenust. Meie teenuse eelis konkurentide ees on uuema tehnoloogia kasutamine, mis tagab parema koha interneti otsingmootoris.
+Teeme tehnoloogiliselt uuemaid, React JS põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehti. See tagab sujuva kasutajakogemuse - valminud veebileht töötab nagu töölauaprogramm ilma katkestusteta eri lehtede vahel.
+Mõned üheleherakendus tüüpi kodulehte iseloomustavad omadused:
 
-Tehtud kodulehe väärtust ettevõtte jaoks saab hinnata külastajate arvu ja sellest tuleneva statistika järgi. Selle mõõtmiseks kasutame Google Analytics-it ja Google Search Console. Kodulehe külastatavuse statistika järgi paneme paika edasised tegevused.
+* sujuv kasutuskogemus erinevate lehtede vahel
+* koduleht on kasutatav internetilevita
+* kodulehe saab salvestada avakuvale nagu rakenduse
+* koduleht on kiire ka suuri pilte kasutades
 
-## Kohtumine tellija valitud kohas
+## Pakume kodulehe tegemist eri- ja standardlahendusena.
 
-Täpsustame tööde sisu, mahu ja orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja maksetingimuste paikapanemisel.
+#### Standardlahendusena valminud koduleht:
 
-Peale kohtumist valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti ja teeme pildid.
+* blogi funktsionaalsusega koduleht sisuhaldustarkvara toega
+* kontaktide leht kirja saatmiseks
+* postituste grupeerimine siltidega
+* tasuta veebimajutus ja domeen
+* kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus
 
-Indekseerime valminud kodulehe interneti otsingumootorites. Tagame veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe külastatavust ja selgitame välja võimalikud edasised tegevused. Personaalne lähenemine igale projektile aitab ennetada turul toimuvaid muutuseid ja tagab ettevõttele edu konkurentide ees.
+#### Erilahendusena valminud koduleht:
 
-## Kiired ja otsingumootorile optimeeritud kodulehed
+* e kaubandusega seotud lahendused
+* erinevatele sihtturgudele mõeldud lahendused
+* isikupärane disain ja animatsioon
 
-Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See tagab suurema külastatavuse, sest neid lehti kuvatakse eelisjärjekorras.
+Tavalahendusena valminud veebilehele on võimalik erilahendusi ja funktsionaalsust hiljem lisada.
+
+### Kodulehe tegemisel keskendume hea kasutuskogemuse pakkumisele
+
+Loodud lehed on kiired ja lähtume programmeerimisel parimast praktikast.
 
 ![Tellikoduleht.ee mõõtmistulemused](/img/tellikoduleht.ee-mõõtmistulemused.png "Tellikoduleht.ee mõõtmistulemused")
 
@@ -42,26 +55,15 @@ Valminud kodulehed on kiiremad ja paremini otsingumootoritele optimeeritud. See 
 
 Allikas: [web.dev](https://web.dev/measure/)
 
-## React JS-ga on võimalik luua mahukaid kodulehti
+## Kodulehe tegemine - tööprotsess
 
-Loodud kodulehed võivad koosneda kümnetest või sadadest lehtedest ja on kiired ka suuri pilte kasutades.
+[Tellimise lehel](https://tellikoduleht.ee/kodulehe-tellimine/) oleva [küsimustiku](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform) abil selgitame esmalt välja, mida tellija täpselt vajab. Peale tellimuse saamist valmistame kodulehe prooviversiooni, mida saab hallata sisuhaldustarkvaraga Netlify CMS. Kui kodulehe sisu on valmis, viime prooviversiooni tellija soovitud domeenile.
 
-* Kodulehe tegemine - hind 1200 € (15 €/h), tööaeg 80h
-* kodulehe prooviversiooni ülesseadmine ja kliendile kättesaadavaks tegemine - 4h
-* otsingusõnade ja konkurentide analüüs - 8h
-* kodulehe prooviversiooni eestindamine - 8h
-* Netlify CMS konsultatsioon kliendile - 8h
-* kliendi loodud kodulehe teksti redigeerimine ja optimeerimine - 8h
-* kodulehe prooviversiooni kliendi soovitud domeenile üleviimine Netlify keskkonnas - 4h
-* vajalike lisade lisamine - 8h
-* kodulehe indekseerimine otsingumootorites -4h
-* garantiitööd esimese aasta jooksul - 16h
-* aasta lõpus külastatavuse analüüs, kodulehe redigeerimine ja optimeerimine - 8h
+* otsingusõnade ja konkurentide analüüs
+* prooviversiooni ülesseadmine, redigeerimine ja kliendile kättesaadavaks tegemine
+* teksti loomine, redigeerimine ja optimeerimine
+* prooviversiooni kliendi soovitud domeenile üleviimine
+* kodulehe indekseerimine interneti otsingumootorites
+* kodulehe haldus
 
-Teenuse maksetingimused - pool summast tuleb kliendil ette maksta ja teine pool enne kodulehe otsingumootoris indekseerimist, st kui koduleht on valmis.
-
-Tööaja sisse on arvestatud 16 tundi garantiitöid esimese aasta jooksul ja 8 tundi aasta lõpus, hindamaks lehe külastatavust jms.
-
-## Orienteeruv aeg ühe kodulehe valmistamiseks on kolm nädalat.
-
-Täpsemalt sõltub see kliendist - kui oled võimeline kiiresti sisuhaldustarkvara kasutusele võtma ja kodulehe sisu looma on see aeg lühem.
+Orienteeruv aeg ühe kodulehe valmistamiseks on kolm nädalat.
