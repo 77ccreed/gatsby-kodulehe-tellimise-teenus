@@ -100,8 +100,8 @@ export const IndexPageTemplate = ({
                   </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/teenused/">
-                        Kõik teenused
+                      <Link className="btn" to="/turundus/">
+                        Ettevõtte turundus
                     </Link>
                     </div>
                   </div>
