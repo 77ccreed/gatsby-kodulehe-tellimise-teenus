@@ -49,7 +49,7 @@ const TemplateWrapper = ({ children }) => {
         />
 
         <meta property="twitter:card" content="summary" />
-        <meta property="twitter:creator" content={author} />
+        <meta property="twitter:creator" content="@tellikoduleht" />
         <meta property="twitter:title" content={title} />
         <meta property="twitter:description" content={description} />
 

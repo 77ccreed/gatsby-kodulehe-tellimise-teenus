@@ -3,8 +3,7 @@ module.exports = {
     title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus.',
     description:
       'Telli koduleht koos veebimajutusega. Teeme veebilehest sinu ettevõtte peamise turunduskanali. Pakume konkurentsieelist uuema tehnoloogia kasutamise näol.',
-    siteUrl: 'https://tellikoduleht.ee',
-    author: 'Kiur Jullis'
+    siteUrl: 'https://tellikoduleht.ee'
   },
   plugins: [
     {
