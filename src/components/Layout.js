@@ -73,7 +73,8 @@ const TemplateWrapper = ({ children }) => {
             "areaServed": "Estonia",
             "founder": "Kiur Jullis",
             "url": "https://tellikoduleht.ee/",
-            "sameAs": "https://www.facebook.com/O%C3%9C-Kodulehe-Tellimine-111480883801254/",
+            "sameAs": ["https://www.facebook.com/O%C3%9C-Kodulehe-Tellimine-111480883801254/",
+              "https://twitter.com/tellikoduleht"],
             "image": [
               "https://tellikoduleht.ee/static/4c2933e846982f2a735f0a0341b220b5/2198e/tellikoduleht.ee-m%C3%B5%C3%B5tmistulemused.png",
               "https://tellikoduleht.ee/static/142d495308561c83548aea4882afbadf/fb329/ettev%C3%B5tte-kodulehe-tegemine.jpg",
