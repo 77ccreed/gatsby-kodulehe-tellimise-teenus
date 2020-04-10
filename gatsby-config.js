@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus.',
+    title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus',
     description:
-      'Telli koduleht koos veebimajutusega. Teeme veebilehest sinu ettevõtte peamise turunduskanali. Pakume konkurentsieelist uuema tehnoloogia kasutamise näol.',
+      'Ettevõtte kodulehe tegemine täislahendusena. Valmistame veebilehe uuemat, React JS põhist tehnoloogiat kasutades. See annab konkurentsieelise.',
     siteUrl: 'https://tellikoduleht.ee'
   },
   plugins: [
