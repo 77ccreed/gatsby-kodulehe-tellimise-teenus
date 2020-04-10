@@ -48,6 +48,11 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix('/')}img/og-image.png`}
         />
 
+        <meta property="twitter:card" content="summary" />
+        <meta property="twitter:creator" content={author} />
+        <meta property="twitter:title" content={title} />
+        <meta property="twitter:description" content={description} />
+
         <meta name="google-site-verification" content="DYwWl0JM6R7-PjJn43OLicq2M9mfJLNIML4cG4_CkhI" />
 
         <script type="application/ld+json">
