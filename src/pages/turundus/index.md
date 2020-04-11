@@ -2,35 +2,36 @@
 templateKey: product-page
 title: Ettevõtte turundus
 image: /img/kodulehe-tegemine-sisu-loomine.jpg
-heading: Pakume konkurentsieelist läbimõeldud lahendusi kasutades
+heading: 'Edesta konkurenti kvaliteetset lahendust kasutades '
 description: >-
-  Koduleht on ettevõtte jaoks parim turunduskanal, sest see jõuab inimesteni,
-  kes ise aktiivselt otsivad internetist endale vajalikku toodet või teenust.
-  Meie teenuse eelis teiste kodulehe tegijate ees on uuema tehnoloogia
-  kasutamine. Vali kvaliteetne turundus läbi ettevõtte kodulehe.
+  Koduleht on ettevõtte jaoks parim turunduskanal. See jõuab inimesteni, kes ise
+  aktiivselt otsivad endale vajalikku toodet või teenust. Meie eelis teiste
+  kodulehe tegijate ees on uuema tehnoloogia kasutamine. Vali kvaliteetne
+  turundus läbi ettevõtte kodulehe. Selleks täida kontaktvorm tellimise lehel.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
-        Valmistame üheleherakendus tüüpi veebilehti, mis loovad sujuva
-        kasutajakogemuse. Koduleht töötab nagu töölauaprogramm. Selliseid
-        kodulehti tehakse Eestis endiselt vähe ja see annab ettevõttele eelise.
+        Valmistame üheleherakendus tüüpi kodulehti, mis loovad sujuva
+        kasutajakogemuse. Veebileht töötab nagu töölauaprogramm, katkestusteta
+        eri lehtede vahel. Selliseid kodulehti tehakse Eestis endiselt vähe ja
+        selle omamine annab ettevõttele eelise konkurendi ees.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
         Kodulehe tegemisel on kõige raskem isikupärase sisu loomine. Enamasti
         alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele.
-        Kodulehe teksti kirjutamise teenus teeb tellija jaoks selle lihtsaks.
+        Kodulehe teksti kirjutamise teenus teeb turundusteksti loomise tellija
+        jaoks lihtsaks.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
-        Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Konsultatsioon
-        hõlbustab edaspidist kodulehe sisu loomist. Anname ülevaate, millisena
-        paistab tellija ja konkurendid interneti otsingus ja mida saab teha
-        ettevõtte leitavuse parandamiseks.
+        Aitame kodulehe sisuhaldustarkvara kasutusele võtta. Anname ülevaate,
+        millisena paistab tellija ja konkurendid interneti otsingus. Selgitame
+        välja, mida saab teha ettevõtte leitavuse parandamiseks.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
         Meie eesmärk on pikaajaline koostöö ja kasvada koos kliendiga. Esmalt
-        valmistame kodulehe ja hiljem vajaduse tekkides arendame seda edasi
-        funktsionaalsust lisades ja kodulehe sisu optimeerides.
+        valmistame kodulehe ja arendame seda siis edasi funktsionaalsust lisades
+        ning sisu optimeerides. 
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -40,11 +41,11 @@ intro:
 main:
   heading: Tänapäevane lahendus sobib igas suuruses ettevõtte turunduseks
   description: >-
-    Uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis endiselt vähe. Neid
-    kasutavad peamiselt suured ettevõtted, kes peavad ülal enda arendajate
-    meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav ka väikestele ja
-    alles alustavatele ettevõtetele. Muudame kodulehe ettevõtte peamiseks
-    turunduskanaliks. 
+    Tehnoloogiliselt uuemaid, üheleherakendus tüüpi kodulehti tehakse Eestis
+    endiselt vähe. Neid kasutavad peamiselt suured ettevõtted, kes peavad ülal
+    enda arendajate meeskondi. Pakume kvaliteetset teenust, mis on kättesaadav
+    ka väikestele ja alles alustavatele ettevõtetele. Muudame kodulehe ettevõtte
+    peamiseks turunduskanaliks.
   image1:
     alt: Kodulehe optimeerimine
     image: /img/computer-data-display-documents-577210.jpg
@@ -61,34 +62,34 @@ testimonials:
       lihtsaid ja hästi töötavaid lahendus.
 full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
-  heading: Lisatööd valminud kodulehel ja muud teenused
+  heading: 'Vaata, milline lahendus sobib Sinu ettevõtte turundamiseks'
   description: >-
-    Valminud kodulehti on võimalik edaspidi täiendada lisades funktsionaalsust
-    ja isikupära. Kõigi teenuste hind on 15 € tunnis. Kõik hinnad on lõplikud ja
-    käibemaksu ei lisandu.
+    Kõik hinnad on lõplikud ja käibemaksu ei lisandu. Kui tellija ei jää rahule
+    kodulehe külastatavusega, pakume igakuisete maksete peatamist. Teenusest
+    loobumisega tasusid ei kaasne.
   plans:
-    - description: Kodulehel väiksemate muutuste tegemine töömahuga 40 tundi.
+    - description: Avamishind esimesele kümnele tellijale.
       items:
-        - optimeerimine
-        - redigeerimine
-        - konsultatsioon
-        - fotograafi teenus
-      plan: Lühiajaline projekt
-      price: '600'
-    - description: Kodulehel suuremate muutuste tegemiseks töömahuga 60 tundi.
+        - kodulehe tegemine
+        - sisu loomine
+        - kodulehe haldus
+        - veebimajutus ja domeen
+      plan: Igakuine makse
+      price: '99'
+    - description: 'Kodulehe tegemine kliendi loodud sisule. '
       items:
-        - kodulehe teksti kirjutamine
-        - isikupärased disainilahendused
-        - isikupärased animatsioonilahendused
-        - suuremahulise kontaktvormi loomine
-      plan: Pikaajaline projekt
-      price: '800'
-    - description: Kodulehel väga suurte muutuste tegemiseks.
+        - kodulehe tegemine
+        - sisuhaldustarkvara Netlify CMS
+        - konsultatsioon ja optimeerimine
+        - veebimajutus ja domeen
+      plan: 'Ühekordne makse '
+      price: '1200'
+    - description: Erilahendus kodulehe tegemiseks.
       items:
         - erinevatele sihtturgudele mõeldud lahendused
         - e kaubanduse lahendused
         - lisatööjõu kaasamist nõudvad projektid
-      plan: Määramata ajaga
+      plan: Määramata hinnaga
       price: '??'
 ---
 
