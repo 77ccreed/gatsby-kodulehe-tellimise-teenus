@@ -9,38 +9,40 @@ subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus!'
   description: >-
-    Parim viis kliendini jõudmiseks - pole vaja reklaamile ja teistele
-    turundustegevustele aega ja raha enam kulutada.
+    Parim viis kliendini jõudmiseks - pole vaja reklaamile aega ja raha enam
+    kulutada. 
 description: >-
-  Üheleherakenduse tüüpi koduleht loob sujuva kasutuskogemuse. Aitame
-  sisuhaldustarkvara kasutusele võtta, vajadusel teksti ja piltide loomisel.
-  Täislahendus koos veebimajutuse ja domeeniga 99 € kuus.
+  Teeme tehnoloogiliselt uuemaid, React JS põhiseid üheleherakendus tüüpi
+  kodulehti. See tagab sujuva kasutajakogemuse ja annab edu interneti
+  otsingumootoris. Suurem külastajate arv toob kasu Sinu ettevõttele ja annab
+  eelise konkurendi ees. 
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
       text: >+
         Kohtumine tellija valitud kohas aitab täpselt välja selgitada, mida on
-        vaja eduka kodulehe loomiseks. Täpsustame tööde sisu, mahu ja
+        vaja eduka kodulehe tegemiseks. Täpsustame tööde sisu, mahu ja
         orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja
         maksetingimuste paikapanemisel.
 
 
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
-        Valmistame materjalid kodulehe sisu loomiseks. Hindame ettevõtte
+        Valmistame materjalid kodulehe sisu tegemiseks. Hindame ettevõtte
         positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning
         aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti
-        ja teeme pildid.
+        ja teeme fotod.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
-        Indekseerime valminud kodulehe interneti otsingumootorites.  Tagame
+        Indekseerime valminud kodulehe interneti otsingumootoris. Tagame
         veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe
-        külastatavust ja selgitame välja võimalikud edasised tegevused.
-    - image: /img/blur-close-up-code-computer-546819.jpg
+        külastajate hulka ja selgitame välja võimalikud edasised tegevused.
+    - image: /img/computer-data-display-documents-577210.jpg
       text: >
-        Võimalikud lisatööd valminud kodulehel. Personaalne lähenemine igale
-        projektile aitab ennetada turul toimuvaid muutuseid ja tagab ettevõttele
-        edu konkurentide ees.       
+        Teeme kodulehe haldamise lihtsaks. Lisaks võimalusele ise kodulehte
+        hallata pakume veebihalduri teenust. Tellija ei pea sisutekstide
+        kirjutamisega vaeva nägema, tegelema lehe redigeerimise ja
+        optimeerimisega.     
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
