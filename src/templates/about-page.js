@@ -39,7 +39,7 @@ const AboutPage = ({ data }) => {
     <Layout>
       <Helmet>
         <title>OÜ Kodulehe Tellimine - programmeerimine ja konsultatsioon</title>
-        <meta name="description" content="Kiired ja kasutajasõbralikud üheleherakendus tüüpi kodulehed tagavad edu. Programmeerimine, arvutialane konsultatsioon ja teised teenused." />
+        <meta name="description" content="OÜ Kodulehe Tellimine. Kaasaegsed kodulehe tegemisega seotud lihtsad ja hästi töötavad lahendused. Programmeerimine ja arvutialane konsultatsioon." />
       </Helmet >
       <AboutPageTemplate
         contentComponent={HTMLContent}
