@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
-title: Ettevõtte turundus
-image: /img/yellow-black-and-purple-colored-papers-2457284.jpg
+title: Turundus
+image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: 'Edesta konkurenti kvaliteetset lahendust kasutades '
 description: >-
   Koduleht on ettevõtte jaoks parim turunduskanal. See jõuab inimesteni, kes ise
