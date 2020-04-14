@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ettevõtte kodulehe tegemine
-image: /img/kodulehe-tegemine-sisu-loomine.jpg
+image: /img/kodulehe-valmistamine.jpg
 heading: >-
   Täida küsimustik tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia
   kasutamise näol.
