@@ -32,9 +32,9 @@ export const ProductPageTemplate = ({
           className="has-text-weight-bold is-size-1"
           style={{
             boxShadow:
-              'rgb(255, 68, 0, 0.7) 0.5rem 0px 0px, rgb(255, 68, 0, 0.7) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(255, 68, 0, 0.7)',
-            color: 'white',
+              'rgb(31, 53, 77, 0.6) 0.5rem 0px 0px, rgb(31, 53, 77, 0.6) -0.5rem 0px 0px',
+            backgroundColor: 'rgb(31, 53, 77, 0.6)',
+            color: '#ECF0F4',
             padding: '1rem',
           }}
         >
