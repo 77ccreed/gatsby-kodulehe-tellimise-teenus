@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ettevõtte kodulehe tegemine
-image: /img/yellow-black-and-purple-colored-papers-2457284.jpg
+image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: >-
   Täida küsimustik tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia
   kasutamise näol.
