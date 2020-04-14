@@ -15,7 +15,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/kodulehe-tegemine-sisu-loomine.jpg')`,
+            backgroundImage: `url('/img/kodulehe-tegemine-taustapilt.jpg')`,
           }}
         >
           <h1
@@ -28,7 +28,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Kõik teenused
+            Teenused
           </h1>
         </div>
         <section className="section">
