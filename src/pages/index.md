@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ettevõtte kodulehe tegemine
-image: /img/kodulehe-tegemine-taustapilt.jpg
+image: /img/adolescence-attractive-beautiful-blur-573299.jpg
 heading: >-
   Täida küsimustik tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia
   kasutamise näol.
