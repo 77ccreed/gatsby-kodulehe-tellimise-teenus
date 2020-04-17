@@ -34,7 +34,7 @@ export const ProductPageTemplate = ({
             boxShadow:
               'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
             backgroundColor: 'rgb(31, 53, 77, 0.5)',
-            color: '#ECF0F4',
+            color: '#D7DBDE',
             padding: '1rem',
           }}
         >

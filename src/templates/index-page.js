@@ -39,12 +39,10 @@ export const IndexPageTemplate = ({
           <h1
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
-              //boxShadow:
-              //'rgb(31, 53, 77, 0.6) 0.5rem 0px 0px, rgb(31, 53, 77, 0.6) -0.5rem 0px 0px',
-              borderRadius: '5px',
-              backgroundColor: 'rgb(31, 53, 77, 0.2)',
-              backgroundImage: 'linear-gradient(to right, rgb(31, 53, 77, 0.6) , rgb(236, 240, 244,0.2)',
-              color: '#DAE2EA',
+              boxShadow:
+                'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
+              backgroundColor: 'rgb(31, 53, 77, 0.5)',
+              color: '#D7DBDE',
               lineHeight: '1',
               padding: '0.25em',
             }}
@@ -54,11 +52,9 @@ export const IndexPageTemplate = ({
           <h3
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
-              // boxShadow:
-              // 'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
-              borderRadius: '5px',
-              backgroundColor: 'rgb(31, 53, 77, 0.2)',
-              backgroundImage: 'linear-gradient(to right, rgb(31, 53, 77, 0.6) , rgb(236, 240, 244,0.2)',
+              boxShadow:
+                'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
+              backgroundColor: 'rgb(31, 53, 77, 0.5)',
               color: '#D7DBDE',
               lineHeight: '1',
               padding: '0.25em',

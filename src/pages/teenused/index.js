@@ -24,7 +24,8 @@ export default class BlogIndexPage extends React.Component {
               boxShadow:
                 'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
               backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#ECF0F4',
+              //backgroundImage: 'linear-gradient(to right, rgb(31, 53, 77, 0.6) , rgb(236, 240, 244,0.2)',
+              color: '#D7DBDE',
               padding: '1rem',
             }}
           >
