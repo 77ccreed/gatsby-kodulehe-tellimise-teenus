@@ -18,7 +18,7 @@ description: >-
   eelise konkurendi ees. 
 intro:
   blurbs:
-    - image: /img/advice-advise-advisor-business-7075.jpg
+    - image: /img/headset.svg
       text: >+
         Kohtumine tellija valitud kohas aitab täpselt välja selgitada, mida on
         vaja eduka kodulehe tegemiseks. Täpsustame tööde sisu, mahu ja
