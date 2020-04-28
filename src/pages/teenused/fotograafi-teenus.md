@@ -1,4 +1,5 @@
 ---
+  <Helmet>
 	<script type="application/ld+json">
 {
   "@context": "https://schema.org/",
@@ -21,6 +22,7 @@
   }
 }
 </script>
+</Helmet>
 templateKey: blog-post
 title: Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
