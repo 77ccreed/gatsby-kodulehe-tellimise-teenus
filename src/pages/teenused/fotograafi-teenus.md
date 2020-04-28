@@ -1,4 +1,5 @@
 ---
+[_metadata_:author]:- "kiur jullis"
 templateKey: blog-post
 title: Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
@@ -11,6 +12,7 @@ tags:
   - teenused
   - lisateenus
 ---
+
 ![Fotograafi teenus](/img/kodulehe-piltide-ja-videode-tegemine.jpg "Fotograafi teenus")
 
 Lisateenus ettevõtte kodulehele piltide ja videode tegemiseks ja töötlemiseks. Portree- ja maastikuvaates pildistamine sobib inimeste, asjade ja erinevate vaadete jäädvustamiseks. Konsultatsioon, kuidas kodulehele pilte lisada.
