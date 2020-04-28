@@ -1,5 +1,26 @@
 ---
-[_metadata_:author]: "kiur jullis"
+	<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": "Fotograafi teenus",
+   "image": "https://tellikoduleht.ee/static/34f4ce1b2a4eac084db5b50540639cc7/fb329/kodulehe-piltide-ja-videode-tegemine.jpg",
+  "description": " Fotograafi teenus kodulehe piltide ja videode tegemiseks fotoaparaadiga Nikon d5500 ja Sigma 18-35mm läätsega. Teenuse hind on 600 €",
+  "url": "https://tellikoduleht.ee/teenused/fotograafi-teenus/",     
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "EUR",
+    "price": "600",
+    "priceValidUntil": "2021-11-05",
+    "itemCondition": "http://schema.org/NewCondition",
+    "availability": "http://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "OÜ Kodulehe Tellimine"
+    }
+  }
+}
+</script>
 templateKey: blog-post
 title: Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
