@@ -1,5 +1,5 @@
 ---
-[_metadata_:author]:- "kiur jullis"
+[_metadata_:author]: "kiur jullis"
 templateKey: blog-post
 title: Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
