@@ -86,7 +86,7 @@ const BlogPost = ({ data }) => {
                 "offers": {
                   "@type": "Offer",
                   "priceCurrency": "EUR",
-                  "price": "15",
+                  "price": "99",
                   "priceValidUntil": "2022-11-05",
                   "itemCondition": "http://schema.org/NewCondition",
                   "availability": "http://schema.org/InStock",
