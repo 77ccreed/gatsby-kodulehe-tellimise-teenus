@@ -78,12 +78,12 @@ const BlogPost = ({ data }) => {
                 "name": `${post.frontmatter.title}`,
                 "image": "https://tellikoduleht.ee/static/a256d11f074614a797d05909d8d6f863/fb329/kodulehe-tegemine-sisu-loomine.jpg",
                 "description": `${post.frontmatter.description}`,
-                "url": `https://tellikoduleht.ee${post.fields.slug}`,
                 "mpn": `${post.frontmatter.title}`,
                 "sku": `${post.frontmatter.sku}`,
                 "brand": {
                   "@type": "Thing",
-                  "name": "OÜ Kodulehe Tellimine"
+                  "name": "OÜ Kodulehe Tellimine",
+                  "url": `https://tellikoduleht.ee${post.fields.slug}`,
                 },
                 "offers": {
                   "@type": "Offer",
