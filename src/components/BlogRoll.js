@@ -82,6 +82,8 @@ export default () => (
                 description
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
+                price
+                sku
                 featuredpost
                 featuredimage {
                   childImageSharp {

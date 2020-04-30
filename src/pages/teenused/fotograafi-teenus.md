@@ -2,6 +2,8 @@
 templateKey: blog-post
 title: Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
+price: 400
+sku: 01
 description: >-
   Fotograafi teenus kodulehe piltide ja videode tegemiseks fotoaparaadiga Nikon
   d5500 ja Sigma 18-35mm läätsega.

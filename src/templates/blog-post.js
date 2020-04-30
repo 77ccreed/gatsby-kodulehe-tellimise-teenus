@@ -78,6 +78,7 @@ const BlogPost = ({ data }) => {
                 "name": `${post.frontmatter.title}`,
                 "image": "https://tellikoduleht.ee/static/a256d11f074614a797d05909d8d6f863/fb329/kodulehe-tegemine-sisu-loomine.jpg",
                 "description": `${post.frontmatter.description}`,
+                //"url": `https://tellikoduleht.ee${fileAbsolutePath.fields.slug}`,
                 "mpn": `${post.frontmatter.title}`,
                 "brand": {
                   "@type": "Thing",
@@ -86,7 +87,8 @@ const BlogPost = ({ data }) => {
                 "offers": {
                   "@type": "Offer",
                   "priceCurrency": "EUR",
-                  "price": "99",
+                  "price": `${post.frontmatter.price}`,
+                  "sku": `${post.frontmatter.sku}`,
                   "priceValidUntil": "2022-11-05",
                   "itemCondition": "http://schema.org/NewCondition",
                   "availability": "http://schema.org/InStock",
@@ -124,7 +126,13 @@ export const pageQuery = graphql`
         title
         description
         tags
+        price
+        sku
       }
+       fileAbsolutePath
+          fields {
+            slug
+          }
     }
   }
 `
