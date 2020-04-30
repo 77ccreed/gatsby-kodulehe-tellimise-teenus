@@ -80,6 +80,7 @@ const BlogPost = ({ data }) => {
                 "description": `${post.frontmatter.description}`,
                 //"url": `https://tellikoduleht.ee${fileAbsolutePath.fields.slug}`,
                 "mpn": `${post.frontmatter.title}`,
+                "sku": `${post.frontmatter.sku}`,
                 "brand": {
                   "@type": "Thing",
                   "name": "OÜ Kodulehe Tellimine"
@@ -88,7 +89,6 @@ const BlogPost = ({ data }) => {
                   "@type": "Offer",
                   "priceCurrency": "EUR",
                   "price": `${post.frontmatter.price}`,
-                  "sku": `${post.frontmatter.sku}`,
                   "priceValidUntil": "2022-11-05",
                   "itemCondition": "http://schema.org/NewCondition",
                   "availability": "http://schema.org/InStock",
