@@ -59,6 +59,7 @@ const TemplateWrapper = ({ children }) => {
           {JSON.stringify({
             "@context": "http://schema.org",
             "@type": "LocalBusiness",
+            "openingHours": "Mo,Tu,We,Th,Fr, 08:00-17:00",
             "address": {
               "@type": "PostalAddress",
               "addressCountry": "Estonia",
