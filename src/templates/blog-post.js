@@ -82,13 +82,13 @@ const BlogPost = ({ data }) => {
                 "sku": `${post.frontmatter.sku}`,
                 "brand": {
                   "@type": "Thing",
-                  "name": "OÜ Kodulehe Tellimine",
-                  "url": `https://tellikoduleht.ee${post.fields.slug}`,
+                  "name": "OÜ Kodulehe Tellimine"
                 },
                 "offers": {
                   "@type": "Offer",
                   "priceCurrency": "EUR",
                   "price": `${post.frontmatter.price}`,
+                  "url": `https://tellikoduleht.ee${post.fields.slug}`,
                   "priceValidUntil": "2022-11-05",
                   "itemCondition": "http://schema.org/NewCondition",
                   "availability": "http://schema.org/InStock",
