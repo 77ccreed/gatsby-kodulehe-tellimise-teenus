@@ -29,7 +29,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Teenused
+            Kodulehe tellimise teenused
           </h1>
         </div>
         <section className="section">
