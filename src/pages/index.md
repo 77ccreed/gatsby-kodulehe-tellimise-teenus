@@ -1,10 +1,10 @@
 ---
 templateKey: index-page
-title: Ettevõtte kodulehe tegemine
+title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: >-
-  Täida küsimustik tellimise lehel. Pakume konkurentsieelist uuema tehnoloogia
-  kasutamise näol.
+  Täida küsimustik tellimise lehel. Valmistame React JS põhise veebilehe, mis
+  töötab nagu töölauaprogramm.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus!'
@@ -12,37 +12,39 @@ mainpitch:
     Parim viis kliendini jõudmiseks - pole vaja reklaamile aega ja raha enam
     kulutada. 
 description: >-
-  Teeme tehnoloogiliselt uuemaid, React JS põhiseid üheleherakendus tüüpi
-  kodulehti. See tagab sujuva kasutajakogemuse ja annab edu interneti
-  otsingumootoris. Suurem külastajate arv toob kasu Sinu ettevõttele ja annab
-  eelise konkurendi ees. 
+  Meie loodud veebileht tagab sujuva kasutajakogemuse ja annab edu interneti
+  otsingumootoris. Tellija võib lehte sisuhaldustarkvaraga hallata või selle
+  meie hooleks jätta - valmistame lehe sisu ja pakume veebihalduri teenust.
+  Toome kliendid Sinu ärile. Iga veebilehe eripärast lähtudes lisame
+  funktsionaalsust ning optimeerime sisu. Täislahendus teenus sisaldab domeeni
+  ja veebimajutust. Teenusest loobumisega tasusid ei kaasne.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
       text: >+
         Kohtumine tellija valitud kohas aitab täpselt välja selgitada, mida on
-        vaja eduka kodulehe tegemiseks. Täpsustame tööde sisu, mahu ja
+        vaja eduka veebilehe valmistamiseks. Täpsustame tööde sisu, mahu ja
         orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja
         maksetingimuste paikapanemisel.
 
 
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
-        Valmistame materjalid kodulehe sisu tegemiseks. Hindame ettevõtte
-        positsiooni turul ja konkurente. Loome kodulehe prooviversiooni ning
-        aitame sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti
-        ja teeme fotod.
+        Valmistame materjalid lehe sisu loomiseks. Hindame ettevõtte positsiooni
+        turul ja konkurente. Loome veebilehe prooviversiooni ning aitame
+        sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti ja teeme
+        fotod.
     - image: /img/analogue-background-business-camera-593324.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootoris. Tagame
-        veebimajutuse ja vajadusel teostame garantiitööd. Hindame kodulehe
-        külastajate hulka ja selgitame välja võimalikud edasised tegevused.
+        veebimajutuse ja teostame garantiitööd. Külastajate hulga ning käitumise
+        järgi selgitame välja edasised tegevused.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >
-        Teeme kodulehe haldamise lihtsaks. Lisaks võimalusele ise kodulehte
-        hallata pakume veebihalduri teenust. Tellija ei pea sisutekstide
-        kirjutamisega vaeva nägema, tegelema lehe redigeerimise ja
-        optimeerimisega.     
+        Veebihalduri teenus. Tellija ei pea sisutekstide kirjutamisega vaeva
+        nägema. Redigeerime ja optimeerime sisu lähtudes parimast praktikast ja
+        aastatepikkusest kogemusest. Lisame vajaliku funktsionaalsuse ja
+        isikupärase disaini.
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
