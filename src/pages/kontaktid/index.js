@@ -44,12 +44,9 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Ettevõtte kodulehe tellimine</h1>
-              <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks kliki siin.</a>
-              <hr />
+              <h1>Saada meile kiri</h1>
               <form
-                name="contact"
+                name="kontakt"
                 method="post"
                 action="/kodulehe-tellimine/tellimus-tehtud/"
                 data-netlify="true"
@@ -57,7 +54,7 @@ export default class Index extends React.Component {
                 onSubmit={this.handleSubmit}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
+                <input type="hidden" name="form-name" value="kontakt" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
@@ -147,6 +144,10 @@ export default class Index extends React.Component {
               <p>Telefon: (+372) 56 8844 56</p>
               <p>E-mail: kiur.jullis@gmail.com</p>
               <p>Arveldusarve: SEB EE461010220285246226</p>
+              <hr />
+              <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks kliki siin.</a>
+
             </div>
           </div>
         </section>
