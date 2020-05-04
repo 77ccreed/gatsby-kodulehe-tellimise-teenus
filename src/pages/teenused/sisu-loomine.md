@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Kodulehe sisu loomine ehk teksti kirjutamine
 date: 2020-04-07T04:42:12.611Z
-price: 800
+price: 799
 sku: 04
 description: >-
   Teksti kirjutamise teenus. Valmistame kodulehe sisu ning pakume

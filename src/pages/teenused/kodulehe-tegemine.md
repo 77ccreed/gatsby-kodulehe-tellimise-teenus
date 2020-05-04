@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Ettevõtte kodulehe tegemine React JS-ga
 date: 2020-04-08T04:57:25.469Z
-price: 1200
+price: 1199
 sku: 02
 description: >-
   Üheleherakendus tüüpi kiire ja kasutajasõbraliku veebilehe valmistamine.
