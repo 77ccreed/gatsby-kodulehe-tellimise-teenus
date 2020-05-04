@@ -2,13 +2,12 @@
 templateKey: product-page
 title: Turundus läbi kodulehe
 image: /img/kodulehe-tegemine-taustapilt.jpg
-heading: Tulemusele suunatud turundus annab ettevõttele edu konkurendi ees
+heading: Tulemusele suunatud sihtturundus toob ettevõttele edu
 description: >-
   Koduleht on parim turunduskanal. Kui oled interneti otsingus esilehel. Kui
-  mitte jääd konkurendi varju. Aitame Sinu äril sihtrühmani jõuda, ilma et
-  peaksid reklaamile aega ja raha enam tingimata kulutama.  Valmistame
-  turunduslikult atraktiivse veebilehe, mis toob kliendid Sinu firmale ning
-  aitab turundusplaanis seatud sihid saavutada. Vali kvaliteetne turundus läbi
+  mitte jääd konkurendi varju. Aitame äril sihtrühmani jõuda, ilma et peaks
+  reklaamile aega ja raha enam tingimata kulutama. Valmistame turunduslikult
+  atraktiivse veebilehe, mis toob kliendid. Vali kvaliteetne turundus läbi
   ettevõtte kodulehe.
 intro:
   blurbs:
