@@ -48,16 +48,16 @@ export default class Index extends React.Component {
               <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
                 title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks kliki siin.</a>
               <hr />
-              <form
+              {/*<form
                 name="contact"
                 method="post"
                 action="/kodulehe-tellimine/tellimus-tehtud/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
-              >
-                {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
+              >*/}
+              {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+              {/*<input type="hidden" name="form-name" value="contact" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
@@ -139,8 +139,7 @@ export default class Index extends React.Component {
                     Saada kiri
                   </button>
                 </div>
-              </form>
-              <hr />
+            </form>*/}
               <h3>OÜ Kodulehe Tellimine</h3>
               <p>Reg: 14933675</p>
               <p>Petseri tn. 8-53, 68204, Valga, Eesti</p>
