@@ -74,7 +74,6 @@ export const IndexPageTemplate = ({
                     <div className="tile">
                       <h2 className="title is-size-3">{mainpitch.title}</h2>
                     </div>
-
                     <div className="tile">
                       <h4 className="subtitle is-size-4">{mainpitch.description}</h4>
                     </div>
@@ -84,15 +83,21 @@ export const IndexPageTemplate = ({
                       <h3 className="has-text-weight-semibold is-size-2 is-size-3-mobile">
                         {heading}
                       </h3>
+
+                      <div className="column is-12 has-text-centered">
+                        <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                          title="Kodulehe tellimise kontaktvorm">Ava tellimise leht</a>
+                      </div>
+
                       <p>{description}</p>
                     </div>
                   </div>
+
                   <Features gridItems={intro.blurbs} />
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/kodulehe-tellimine/">
-                        Ettevõtte kodulehe tellimine
-                    </Link>
+                      <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                        title="Kodulehe tellimise kontaktvorm">Ava tellimise leht</a>
                     </div>
                   </div>
                   <div className="column is-12">
@@ -102,7 +107,7 @@ export const IndexPageTemplate = ({
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
                       <Link className="btn" to="/turundus/">
-                        Ettevõtte turundus
+                        Ava turunduse leht
                     </Link>
                     </div>
                   </div>
