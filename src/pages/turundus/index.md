@@ -85,14 +85,14 @@ pricing:
         - kodulehe tegemine
         - sisuhaldustarkvara Netlify CMS
         - konsultatsioon ja optimeerimine
-        - veebimajutus ja domeen
       plan: 'Ühekordne makse '
-      price: '1200'
+      price: '1199'
     - description: Erilahendus kodulehe tegemiseks.
       items:
-        - erinevatele sihtturgudele mõeldud lahendused
+        - mitmekeelsed veebilehed
         - e kaubanduse lahendused
         - broneerimissüsteemi loomine
+        - kuulutusportaali loomine
         - lisatööjõu kaasamist nõudvad projektid
       plan: Määramata hinnaga
       price: '??'
