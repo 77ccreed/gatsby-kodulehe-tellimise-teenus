@@ -2,14 +2,13 @@
 templateKey: product-page
 title: Turundus läbi kodulehe
 image: /img/kodulehe-tegemine-taustapilt.jpg
-heading: Tulemusele suunatud turundus annab ettevõttele edu konkurendi ees
+heading: Tulemusele suunatud turundus toob ettevõttele edu
 description: >-
   Koduleht on parim turunduskanal. Kui oled interneti otsingus esilehel. Kui
-  mitte jääd konkurendi varju. Aitame Sinu äril sihtrühmani jõuda, ilma et
-  peaksid reklaamile aega ja raha enam tingimata kulutama.  Valmistame
-  turunduslikult atraktiivse veebilehe, mis toob kliendid Sinu firmale ning
-  aitab turundusplaanis seatud sihid saavutada. Vali kvaliteetne turundus läbi
-  ettevõtte kodulehe.
+  mitte jääd konkurendi varju. Aitame ettevõttel sihtrühmani jõuda, ilma et
+  peaks reklaamile aega ja raha enam tingimata kulutama. Valmistame
+  turunduslikult atraktiivse veebilehe, mis toob kliendid. Vali kvaliteetne
+  turundus läbi ettevõtte kodulehe
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
@@ -86,14 +85,14 @@ pricing:
         - kodulehe tegemine
         - sisuhaldustarkvara Netlify CMS
         - konsultatsioon ja optimeerimine
-        - veebimajutus ja domeen
       plan: 'Ühekordne makse '
-      price: '1200'
+      price: '1199'
     - description: Erilahendus kodulehe tegemiseks.
       items:
-        - erinevatele sihtturgudele mõeldud lahendused
+        - mitmekeelsed veebilehed
         - e kaubanduse lahendused
         - broneerimissüsteemi loomine
+        - kuulutusportaali loomine
         - lisatööjõu kaasamist nõudvad projektid
       plan: Määramata hinnaga
       price: '??'
