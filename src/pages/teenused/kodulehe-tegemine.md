@@ -5,9 +5,7 @@ date: 2020-04-08T04:57:25.469Z
 price: 1199
 sku: 02
 description: >-
-  Üheleherakendus tüüpi kiire ja kasutajasõbraliku veebilehe valmistamine.
-  Täislahendus koos veebimajutusega. Teeme kodulehe tegemise ettevõtjale
-  lihtsaks.
+  React JS põhine üheleherakendus tüüpi koduleht hinnaga 1199 €. Sinu äri vajadustest lähtuva kiire ja turvalise veebilehe tegemine 80-ne töötunniga.
 featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
@@ -16,6 +14,8 @@ tags:
 ---
 
 ![Ettevõtte kodulehe tegemine](/img/kodulehe-tegemine-sisu-loomine.jpg "Ettevõtte kodulehe tegemine")
+
+#### Teenuse hind on 1199 €. Töömaht 80-nd tundi
 
 ## Valmistame kiireid otsingumootorile optimeeritud kodulehti
 
@@ -34,8 +34,7 @@ Mõned üheleherakendus tüüpi kodulehte iseloomustavad omadused:
 - blogi funktsionaalsusega koduleht sisuhaldustarkvara toega
 - kontaktide leht kirja saatmiseks
 - postituste grupeerimine siltidega
-- tasuta veebimajutus ja domeen
-- kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus
+- kodulehe tegemine hinnaga 1199 €
 
 ### Erilahendusena valminud koduleht
 

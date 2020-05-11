@@ -5,9 +5,7 @@ date: 2020-02-20T05:16:16.845Z
 price: 99
 sku: 03
 description: >-
-  Meie poolt valmistatud veebilehe haldus sisuhaldustarkvaraga Netlify CMS.
-  Lisaks võimalusele lehte ise hallata pakume veebihalduri teenus hinnaga 99 €
-  kuus.
+  Veebihalduri teenuse hinnaga 99 € kuus. Igakuine tööaeg 6 tundi. Kodulehe sisu redigeerimine ja optimeerimine. Vajaliku funktsionaalsuse lisamine.
 featuredpost: false
 featuredimage: /img/lisatööd-valminud-kodulehel.jpg
 tags:
@@ -16,6 +14,8 @@ tags:
 ---
 
 ![Kodulehe haldus](/img/kodulehe-haldus.jpg "Kodulehe haldus")
+
+#### Teenuse hind on 99 € kuus. Igakuine töömaht 6 tundi
 
 ## Kuidas käib loodud kodulehe haldus
 

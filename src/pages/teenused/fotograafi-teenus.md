@@ -5,8 +5,7 @@ date: 2019-12-31T05:34:09.541Z
 price: 399
 sku: 01
 description: >-
-  Fotograafi teenus kodulehe piltide ja videode tegemiseks fotoaparaadiga Nikon
-  d5500 ja Sigma 18-35mm läätsega.
+  Fotograafi teenus hinnaga 399 €. Kodulehel kasutatavate fotode tegemine ja töötlemine tööajaga 30-nd tundi. Lisaks pildistamisele video tegemise võimalus.
 featuredpost: false
 featuredimage: /img/black-nikon-dslr-camera-2972766.jpg
 tags:
@@ -15,6 +14,8 @@ tags:
 ---
 
 ![Fotograafi teenus](/img/kodulehe-piltide-ja-videode-tegemine.jpg "Fotograafi teenus")
+
+#### Teenuse hind on 399 €. Töömaht 30-nd tundi
 
 Lisateenus ettevõtte kodulehele piltide ja videode tegemiseks ja töötlemiseks. Portree- ja maastikuvaates pildistamine sobib inimeste, asjade ja erinevate vaadete jäädvustamiseks. Konsultatsioon, kuidas kodulehele pilte lisada.
 
