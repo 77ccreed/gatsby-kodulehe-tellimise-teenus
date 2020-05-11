@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ettevõtte kodulehe tellimine
-image: /img/kodulehe-tegemine-taustapilt.jpg
+image: /img/kodulehe-tellimine.jpg
 heading: >-
   Täida küsimustik tellimise lehel. Valmistame React JS põhise veebilehe, mis
   töötab nagu töölauaprogramm.
