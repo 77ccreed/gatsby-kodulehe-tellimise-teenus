@@ -5,7 +5,7 @@ date: 2019-12-31T05:34:09.541Z
 price: 399
 sku: 01
 description: >-
-  Fotograafi teenus hinnaga 399 €. Kodulehel kasutatavate fotode tegemine ja töötlemine tööajaga 30-nd tundi. Lisaks pildistamisele video tegemise võimalus.
+  Fotograafi teenus hinnaga 399 €. Kodulehel kasutatavate fotode tegemine ja töötlemine. Lisaks pildistamisele video tegemise võimalus.
 featuredpost: false
 featuredimage: /img/black-nikon-dslr-camera-2972766.jpg
 tags:

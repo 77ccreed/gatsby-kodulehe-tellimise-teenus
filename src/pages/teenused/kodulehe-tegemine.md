@@ -5,7 +5,7 @@ date: 2020-04-08T04:57:25.469Z
 price: 1199
 sku: 02
 description: >-
-  React JS põhine üheleherakendus tüüpi koduleht hinnaga 1199 €. Sinu äri vajadustest lähtuva kiire ja turvalise veebilehe tegemine 80-ne töötunniga.
+  Valmistame React JS põhise üheleherakendus tüüpi kodulehe hinnaga 1199 €. Loome Sinu äri vajadustest lähtuva kiire, turvalise ja kasutajasõbraliku veebilehe.
 featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
