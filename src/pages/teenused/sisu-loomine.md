@@ -2,27 +2,26 @@
 templateKey: blog-post
 title: Kodulehe sisu loomine ehk teksti kirjutamine
 date: 2020-04-07T04:42:12.611Z
-price: 799
-sku: 04
 description: >-
-  Teksti kirjutamise teenus. Valmistame kodulehe sisu ning pakume
-  konsultatsiooni sisutekstide loomiseks ja uuendamiseks hinnaga 10 € tunnis.
+  Loome strateegia ja sellest lähtudes kirjutame kodulehe teksti. 60 tunnise
+  töömahuga teenuse hind on 799 €. Sisutekst sobib kõigi turunduskanalite jaoks.
 featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
   - teenused
   - põhiteenus
 ---
-
-##
+## 
 
 ![Kodulehe teksti kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe teksti kirjutamine")
+
+#### Teenuse hind on 799 €. Töömaht 60 tundi.
 
 ## Miks tasub rõhku panna hea sisu loomisele
 
 Kodulehe tegemisel on kõige raskem huvitava ja isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Kui tahad konkurentidest eristuda, peab sisutekst hästi kirjutatud ja lihtsalt loetav olema.
 
-Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame sisuloomel aidata - pakume teksti kirjutamise teenust hinnaga 10 € tund.
+Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame sisuloomel aidata - pakume teksti kirjutamise teenust hinnaga 15 € tund.
 
 Meil on pikaaegne artiklite ja sisutekstide kirjutamise kogemus. Aitame tellijal ettevõtte tegevuse lahti mõtestada ja kliendini tuua läbi kirjutatud teksti, mida on võimalik kasutada ka teistes turunduskanalites.
 
