@@ -1,7 +1,7 @@
 ---
 templateKey: product-page
 title: Turundus läbi kodulehe
-image: /img/kodulehe-tellimine.jpg
+image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: Tulemusele suunatud turundus toob ettevõttele edu
 description: >-
   Koduleht on parim turunduskanal. Kui oled interneti otsingus esilehel. Kui
