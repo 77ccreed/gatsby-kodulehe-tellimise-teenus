@@ -12,12 +12,10 @@ mainpitch:
     Parim viis kliendini jõudmiseks - pole vaja reklaamile aega ja raha enam
     kulutada. 
 description: >-
-  Meie loodud veebileht tagab sujuva kasutajakogemuse ja annab edu interneti
-  otsingumootoris. Tellija võib lehte sisuhaldustarkvaraga hallata või selle
-  meie hooleks jätta - valmistame lehe sisu ja pakume veebihalduri teenust.
-  Toome kliendid Sinu ärile. Iga veebilehe eripärast lähtudes lisame
-  funktsionaalsust ning optimeerime sisu. Täislahendus teenus sisaldab domeeni
-  ja veebimajutust. Teenusest loobumisega tasusid ei kaasne.
+  Sooduspakkumine esimesele kümnele tellijale. Kodulehe tegemine, sisu loomine
+  ja haldus hinnaga 99 € kuus. Täislahendus teenus sisaldab tasuta domeeni ja
+  veebimajutust.  Kui tellija ei jää rahule kodulehe külastatavusega, pakume
+  igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
