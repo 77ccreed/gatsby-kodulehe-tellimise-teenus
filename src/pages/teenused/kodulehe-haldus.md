@@ -5,7 +5,7 @@ date: 2020-02-20T05:16:16.845Z
 price: 99
 sku: 03
 description: >-
-  Veebihalduri teenuse hinnaga 99 € kuus. Kodulehe sisu redigeerimine ja optimeerimine. Vajaliku funktsionaalsuse lisamine ja disaini muutmine.
+  Veebihalduri teenuse hinnaga 99 € kuus. Kodulehe sisu redigeerimine ja optimeerimine. Vajaliku funktsionaalsuse lisamine ning disaini muutmine.
 featuredpost: false
 featuredimage: /img/lisatööd-valminud-kodulehel.jpg
 tags:
