@@ -27,9 +27,9 @@ Mõned üheleherakendus tüüpi kodulehte iseloomustavad omadused:
 - kodulehe saab salvestada avakuvale nagu rakenduse
 - koduleht on kiire ka suuri pilte kasutades
 
-## Pakume kodulehe tegemist eri- ja standardlahendusena.
+## Pakume kodulehe tegemist eri- ja standardlahendusena
 
-#### Standardlahendusena valminud koduleht:
+### Standardlahendusena valminud koduleht
 
 - blogi funktsionaalsusega koduleht sisuhaldustarkvara toega
 - kontaktide leht kirja saatmiseks
@@ -37,7 +37,7 @@ Mõned üheleherakendus tüüpi kodulehte iseloomustavad omadused:
 - tasuta veebimajutus ja domeen
 - kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus
 
-#### Erilahendusena valminud koduleht:
+### Erilahendusena valminud koduleht
 
 - e kaubandusega seotud lahendused
 - erinevatele sihtturgudele mõeldud lahendused
@@ -45,7 +45,7 @@ Mõned üheleherakendus tüüpi kodulehte iseloomustavad omadused:
 
 Tavalahendusena valminud veebilehele on võimalik erilahendusi ja funktsionaalsust hiljem lisada.
 
-### Kodulehe tegemisel keskendume hea kasutuskogemuse pakkumisele
+## Kodulehe tegemisel keskendume hea kasutuskogemuse pakkumisele
 
 Loodud lehed on kiired ja lähtume programmeerimisel parimast praktikast.
 

@@ -21,7 +21,7 @@ tags:
 
 Tellija saab kodulehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/). Teeme kasutuskoolituse ja pakume jooksvalt abi kodulehe haldamisega seotud küsimuste lahendamiseks.
 
-#### Hallata saab sisulehti. Tellikoduleht.ee näitel on hallatavad:
+### Hallata saab sisulehti. Tellikoduleht.ee näitel on hallatavad
 
 - pealeht
 - meist
@@ -29,7 +29,7 @@ Tellija saab kodulehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [N
 
 Sisuhaldustarkvaraga saab kodulehele teksti ja pilte lisada ja muuta. Kokkuleppel saame hallatavaid lehti lisada.
 
-#### Saab luua ja kustutada blogi tüüpi lehti. Tellikoduleht.ee näitel on need postitused teenuste lehel:
+### Saab luua ja kustutada blogi tüüpi lehti. Tellikoduleht.ee näitel on need postitused teenuste lehel
 
 - Ettevõtte kodulehe tegemine React JS-ga
 - Kodulehe sisu loomine ehk teksti kirjutamine
@@ -42,7 +42,7 @@ Lehe sisu saab hallata nii tekstina kui ka _markdown_ formaadis.
 
 ## Veebihalduri teenus hinnaga 99 € kuus
 
-#### Lisaks võimalusele ise oma lehte hallata pakume kodulehe püsihaldus teenust.
+#### Lisaks võimalusele ise oma lehte hallata pakume kodulehe püsihaldus teenust
 
 Veebihalduri teenus teeb kodulehe halduse tellija jaoks lihtsaks. Tellija ei pea sisutekstide kirjutamisega vaeva nägema, tegelema lehe redigeerimise ja optimeerimisega.
 
@@ -52,6 +52,6 @@ Parim tulemus sünnib koostöös - kui pakud infot oma ettevõtte, toodete ja te
 - konkurentsieelist interneti otsingumootori [orgaanilises otsingus](https://support.google.com/google-ads/answer/6054492?hl=et)
 - veebihalduri teenus on taskukohane ka väiksemale ettevõttele
 
-#### Veebihalduri teenuse hind on 99 € kuus. Esimesele kümnele tellijale pakume koos veebihalduri teenusega ka kodulehe ja selle sisu loomist.
+#### Veebihalduri teenuse hind on 99 € kuus. Esimesele kümnele tellijale pakume koos veebihalduri teenusega ka kodulehe ja selle sisu loomist
 
 Pidev töö kodulehega aitab edu saavutada ja toob vajalikud kliendid. Kui tellija ei jää rahule kodulehe külastatavusega, pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.

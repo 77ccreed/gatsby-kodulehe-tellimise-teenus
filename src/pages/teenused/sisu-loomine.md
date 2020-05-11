@@ -11,11 +11,10 @@ tags:
   - teenused
   - põhiteenus
 ---
-## 
 
 ![Kodulehe teksti kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe teksti kirjutamine")
 
-#### Teenuse hind on 799 €. Töömaht 60 tundi.
+#### Teenuse hind on 799 €. Töömaht 60 tundi
 
 ## Miks tasub rõhku panna hea sisu loomisele
 
@@ -33,7 +32,7 @@ Mõistlik on oma tegevus enne tööle asumist läbi mõelda. See kehtib ka veebi
 
 Meile meeldib töötada kindlat visiooni või äriplaani omava ettevõttega. See annab lõpptulemusele palju juurde, kui oled asjast huvitatud - avatud ja valmis panustama.
 
-### Kirjutame lahti, mida on Sul kliendile pakkuda?
+### Kirjutame lahti, mida on Sul kliendile pakkuda
 
 Miks peaks ta just Sind konkurendile eelistama? Veebilehe loomist alustame sellest küsimustest. Hea sisu loome koostöös tellijaga, sest kes veel on ekspert pakutavate toodete ja teenuste alal.
 
