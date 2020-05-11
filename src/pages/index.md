@@ -13,9 +13,12 @@ mainpitch:
     kulutada. 
 description: >-
   Sooduspakkumine esimesele kümnele tellijale. Kodulehe tegemine, sisu loomine
-  ja haldus hinnaga 99 € kuus. Täislahendus teenus sisaldab tasuta domeeni ja
-  veebimajutust.  Kui tellija ei jää rahule kodulehe külastatavusega, pakume
-  igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
+  ja haldus hinnaga 99 € kuus. Valmistame ühekeelse, kiire ja otsingumootoritele
+  optimeeritud veebilehe. Kirjutame Sinu äri tutvustava teksti ja pakume
+  veebihalduri teenust. Täislahendus teenus sisaldab domeeni ja veebimajutust. 
+  Kui tellija ei jää rahule lehe külastajate arvuga, pakume igakuisete maksete
+  peatamist. Teenusest loobumisega tasusid ei kaasne. Erilahendusena mitmekeelse
+  veebilehe või e poe tegemine.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
