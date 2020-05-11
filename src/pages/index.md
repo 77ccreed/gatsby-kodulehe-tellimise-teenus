@@ -15,10 +15,9 @@ description: >-
   Sooduspakkumine esimesele kümnele tellijale. Kodulehe tegemine, sisu loomine
   ja haldus hinnaga 99 € kuus. Valmistame ühekeelse, kiire ja otsingumootoritele
   optimeeritud veebilehe. Kirjutame Sinu äri tutvustava teksti ja pakume
-  veebihalduri teenust. Täislahendus teenus sisaldab domeeni ja veebimajutust. 
+  veebihalduri teenust. Täislahendus teenus sisaldab domeeni ja veebimajutust.
   Kui tellija ei jää rahule lehe külastajate arvuga, pakume igakuisete maksete
-  peatamist. Teenusest loobumisega tasusid ei kaasne. Erilahendusena mitmekeelse
-  veebilehe või e poe tegemine.
+  peatamist. Teenusest loobumisega tasusid ei kaasne.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
