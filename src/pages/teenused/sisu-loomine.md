@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Kodulehe sisu loomine ehk teksti kirjutamine
 date: 2020-04-07T04:42:12.611Z
 description: >-
-  Loome strateegia ja sellest lähtudes kirjutame kodulehe teksti. Teenuse hind on 799 €. Loodud tekst sobib kasutamiseks ettevõtte kõigis turunduskanalites.
+  Loome strateegia ja sellest lähtudes kirjutame kodulehe teksti. Teenuse hind on 799 €. Valminud tekst sobib kasutamiseks ettevõtte kõigis turunduskanalites.
 featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
