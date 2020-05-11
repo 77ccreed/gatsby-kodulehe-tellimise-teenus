@@ -145,9 +145,6 @@ export default class Index extends React.Component {
               <p>E-mail: kiur.jullis@gmail.com</p>
               <p>Arveldusarve: SEB EE461010220285246226</p>
               <hr />
-              <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                title="Kodulehe tellimise kontaktvorm">Kodulehe tellimiseks kliki siin.</a>
-
             </div>
           </div>
         </section>
