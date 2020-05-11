@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:url" content="/" />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/og-image.png`}
+          content={`${withPrefix('/')}img/og-image.jpg`}
         />
 
         <meta property="twitter:card" content="summary" />
