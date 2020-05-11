@@ -21,7 +21,7 @@ tags:
 
 Kodulehe tegemisel on kõige raskem huvitava ja isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Kui tahad konkurentidest eristuda, peab sisutekst hästi kirjutatud ja lihtsalt loetav olema.
 
-Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame sisuloomel aidata - pakume teksti kirjutamise teenust hinnaga 10 € tund.
+Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame sisuloomel aidata - pakume teksti kirjutamise teenust hinnaga 15 € tund.
 
 Meil on pikaaegne artiklite ja sisutekstide kirjutamise kogemus. Aitame tellijal ettevõtte tegevuse lahti mõtestada ja kliendini tuua läbi kirjutatud teksti, mida on võimalik kasutada ka teistes turunduskanalites.
 
