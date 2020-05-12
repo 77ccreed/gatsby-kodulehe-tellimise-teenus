@@ -13,11 +13,11 @@ mainpitch:
     kulutada. 
 description: >-
   Sooduspakkumine esimesele kümnele tellijale. Kodulehe tegemine, sisu loomine
-  ja haldus hinnaga 99 € kuus. Valmistame ühekeelse, kiire ja otsingumootoritele
-  optimeeritud veebilehe. Kirjutame Sinu äri tutvustava teksti ja pakume
-  veebihalduri teenust. Täislahendus teenus sisaldab domeeni ja veebimajutust.
-  Kui tellija ei jää rahule lehe külastajate arvuga, pakume igakuisete maksete
-  peatamist. Teenusest loobumisega tasusid ei kaasne.
+  ja haldus hinnaga 99 € kuus. Valmistame ühekeelse, blogi funktsionaalsusega
+  kiire ja otsingumootoritele optimeeritud veebilehe. Kirjutame Sinu äri
+  tutvustava teksti ja pakume veebihalduri teenust. Täislahendus teenus sisaldab
+  domeeni ja veebimajutust. Kui tellija ei jää rahule lehe külastajate arvuga,
+  pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
@@ -34,7 +34,7 @@ intro:
         turul ja konkurente. Loome veebilehe prooviversiooni ning aitame
         sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti ja teeme
         fotod.
-    - image: /img/analogue-background-business-camera-593324.jpg
+    - image: /img/apple-devices-books-business-coffee-572056.jpg
       text: >-
         Indekseerime valminud kodulehe interneti otsingumootoris. Tagame
         veebimajutuse ja teostame garantiitööd. Külastajate hulga ning käitumise
