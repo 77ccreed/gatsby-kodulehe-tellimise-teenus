@@ -3,8 +3,8 @@ templateKey: index-page
 title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: >-
-  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja
-  konkurentsivõimelise kodulehe tegemiseks.
+  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu firma uue
+  kodulehe tegemiseks.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Kas Sinu ettevõttel puudub koduleht? Või olemasolev ei jõua sihtgrupini?
