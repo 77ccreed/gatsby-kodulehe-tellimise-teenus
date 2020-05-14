@@ -67,10 +67,10 @@ const TemplateWrapper = ({ children }) => {
               "streetAddress": "Petseri 8-53",
               "postalCode": "	68204"
             },
-            "description": "Programeerimine ja arvutialane konsultatsioon ettevõtjale.",
+            "description": "Kodulehe tellimine - täislahendus firma veebilehe loomiseks.",
             "name": "OÜ Kodulehe Tellimine",
             "telephone": "+372 5688 4456",
-            "priceRange": "€€€-€€€€",
+            "priceRange": "€€€",
             "areaServed": "Estonia",
             "founder": "Kiur Jullis",
             "url": "https://tellikoduleht.ee/",
