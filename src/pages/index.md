@@ -3,48 +3,48 @@ templateKey: index-page
 title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: >-
-  Täida küsimustik tellimise lehel. Valmistame React JS põhise veebilehe, mis
-  töötab nagu töölauaprogramm.
+  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu firma uue
+  kodulehe tegemiseks.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus!'
-  description: >-
-    Parim viis kliendini jõudmiseks - pole vaja reklaamile aega ja raha enam
-    kulutada. 
+  title: Kas Sinu ettevõttel puudub koduleht? Või olemasolev ei jõua sihtgrupini?
+  description: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus.'
 description: >-
-  Sooduspakkumine esimesele kümnele tellijale. Kodulehe tegemine, sisu loomine
-  ja haldus hinnaga 99 € kuus. Valmistame ühekeelse, kiire ja otsingumootoritele
-  optimeeritud veebilehe. Kirjutame Sinu äri tutvustava teksti ja pakume
-  veebihalduri teenust. Täislahendus teenus sisaldab domeeni ja veebimajutust.
-  Kui tellija ei jää rahule lehe külastajate arvuga, pakume igakuisete maksete
-  peatamist. Teenusest loobumisega tasusid ei kaasne.
+  Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti
+  alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija
+  jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks
+  mõeldud tehnoloogia ja heas eesti keeles loodud teksti. Valmistame ühekeelse,
+  firma vajadustest lähtuva veebilehe. Kirjutame Sinu äri tutvustava teksti ja
+  pakume veebihalduri teenust. Täislahendus teenus sisaldab domeeni ja
+  veebimajutust. Kui tellija ei jää rahule lehe külastajate arvuga, pakume
+  igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
 intro:
   blurbs:
     - image: /img/advice-advise-advisor-business-7075.jpg
       text: >+
-        Kohtumine tellija valitud kohas aitab täpselt välja selgitada, mida on
-        vaja eduka veebilehe valmistamiseks. Täpsustame tööde sisu, mahu ja
-        orienteeruva ajakulu ning hinna, mis on aluseks lepingu sõlmimisel ja
-        maksetingimuste paikapanemisel.
+        Peale tellimuse saamist kohtume tellija valitud kohas. Täpsustame tööde
+        sisu, mahu ja orienteeruva ajakulu, mis on aluseks maksetingimuste
+        paikapanemisel. Määrame võimalikud lisatööd, kodulehe eesmärgi ja kuidas
+        seda saavutada.
 
 
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
-        Valmistame materjalid lehe sisu loomiseks. Hindame ettevõtte positsiooni
-        turul ja konkurente. Loome veebilehe prooviversiooni ning aitame
-        sisuhaldustarkvara kasutusele võtta. Vajadusel kirjutame teksti ja teeme
-        fotod.
-    - image: /img/analogue-background-business-camera-593324.jpg
+        Hindame konkurente ja ettevõtte positsiooni turul. Loome strateegia ja
+        sellest lähtudes firmat, selle tooteid ja teenuseid tutvustava teksti.
+        Valmistame ettevõtte veebilehe prooviversiooni ja anname tellijale
+        tehtust ülevaate.
+    - image: /img/apple-devices-books-business-coffee-572056.jpg
       text: >-
-        Indekseerime valminud kodulehe interneti otsingumootoris. Tagame
-        veebimajutuse ja teostame garantiitööd. Külastajate hulga ning käitumise
-        järgi selgitame välja edasised tegevused.
+        Indekseerime kodulehe interneti otsingumootoris. Tagame veebimajutuse ja
+        teostame vajalikud lisatööd. Hoolitseme, et kõik töötaks soovitud moel
+        ja veebileht jõuaks külastajani parimal võimalikul viisil.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >
-        Veebihalduri teenus. Tellija ei pea sisutekstide kirjutamisega vaeva
-        nägema. Redigeerime ja optimeerime sisu lähtudes parimast praktikast ja
-        aastatepikkusest kogemusest. Lisame vajaliku funktsionaalsuse ja
-        isikupärase disaini.
+        Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab
+        vajalikud edasised hooldustööd. Lähtudes külastatavuse statistikast ja
+        veebilehe positsioonist interneti otsingus, redigeerime lehte ja selle
+        sisu.
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
