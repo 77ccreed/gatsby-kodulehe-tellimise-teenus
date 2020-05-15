@@ -8,7 +8,7 @@ Programmeerimist ja arvutialast konsultatsiooni pakkuv ettevõte ([reg. kood: 14
 
 ### Miks valida kodulehe tellimine
 
-Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks ja ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
+Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
 
 Valmistame tehnoloogiliselt uuemaid,  [React JS](https://reactjs.org/) põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehti. See tagab sujuva kasutajakogemuse ja annab edu interneti otsingumootori [orgaanilises otsingus](https://support.google.com/google-ads/answer/6054492?hl=et). Loodud lehed on kiired ka suuri pilte kasutades. 
 
@@ -16,9 +16,9 @@ Mõned [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) t�
 
 * sujuv kasutajakogemus erinevate lehtede vahel
 * koduleht on kasutatav internetilevita
-* kodulehe saab salvestada avakuvale nagu rakenduse
+* kodulehe saab salvestada avakuvale, nagu rakenduse
 
-Pakume täislahendusena teenust kodulehe tegemise, sisu loomise ja halduse näol. Lisaks tasuta veebimajutus.
+Pakume täislahendusena teenust kodulehe tegemise, sisu loomise ja halduse näol. Lisaks tasuta domeen ja veebimajutus.
 
 ### Kuidas käib kodulehe tellimine - tööprotsess
 
@@ -28,9 +28,9 @@ Kui tellijal puudub kodulehe loomiseks vajalik sisu, saame aidata ka sellega. Pa
 
 Kui lehe sisu on valmis, viime kodulehe tellija soovitud domeenile ja indekseerime interneti otsingumootorites.
 
-Peale kodulehe valmimist on pool tööd tehtud. Edasi järgneb kodulehe külastatavuse statistikast lähtuv kodulehe arendamine. Kodulehe ja konkurentide analüüs. Funktsionaalsuse lisamine lähtudes ettevõtte vajadustest jms. jooksvad tööd. 
+Peale kodulehe valmimist on pool tööd tehtud. Edasi järgneb lehe külastatavuse statistikast lähtuv kodulehe arendamine. Kodulehe ja konkurentide analüüs. Funktsionaalsuse lisamine, lähtudes ettevõtte vajadustest. Samuti teised jooksvad tööd. 
 
-Palju õnne! Nüüd on Sul koduleht, mis on ettevõtte peamine turunduskanal ja omad eelist konkurentide ees. 
+Palju õnne! Nüüd on Sul koduleht, mis on ettevõtte peamine turunduskanal ja omad eelist konkurendi ees. 
 
 ### Kellele kodulehe tellimine sobib
 
@@ -42,11 +42,11 @@ Ettevõtjale, kelle on kvaliteetne toode või teenus ja kes soovib:
 
 Parima lahendus sünnib koos tulemusest huvitatud kliendiga. Teeme tööriista ja aitame selle kasutusele võtta. Kui oled avatud ja valmis panustama siis on lihtne tulemuseni jõuda, sest meie tahame kodulehti teha.
 
-### Kodulehe tellimise hind
+### Kodulehe tellimise hind ja loomiseks kuluv aeg
 
-Esimesele kümnele tellijale pakume soodushinda - kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus. Peale kindla kliendibaasi loomist läheme tagasi tavapärase hinnakirja juurde. 
+Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus. Kodulehe valmimiseks kulub kuu. Kolm kuud läheb esimeste tulemuste saavutamiseks interneti otsingumootoris.
 
-Kodulehe tellimiseks saada meile kiri [tellimise lehel](https://tellikoduleht.ee/kodulehe-tellimine/) või täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform).
+Kodulehe tellimiseks [saada meile kiri kontaktide lehel](https://tellikoduleht.ee/kontaktid/) või täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform).
 
 ### Garantiid, riskide hajutamine
 
