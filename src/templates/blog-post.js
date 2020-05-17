@@ -70,35 +70,6 @@ const BlogPost = ({ data }) => {
               name="description"
               content={`${post.frontmatter.description}`}
             />
-
-            <script type="application/ld+json">
-              {JSON.stringify({
-                "@context": "https://schema.org/",
-                "@type": "Product",
-                "name": `${post.frontmatter.title}`,
-                "image": "https://tellikoduleht.ee/static/a256d11f074614a797d05909d8d6f863/fb329/kodulehe-tegemine-sisu-loomine.jpg",
-                "description": `${post.frontmatter.description}`,
-                "mpn": `${post.frontmatter.title}`,
-                "sku": `${post.frontmatter.sku}`,
-                "brand": {
-                  "@type": "Thing",
-                  "name": "OÜ Kodulehe Tellimine"
-                },
-                "offers": {
-                  "@type": "Offer",
-                  "priceCurrency": "EUR",
-                  "price": `${post.frontmatter.price}`,
-                  "url": `https://tellikoduleht.ee${post.fields.slug}`,
-                  "priceValidUntil": "2022-11-05",
-                  "itemCondition": "http://schema.org/NewCondition",
-                  "availability": "http://schema.org/InStock",
-                  "seller": {
-                    "@type": "Organization",
-                    "name": "OÜ Kodulehe Tellimine"
-                  }
-                }
-              })}
-            </script>
           </Helmet>
         }
         tags={post.frontmatter.tags}
@@ -126,13 +97,7 @@ export const pageQuery = graphql`
         title
         description
         tags
-        price
-        sku
       }
-       fileAbsolutePath
-          fields {
-            slug
-          }
     }
   }
 `

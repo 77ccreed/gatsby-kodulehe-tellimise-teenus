@@ -2,8 +2,6 @@
 templateKey: blog-post
 title: Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
-price: 399
-sku: 01
 description: >-
   Fotograafi teenus hinnaga 399 €. Kodulehel kasutatavate fotode tegemine ja töötlemine. Lisaks pildistamisele video tegemise võimalus.
 featuredpost: false

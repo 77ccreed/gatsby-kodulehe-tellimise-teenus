@@ -2,8 +2,6 @@
 templateKey: blog-post
 title: Ettevõtte kodulehe tegemine React JS-ga
 date: 2020-04-08T04:57:25.469Z
-price: 1199
-sku: 02
 description: >-
   Valmistame React JS põhise üheleherakendus tüüpi kodulehe hinnaga 1199 €. Loome Sinu äri vajadustest lähtuva kiire, turvalise ja kasutajasõbraliku veebilehe.
 featuredpost: false
