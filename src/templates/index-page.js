@@ -86,7 +86,7 @@ export const IndexPageTemplate = ({
 
                       <div className="column is-12 has-text-centered">
                         <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                          title="Kodulehe tellimise kontaktvorm">Ava tellimise leht</a>
+                          title="Ava tellimise leht">Ava tellimise leht</a>
                       </div>
 
                       <p>{description}</p>
@@ -97,7 +97,7 @@ export const IndexPageTemplate = ({
                   <div className="columns">
                     <div className="column is-12 has-text-centered">
                       <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                        title="Kodulehe tellimise kontaktvorm">Ava tellimise leht</a>
+                        title="Ava tellimise leht">Ava tellimise leht</a>
                     </div>
                   </div>
                   <div className="column is-12">
