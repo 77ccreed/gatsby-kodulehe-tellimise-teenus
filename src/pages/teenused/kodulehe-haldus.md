@@ -19,7 +19,7 @@ tags:
 
 ## Kuidas käib loodud kodulehe haldus
 
-Tellija saab kodulehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/). Teeme kasutuskoolituse ja pakume jooksvalt abi kodulehe haldamisega seotud küsimuste lahendamiseks.
+Tellija saab veebilehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/). Teeme kasutuskoolituse ja pakume jooksvalt abi kodulehe haldamisega seotud küsimuste lahendamiseks.
 
 ### Hallata saab sisulehti
 
@@ -29,7 +29,7 @@ Tellija saab kodulehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [N
 - meist
 - turundus
 
-Sisuhaldustarkvara abil saab kodulehele teksti ja pilte lisada. Kokkuleppel saame hallatavaid lehti juurde teha.
+Sisuhaldustarkvara abil saab lehele teksti ja pilte lisada. Kokkuleppel saame hallatavaid lehti juurde teha.
 
 ### Saab luua ja kustutada blogi tüüpi lehti
 
@@ -55,13 +55,13 @@ Veebihalduri teenus teeb kodulehe halduse tellija jaoks lihtsaks. Tellija ei pea
 - otsingusõnade analüüs ja optimeerimine
 - ettevõtte analüüs
 - konkurentide analüüs
-- kodulehe ja selle teksti analüüs, optimeerimine ning redigeerimine
-- kodulehe sisu loomine
-- kodulehe piltide loomine
-- funktsionaalsuse lisamine lehele
+- veebilehe ja selle teksti analüüs, optimeerimine ning redigeerimine
+- sisu loomine
+- piltide tegemine
+- funktsionaalsuse lisamine
 - kontaktvormi lisamine või muutmine
 - disaini ja kujunduse isikupärastamine
 
 Parim tulemus sünnib koostöös - kui tellija pakub infot oma ettevõtte, toodete ja teenuste kohta, saame selle parimal võimalikul moel külastajani viia. Tellija saab enda veebilehe ja OÜ Kodulehe Tellimine teenuse kohta [tagasisidet anda](https://docs.google.com/forms/d/e/1FAIpQLSdlZUuVoNFNecsp8M7wQ0zA_RhnkMMgndRmotmuEoMN5F3A5w/viewform) küsimustiku abil.
 
-Kodulehe haldus aitab edu saavutada ja toob vajalikud kliendid. Kui tellija ei jää rahule kodulehe külastatavusega, pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
+Kodulehe haldus aitab edu saavutada ja toob vajalikud kliendid. Kui tellija ei jää rahule veebilehe külastajate arvuga, pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
