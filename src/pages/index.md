@@ -59,13 +59,13 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/computer-data-display-documents-577210.jpg
+    alt: Ettevõtte turundus internetis viib sihile
+    image: /img/turundus-viib-sihile.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/screenshot_2020-02-05-web-dev.png
+    alt: Firma turundus internetis
+    image: /img/firma-turundus-internetis.jpg
   image3:
-    alt: Coffee beans
-    image: /img/advice-advise-advisor-business-7075.jpg
+    alt: Ettevõtte turundus
+    image: /img/turundus.jpg
 ---
 

@@ -2,41 +2,40 @@
 templateKey: product-page
 title: Turundus läbi kodulehe
 image: /img/kodulehe-tegemine-taustapilt.jpg
-heading: Hästi sihitud turundus toob soovitud tulemuse
+heading: Ettevõtte turundus internetis - jõua soovitud tulemuseni
 description: >-
-  Internet on ettevõtte turundamiseks suurepärane koht. Pakume teenust, mille
-  eesmärk on viia koduleht külastajani läbi interneti otsingumootori orgaanilise
-  otsingu. See tähendab, et tellija ei pea reklaamile ja teistele turundusega
-  seotud tegevustele tingimata aega ja raha enam kulutama. Kuid kui selleks on
-  soov ja vajadus, siis on vajalik turundustekst juba olemas. 
+  Internet on ettevõtte turunduseks parim koht. Selle kaudu jõuab kiiresti
+  kliendini, kes otsib endale vajalikku toodet või teenust. Meie eesmärk on viia
+  koduleht külastajani läbi interneti otsingumootori orgaanilise otsingu. See
+  tähendab, et tellija ei pea reklaamile ja teistele turundusega seotud
+  tegevustele tingimata aega ja raha enam kulutama. Kuid kui selleks on soov ja
+  vajadus, siis on vajalik turundustekst juba olemas.
 intro:
   blurbs:
     - image: /img/ballpen-blur-close-up-computer-461077.jpg
       text: >-
         Veebilehe tasuvus sõltub lehe külastajate arvust. Kas lehele jõudvad
-        inimesed teevad ettevõtte jaoks vajaliku tegevuse, näiteks tutvuvad
-        toote või teenusega ja ostavad selle. Koduleht on hea investeering, kui
-        saadav kasu ületab lehe loomiseks ja haldamiseks tehtavad kulutused.
+        inimesed teevad ettevõtte jaoks vajaliku tegevuse. Näiteks ostavad
+        toote. Koduleht on hea investeering, kui saadav kasu ületab lehe
+        loomiseks ja haldamiseks tehtavad kulutused.
     - image: /img/businessman-man-space-desk-7059.jpg
       text: >-
-        Valmistame linna kiireima veebilehe ja kirjutame vajaliku sisu.
-        Veebihalduri teenus aitab lehe ajakohasena hoida. Nii saavutame soovitud
-        eesmärgi - esimese koha interneti otsingumootoris tellijat huvitavates
-        märksõnades. Sealt jõuavad külastajad lehele, otsides endale vajalikku
-        toodet või teenust. 
+        Meie eesmärk on viia tellija koduleht esimeseks interneti otsingus firma
+        tegevusega seotud märksõnades. Valmistame kiire ja kasutajasõbraliku
+        veebilehe ning loome ettevõtet tutvustava teksti. Veebihalduri teenus
+        aitab kohaneda muutustega turul.
     - image: /img/apple-devices-books-business-coffee-572056.jpg
       text: >-
         Saavutada saab vaid eelnevalt määratletud, realistlikke eesmärke.
-        Tulemus sõltub ettevõtte tegevusalast. Ettevõtte toodete ja teenuste
-        kvaliteedist. Konkurentsist valdkonnas ja tegevuspiirkonnas. Koduleht on
-        tööriist, mille aitame parimal võimalikul viisil kasutusele võtta, mitte
-        imerohi.
+        Koduleht on tööriist,mille aitame parimal võimalikul viisil kasutusele
+        võtta, mitte imerohi. Tulemus interneti otsingus sõltub ettevõtte
+        tegevusalast ja piirkonnast. Ettevõtte toodete ja teenuste kvaliteedist.
     - image: /img/computer-data-display-documents-577210.jpg
       text: >-
         Peale tellija poolt küsimustiku täitmist tutvume ettevõtte, selle
-        tegevusala ja konkurentidega. Selgitame välja loodava kodulehe võimaliku
-        külastajate arvu. Määrame kindlaks kohtumise aja ja koha, mis aitab
-        paika panna eesmärgid ja kuidas neid saavutada.
+        tegevusala ja konkurentidega. Selgitame välja potentsiaalse loodava
+        kodulehe külastajate arvu. Määrame kindlaks kohtumise aja ja koha, mis
+        aitab paika panna eesmärgid ja kuidas neid saavutada.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -47,9 +46,9 @@ main:
   heading: Internetiturundus sobib igas suuruses ettevõtte turunduseks
   description: >-
     Läbimõeldud tekst ja tehnoloogiliselt uuem, meeldiva kasutajakogemusega
-    üheleherakendus tüüpi koduleht annab eelise interneti otsingumootoris. Olgu
-    ettevõte väike või suur, hästi tehtud internetiturundus on parim viis
-    kliendini jõudmiseks. Nii jõuab sihtgrupi firma veebilehele.
+    koduleht annab eelise. Olgu ettevõte väike või suur, ettevõtte turundus
+    internetis on lahendus, millele tasub mõelda. Hästi tehtud internetiturundus
+    on parim viis kliendini jõudmiseks - see aitab raha ja aega kokku hoida.
   image1:
     alt: Kodulehe optimeerimine
     image: /img/computer-data-display-documents-577210.jpg
