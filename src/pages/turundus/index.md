@@ -12,7 +12,7 @@ description: >-
   vajadus, siis on vajalik turundustekst juba olemas.
 intro:
   blurbs:
-    - image: /img/ballpen-blur-close-up-computer-461077.jpg
+    - image: /img/toote-teenuse-otsing-internetist.jpg
       text: >-
         Veebilehe tasuvus sõltub lehe külastajate arvust. Kas lehele jõudvad
         inimesed teevad ettevõtte jaoks vajaliku tegevuse. Näiteks ostavad
