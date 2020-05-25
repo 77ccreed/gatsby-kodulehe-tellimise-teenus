@@ -18,19 +18,19 @@ intro:
         inimesed teevad ettevõtte jaoks vajaliku tegevuse. Näiteks ostavad
         toote. Koduleht on hea investeering, kui saadav kasu ületab lehe
         loomiseks ja haldamiseks tehtavad kulutused.
-    - image: /img/businessman-man-space-desk-7059.jpg
+    - image: /img/kodulehe-teksti-kirjutamine-v.jpg
       text: >-
         Meie eesmärk on viia tellija koduleht esimeseks interneti otsingus firma
         tegevusega seotud märksõnades. Valmistame kiire ja kasutajasõbraliku
         veebilehe ning loome ettevõtet tutvustava teksti. Veebihalduri teenus
         aitab kohaneda muutustega turul.
-    - image: /img/apple-devices-books-business-coffee-572056.jpg
+    - image: /img/kodulehe-redigeerimine-v.jpg
       text: >-
         Saavutada saab vaid eelnevalt määratletud, realistlikke eesmärke.
         Koduleht on tööriist,mille aitame parimal võimalikul viisil kasutusele
         võtta, mitte imerohi. Tulemus interneti otsingus sõltub ettevõtte
         tegevusalast ja piirkonnast. Ettevõtte toodete ja teenuste kvaliteedist.
-    - image: /img/computer-data-display-documents-577210.jpg
+    - image: /img/kodulehe-optimeerimine.jpg
       text: >-
         Peale tellija poolt küsimustiku täitmist tutvume ettevõtte, selle
         tegevusala ja konkurentidega. Selgitame välja potentsiaalse loodava
