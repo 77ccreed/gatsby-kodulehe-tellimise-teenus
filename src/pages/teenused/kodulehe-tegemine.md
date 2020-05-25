@@ -13,12 +13,6 @@ tags:
 
 ![Ettevõtte kodulehe tegemine](/img/kodulehe-tegemine-sisu-loomine.jpg "Ettevõtte kodulehe tegemine")
 
-### Kas Sinu ettevõttel puudub koduleht? Või olemasolev ei jõua sihtgrupini?
-
-Kodulehe tellimise teenus on lahendus firma viimiseks kliendini. Koostöös tellijaga loome veebilehe, mis jõuab külastajani interneti otsingu kaudu.
-
-Teenus sobib igas suuruses ettevõtte, selle toodete ja teenuste tutvustamiseks. Kas soovid interneti otsingus konkurenti edestada? Selleks ei piisa ainult veebilehe üles seadmisest. Leht peab olema omas valdkonnas parim. Firmale vajaliku funktsionaalsuse ja selgelt määratletud eesmärgiga.
-
 ## Kiireid, otsingumootoritele optimeeritud kodulehed
 
 Teeme tehnoloogiliselt uuemaid, React JS põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehti. See tagab sujuva kasutajakogemuse - valminud veebileht töötab nagu töölauaprogramm, katkestusteta eri lehtede vahel.
