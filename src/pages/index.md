@@ -3,11 +3,11 @@ templateKey: index-page
 title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: >-
-  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu firma uue
+  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu uue
   kodulehe tegemiseks.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: Kas Sinu ettevõttel puudub koduleht? Või olemasolev ei jõua sihtgrupini?
+  title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?
   description: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus.'
 description: >-
   Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti
