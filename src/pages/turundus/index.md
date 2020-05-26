@@ -12,36 +12,35 @@ description: >-
   vajadus, siis on vajalik turundustekst juba olemas.
 intro:
   blurbs:
-    - image: /img/ballpen-blur-close-up-computer-461077.jpg
+    - image: /img/toote-teenuse-otsing-internetist.jpg
       text: >-
         Veebilehe tasuvus sõltub lehe külastajate arvust. Kas lehele jõudvad
         inimesed teevad ettevõtte jaoks vajaliku tegevuse. Näiteks ostavad
         toote. Koduleht on hea investeering, kui saadav kasu ületab lehe
         loomiseks ja haldamiseks tehtavad kulutused.
-    - image: /img/businessman-man-space-desk-7059.jpg
+    - image: /img/kodulehe-teksti-kirjutamine-v.jpg
       text: >-
         Meie eesmärk on viia tellija koduleht esimeseks interneti otsingus firma
         tegevusega seotud märksõnades. Valmistame kiire ja kasutajasõbraliku
         veebilehe ning loome ettevõtet tutvustava teksti. Veebihalduri teenus
         aitab kohaneda muutustega turul.
-    - image: /img/apple-devices-books-business-coffee-572056.jpg
+    - image: /img/kodulehe-redigeerimine-v.jpg
       text: >-
         Saavutada saab vaid eelnevalt määratletud, realistlikke eesmärke.
         Koduleht on tööriist,mille aitame parimal võimalikul viisil kasutusele
         võtta, mitte imerohi. Tulemus interneti otsingus sõltub ettevõtte
         tegevusalast ja piirkonnast. Ettevõtte toodete ja teenuste kvaliteedist.
-    - image: /img/computer-data-display-documents-577210.jpg
+    - image: /img/kodulehe-optimeerimine.jpg
       text: >-
         Peale tellija poolt küsimustiku täitmist tutvume ettevõtte, selle
         tegevusala ja konkurentidega. Selgitame välja potentsiaalse loodava
         kodulehe külastajate arvu. Määrame kindlaks kohtumise aja ja koha, mis
         aitab paika panna eesmärgid ja kuidas neid saavutada.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Kvaliteetne turundus läbi ettevõtte kodulehe
+  description: >-
+    Koduleht on ettevõtte jaoks parim turunduskanal, sest jõuab inimeseni, kes
+    ise otsib internetist endale vajalikku toodet või teenust. Vali kvaliteetne
+    turundus.
 main:
   heading: Internetiturundus sobib igas suuruses ettevõtte turunduseks
   description: >-
@@ -50,14 +49,14 @@ main:
     internetis on lahendus, millele tasub mõelda. Hästi tehtud internetiturundus
     on parim viis kliendini jõudmiseks - see aitab raha ja aega kokku hoida.
   image1:
-    alt: Kodulehe optimeerimine
-    image: /img/computer-data-display-documents-577210.jpg
+    alt: Ettevõtte turundus internetis viib sihile
+    image: /img/turundus-viib-sihile.jpg
   image2:
-    alt: Kodulehe teksti kirjutamise teenus
-    image: /img/businessman-man-space-desk-7059.jpg
+    alt: Turundus
+    image: /img/turundus.jpg
   image3:
-    alt: Tellikoduleht.ee mõõtmistulemused
-    image: /img/tellikoduleht.ee-mõõtmistulemused.png
+    alt: Firma turundus internetis
+    image: /img/firma-turundus-internetis.jpg
 testimonials:
   - author: OÜ Kodulehe Tellimine
     quote: >-

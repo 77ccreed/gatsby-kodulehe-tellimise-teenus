@@ -3,11 +3,11 @@ templateKey: index-page
 title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: >-
-  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu firma uue
+  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu uue
   kodulehe tegemiseks.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
-  title: Kas Sinu ettevõttel puudub koduleht? Või olemasolev ei jõua sihtgrupini?
+  title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?
   description: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus.'
 description: >-
   Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti
@@ -20,7 +20,7 @@ description: >-
   igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
 intro:
   blurbs:
-    - image: /img/advice-advise-advisor-business-7075.jpg
+    - image: /img/tellijaga-kohtumine-v.jpg
       text: >+
         Peale tellimuse saamist kohtume tellija valitud kohas. Täpsustame tööde
         sisu, mahu ja orienteeruva ajakulu, mis on aluseks maksetingimuste
@@ -28,18 +28,18 @@ intro:
         seda saavutada.
 
 
-    - image: /img/ballpen-blur-close-up-computer-461077.jpg
+    - image: /img/kodulehe-tellimine-v.jpg
       text: >-
         Hindame konkurente ja ettevõtte positsiooni turul. Loome strateegia ja
         sellest lähtudes firmat, selle tooteid ja teenuseid tutvustava teksti.
         Valmistame ettevõtte veebilehe prooviversiooni ja anname tellijale
         tehtust ülevaate.
-    - image: /img/apple-devices-books-business-coffee-572056.jpg
+    - image: /img/kodulehe-redigeerimine-v.jpg
       text: >-
         Indekseerime kodulehe interneti otsingumootoris. Tagame veebimajutuse ja
         teostame vajalikud lisatööd. Hoolitseme, et kõik töötaks soovitud moel
         ja veebileht jõuaks külastajani parimal võimalikul viisil.
-    - image: /img/computer-data-display-documents-577210.jpg
+    - image: /img/kodulehe-optimeerimine.jpg
       text: >
         Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab
         vajalikud edasised hooldustööd. Lähtudes külastatavuse statistikast ja
