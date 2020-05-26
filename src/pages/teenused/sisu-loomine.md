@@ -45,7 +45,7 @@ Aitame teksti loomisel, redigeerimisel ja kliendini viimisel parimal võimalikul
 
 ### Paneme paika veebilehe struktuuri
 
-Lehe koostamisel arvestame, et igal sisuleht ja postitus räägiks ühel kindlal teemal, ühest tootest või teenusest. Nii on külastajal lihtsam orienteeruda. Leida, mida ta kodulehelt otsib. Selline ülesehitus parandab kasutajakogemust ja aitab sisu luues keskenduda ühele kindlale teemale.
+Lehe koostamisel arvestame, et iga sisuleht ja postitus räägiks ühel kindlal teemal, ühest tootest või teenusest. Nii on külastajal lihtsam orienteeruda. Leida, mida ta kodulehelt otsib. Selline ülesehitus parandab kasutajakogemust ja aitab sisu luues keskenduda ühele kindlale teemale.
 
 ### Sisulehtede loomine
 
