@@ -5,7 +5,7 @@ title: OÜ Kodulehe Tellimine
 
 **Kodulehe tegemine Valgas. Kaasaegsed, lihtsad ja hästi töötavad lahendused.**
 
-Programmeerimist ja arvutialast konsultatsiooni pakkuv ettevõte ([reg. kood: 14933675](https://www.e-krediidiinfo.ee/14933675-KODULEHE%20TELLIMINE%20O%C3%9C)) loodi 2020. aasta märtsis Valgas. Sellele eelnes Google ja Udacity poolt korraldatud [front end arendaja kursuse](https://graduation.udacity.com/confirm/AEKKNEEJ) läbimine, rea väiksemate ja suuremate tööde tegemine ning kirg programmeerimise vastu.
+Programmeerimist ja arvutialast konsultatsiooni pakkuv ettevõte ([reg. kood: 14933675](https://www.e-krediidiinfo.ee/14933675-KODULEHE%20TELLIMINE%20O%C3%9C)) loodi 2020. aasta märtsis Valga linnas. Sellele eelnes Google ja Udacity poolt korraldatud [front end arendaja kursuse](https://graduation.udacity.com/confirm/AEKKNEEJ) läbimine, rea väiksemate ja suuremate tööde tegemine ning kirg programmeerimise vastu.
 
 ### Miks valida kodulehe tellimine
 
