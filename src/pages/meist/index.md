@@ -7,35 +7,34 @@ title: OÜ Kodulehe Tellimine
 
 Programmeerimist ja arvutialast konsultatsiooni pakkuv ettevõte ([reg. kood: 14933675](https://www.e-krediidiinfo.ee/14933675-KODULEHE%20TELLIMINE%20O%C3%9C)) loodi 2020. aasta märtsis Valga linnas. Sellele eelnes Google ja Udacity poolt korraldatud [front end arendaja kursuse](https://graduation.udacity.com/confirm/AEKKNEEJ) läbimine, rea väiksemate ja suuremate tööde tegemine ning kirg programmeerimise vastu.
 
-### Miks valida kodulehe tellimine
-
 Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia ja heas eesti keeles loodud teksti.
 
-Valmistame tehnoloogiliselt uuemaid, [React JS](https://reactjs.org/) põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehti. See tagab sujuva kasutajakogemuse ja annab edu interneti otsingumootori [orgaanilises otsingus](https://support.google.com/google-ads/answer/6054492?hl=et). Loodud lehed on kiired ka suuri pilte kasutades.
+Valmistame tehnoloogiliselt uuemaid, [React JS](https://reactjs.org/) põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi veebilehti. See tagab sujuva kasutajakogemuse ja annab edu interneti otsingumootori [orgaanilises otsingus](https://support.google.com/google-ads/answer/6054492?hl=et).
 
-Mõned [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehte iseloomustavad omadused:
+Mõned meie valmistatud kodulehti iseloomustavad omadused::
 
-- sujuv kasutajakogemus erinevate lehtede vahel
-- koduleht on kasutatav internetilevita
-- kodulehe saab salvestada avakuvale, nagu rakenduse
+- sujuv kasutuskogemus erinevate lehtede vahel
+- veebileht on kasutatav internetilevita
+- veebilehe saab salvestada avakuvale, nagu rakenduse
+- veebileht on kiire ka suuri pilte kasutades
 
 Pakume täislahendusena teenust kodulehe tegemise, sisu loomise ja halduse näol. Lisaks tasuta domeen ja veebimajutus.
 
-### Kuidas käib kodulehe tellimine - tööprotsess
+### Kuidas käib kodulehe tegemine - tööprotsess
 
-[Tellimise lehel](https://tellikoduleht.ee/kodulehe-tellimine/) oleva [küsimustiku](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform) abil selgitame esmalt välja, mida tellija täpselt vajab. Peale kohtumist ja tellimuse saamist valmistame kodulehe prooviversiooni, mida saab hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/).
+[Küsimustiku](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform) abil selgitame esmalt välja, mida tellija täpselt vajab. Peale kohtumist tellija valitud kohas ja tellimuse saamist loome veebilehe prooviversiooni.
 
-Kui tellijal puudub kodulehe loomiseks vajalik sisu, saame aidata ka sellega. Pakume teksti kirjutamise teenust - meil on pikaajaline kogemus erinevate sisutekstide ja artiklite loomise vallas. Samuti teeme kodulehel vajalikud fotod Nikon d5500 kaameraga.
+Kui tellijal puudub kodulehe valmistamiseks vajalik sisu, saame aidata ka sellega. Pakume teksti kirjutamise teenust - meil on pikaajaline kogemus erinevate sisutekstide ja artiklite loomise vallas. Samuti teeme vajalikud fotod Nikon d5500 kaameraga.
 
-Kui lehe sisu on valmis, viime kodulehe tellija soovitud domeenile ja indekseerime interneti otsingumootorites.
+Kui lehe sisu on valmis, viime veebilehe soovitud domeenile ja indekseerime interneti otsingus.
 
-Peale kodulehe valmimist on pool tööd tehtud. Edasi järgneb lehe külastatavuse statistikast lähtuv kodulehe arendamine. Kodulehe ja konkurentide analüüs. Funktsionaalsuse lisamine, lähtudes ettevõtte vajadustest. Samuti teised jooksvad tööd.
+Peale kodulehe valmimist on pool tööd tehtud. Edasi järgneb külastatavuse statistikast lähtuv veebilehe arendamine. Kodulehe ja konkurentide analüüs. Funktsionaalsuse lisamine, lähtudes ettevõtte vajadustest. Ja teised jooksvad tööd.
 
 Palju õnne! Nüüd on Sul koduleht, mis on ettevõtte peamine turunduskanal ja omad eelist konkurendi ees.
 
 ### Kellele kodulehe tellimine sobib
 
-Ettevõtjale, kelle on kvaliteetne toode või teenus ja kes soovib:
+Teenus ettevõtjale, kes soovib:
 
 - oma toodet või teenust turustada interneti kaudu
 - konkurentsieelist interneti otsingumootori [orgaanilises otsingus](https://support.google.com/google-ads/answer/6054492?hl=et)
@@ -43,11 +42,13 @@ Ettevõtjale, kelle on kvaliteetne toode või teenus ja kes soovib:
 
 Parima lahendus sünnib koos tulemusest huvitatud kliendiga. Teeme tööriista ja aitame selle kasutusele võtta. Kui oled avatud ja valmis panustama siis on lihtne tulemuseni jõuda, sest meie tahame kodulehti teha.
 
-### Kodulehe tellimise hind ja loomiseks kuluv aeg
+Asume Valgas ja töötame tellijatega üle Eesti. Kohtume tellija valitud kohas või interneti vahendusel.
 
-Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus. Kodulehe valmimiseks kulub kuu. Kolm kuud läheb esimeste tulemuste saavutamiseks interneti otsingumootoris.
+### Hind ja kodulehe tegemiseks kuluv aeg
 
-Kodulehe tellimiseks [saada meile kiri kontaktide lehel](https://tellikoduleht.ee/kontaktid/) või täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform).
+Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus. Veebilehe valmistamiseks kulub kuu. Kolm kuud kulub tulemuste saavutamiseks interneti otsingumootoris.
+
+Tellimiseks täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform).
 
 ### Garantiid, riskide hajutamine
 
