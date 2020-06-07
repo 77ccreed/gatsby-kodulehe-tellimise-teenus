@@ -42,7 +42,7 @@ const Navbar = class extends React.Component {
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <p style={{
-                color: '#2d6a4f',
+                color: '#CC0000',
                 fontSize: '1.2rem',
                 fontWeight: '600'
               }}>Telli koduleht</p>
