@@ -25,7 +25,8 @@ export const IndexPageTemplate = ({
           //backgroundPosition: `top left`,
           //backgroundAttachment: `fixed`,
           //background: '#1C5D99',
-          backgroundImage: 'linear-gradient(to right, #2C4E63 , #B88D00)',
+          backgroundImage: 'linear-gradient(to right, #52b788, #2d6a4f)',
+
           //clipPath: ' polygon(50% 0%, 100% 0, 100% 85%, 50% 100%, 0 85%, 0 0)'
         }}
       >
@@ -37,6 +38,8 @@ export const IndexPageTemplate = ({
             justifyContent: 'space-around',
             alignItems: 'left',
             flexDirection: 'column',
+            margin: '5px',
+            fontSize: '200%'
           }}
         >
           <h1
@@ -45,14 +48,15 @@ export const IndexPageTemplate = ({
               //boxShadow:
               //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
               //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#F1F6F9',
+              color: '#d8f3dc',
               //lineHeight: '1',
               //padding: '0.25em',
               //fontFamily: 'Georgia'
 
 
               letterSpacing: '3.3px',
-              lineHeight: '86%'
+              lineHeight: '86%',
+              fontWeight: '800'
 
 
             }}
@@ -65,7 +69,7 @@ export const IndexPageTemplate = ({
               //boxShadow:
               //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
               //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#C6DBE7',
+              color: '#d8f3dc',
               //lineHeight: '1',
               padding: '0.25em',
             }}
