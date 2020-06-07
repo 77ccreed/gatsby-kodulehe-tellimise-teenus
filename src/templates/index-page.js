@@ -24,13 +24,15 @@ export const IndexPageTemplate = ({
           // })`,
           //backgroundPosition: `top left`,
           //backgroundAttachment: `fixed`,
-          background: '#1C5D99'
+          //background: '#1C5D99',
+          backgroundImage: 'linear-gradient(to right, #2C4E63 , #B88D00)',
+          //clipPath: ' polygon(50% 0%, 100% 0, 100% 85%, 50% 100%, 0 85%, 0 0)'
         }}
       >
         <div
           style={{
             display: 'flex',
-            height: '150px',
+            //height: '150px',
             lineHeight: '1',
             justifyContent: 'space-around',
             alignItems: 'left',
@@ -40,12 +42,19 @@ export const IndexPageTemplate = ({
           <h1
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
-              boxShadow:
-                'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
-              backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#D7DBDE',
-              lineHeight: '1',
-              padding: '0.25em',
+              //boxShadow:
+              //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
+              //backgroundColor: 'rgb(31, 53, 77, 0.5)',
+              color: '#F1F6F9',
+              //lineHeight: '1',
+              //padding: '0.25em',
+              //fontFamily: 'Georgia'
+
+
+              letterSpacing: '3.3px',
+              lineHeight: '86%'
+
+
             }}
           >
             {title}
@@ -53,11 +62,11 @@ export const IndexPageTemplate = ({
           <h3
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
-              boxShadow:
-                'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
-              backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#D7DBDE',
-              lineHeight: '1',
+              //boxShadow:
+              //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
+              //backgroundColor: 'rgb(31, 53, 77, 0.5)',
+              color: '#C6DBE7',
+              //lineHeight: '1',
               padding: '0.25em',
             }}
           >
