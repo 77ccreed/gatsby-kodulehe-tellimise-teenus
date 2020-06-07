@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Ettevõtte kodulehe tellimine
-image: /img/kodulehe-tegemine-taustapilt.jpg
+image: /img/kodulehe-tellimine-taustapilt.jpg
 heading: >-
   Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu uue
   kodulehe tegemiseks.
