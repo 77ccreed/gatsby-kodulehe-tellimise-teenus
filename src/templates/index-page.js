@@ -24,8 +24,8 @@ export const IndexPageTemplate = ({
           // })`,
           //backgroundPosition: `top left`,
           //backgroundAttachment: `fixed`,
-          //background: '#1C5D99',
-          backgroundImage: 'linear-gradient(to right, #145A8A, #1C81C4)',
+          background: '#EEF6FC',
+          //backgroundImage: 'linear-gradient(to right, #145A8A, #1C81C4)',
 
           //clipPath: ' polygon(50% 0%, 100% 0, 100% 85%, 50% 100%, 0 85%, 0 0)'
         }}
@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
               //boxShadow:
               //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
               //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#fff',
+              color: '#B80049',
               //lineHeight: '1',
               //padding: '0.25em',
               //fontFamily: 'Georgia'
@@ -69,7 +69,7 @@ export const IndexPageTemplate = ({
               //boxShadow:
               //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
               //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#E0E0E0',
+              color: '#B80049',
               //lineHeight: '1',
               padding: '0.25em',
             }}
