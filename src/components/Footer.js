@@ -9,7 +9,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <p style={{
-            color: '#B80049',
+            color: '#ED3F1D',
             fontSize: '2.5rem',
             fontWeight: '650'
           }}>Telli koduleht</p>
