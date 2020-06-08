@@ -17,7 +17,7 @@ export const IndexPageTemplate = ({
 }) => (
     <div>
       <div
-        className="full-width-image margin-top-0"
+        className="taust margin-top-0"
         style={{
           //backgroundImage: `url(${
           // !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
               //boxShadow:
               //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
               //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#154E79',
+
               //lineHeight: '1',
               //padding: '0.25em',
               //fontFamily: 'Georgia'
@@ -69,7 +69,6 @@ export const IndexPageTemplate = ({
               //boxShadow:
               //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
               //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              color: '#154E79',
               //lineHeight: '1',
               padding: '0.25em',
             }}

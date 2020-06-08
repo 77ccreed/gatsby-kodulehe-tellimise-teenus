@@ -21,21 +21,24 @@ export const ProductPageTemplate = ({
 }) => (
     <div className="content">
       <div
-        className="full-width-image-container margin-top-0"
-        style={{
-          backgroundImage: `url(${
-            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-            })`,
-        }}
+        className="full-width-image-container margin-top-0 taust"
+      //style={{
+      //backgroundImage: `url(${
+      // !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+      // })`,
+      // }}
       >
         <h2
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow:
-              'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
-            backgroundColor: 'rgb(31, 53, 77, 0.5)',
-            color: '#D7DBDE',
+            // boxShadow:
+            // 'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
+            // backgroundColor: 'rgb(31, 53, 77, 0.5)',
             padding: '1rem',
+            letterSpacing: '3.3px',
+            lineHeight: '86%',
+            fontWeight: '800',
+            color: '#fff',
           }}
         >
           {title}
