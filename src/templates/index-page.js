@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
 
+import { motion } from "framer-motion"
+
 export const IndexPageTemplate = ({
   image,
   title,
@@ -42,7 +44,10 @@ export const IndexPageTemplate = ({
             fontSize: '200%'
           }}
         >
-          <h1
+          <motion.h1
+            initial={{ opacity: 0, x: '100vw' }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.5 }}
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
               //boxShadow:
@@ -62,8 +67,11 @@ export const IndexPageTemplate = ({
             }}
           >
             {title}
-          </h1>
-          <h4
+          </motion.h1>
+          <motion.h4
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 1.5 }}
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
               //boxShadow:
@@ -74,7 +82,7 @@ export const IndexPageTemplate = ({
             }}
           >
             {subheading}
-          </h4>
+          </motion.h4>
         </div>
       </div>
       <section className="section section--gradient">
