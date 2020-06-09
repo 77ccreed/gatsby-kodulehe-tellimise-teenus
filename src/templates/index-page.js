@@ -1,12 +1,10 @@
-import React from 'react'
+import React, { lazy } from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
-
-import { motion } from "framer-motion"
 
 export const IndexPageTemplate = ({
   image,
@@ -65,7 +63,7 @@ export const IndexPageTemplate = ({
           >
             {title}
           </h1>
-          <h3
+          <h4
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
               //boxShadow:
@@ -76,7 +74,7 @@ export const IndexPageTemplate = ({
             }}
           >
             {subheading}
-          </h3>
+          </h4>
         </div>
       </div>
       <section className="section section--gradient">
@@ -90,7 +88,7 @@ export const IndexPageTemplate = ({
                       <h2 className="title is-size-3">{mainpitch.title}</h2>
                     </div>
                     <div className="tile">
-                      <h4 className="subtitle is-size-4">{mainpitch.description}</h4>
+                      <h3 className="subtitle is-size-4">{mainpitch.description}</h3>
                     </div>
                   </div>
                   <div className="columns">
