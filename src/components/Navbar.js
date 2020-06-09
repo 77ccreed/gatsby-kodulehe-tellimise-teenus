@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 import facebook from '../img/social/facebook.svg'
 
+import { motion } from "framer-motion"
+
 const Navbar = class extends React.Component {
   constructor(props) {
     super(props)
@@ -41,11 +43,14 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <p style={{
-                color: '#154E79',
-                fontSize: '1.2rem',
-                fontWeight: '600'
-              }}>Telli koduleht</p>
+              <motion.p
+                initial={{ opacity: 0 }}
+                animate={{ opacity: 1 }}
+                style={{
+                  color: '#154E79',
+                  fontSize: '1.2rem',
+                  fontWeight: '600'
+                }}>Telli koduleht</motion.p>
             </Link>
             {/* Hamburger menu */}
             <div
