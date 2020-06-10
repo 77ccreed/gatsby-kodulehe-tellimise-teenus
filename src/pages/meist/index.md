@@ -20,7 +20,7 @@ Mõned meie valmistatud kodulehti iseloomustavad omadused::
 
 Pakume täislahendusena teenust kodulehe tegemise, sisu loomise ja halduse näol. Lisaks tasuta domeen ja veebimajutus.
 
-### Kuidas käib kodulehe tegemine - tööprotsess
+## Kuidas käib kodulehe tegemine - tööprotsess
 
 [Küsimustiku](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform) abil selgitame esmalt välja, mida tellija täpselt vajab. Peale kohtumist tellija valitud kohas ja tellimuse saamist loome veebilehe prooviversiooni.
 
@@ -32,7 +32,7 @@ Peale kodulehe valmimist on pool tööd tehtud. Edasi järgneb külastatavuse st
 
 Palju õnne! Nüüd on Sul koduleht, mis on ettevõtte peamine turunduskanal ja omad eelist konkurendi ees.
 
-### Kellele kodulehe tellimine sobib
+## Kellele kodulehe tellimine sobib
 
 Teenus ettevõtjale, kes soovib:
 
@@ -44,12 +44,12 @@ Parima lahendus sünnib koos tulemusest huvitatud kliendiga. Teeme tööriista j
 
 Asume Valga linnas ja töötame tellijatega üle Eesti. Kohtume tellija valitud kohas või interneti vahendusel.
 
-### Hind ja kodulehe tegemiseks kuluv aeg
+## Hind ja kodulehe tegemiseks kuluv aeg
 
 Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus. Veebilehe valmistamiseks kulub kuu. Kolm kuud kulub tulemuste saavutamiseks interneti otsingumootoris.
 
 Tellimiseks täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform).
 
-### Garantiid, riskide hajutamine
+## Garantiid, riskide hajutamine
 
 Pidev töö kodulehega aitab edu saavutada ja toob vajalikud kliendid. Kui tellija ei jää rahule kodulehe külastatavusega, pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
