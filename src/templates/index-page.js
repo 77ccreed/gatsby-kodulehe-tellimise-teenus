@@ -1,4 +1,4 @@
-import React, { lazy } from 'react'
+import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
@@ -45,8 +45,8 @@ export const IndexPageTemplate = ({
           }}
         >
           <motion.h1
-            initial={{ opacity: 0, x: '100vw' }}
-            animate={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: '-100vw' }}
+            animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5, duration: 0.5 }}
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{

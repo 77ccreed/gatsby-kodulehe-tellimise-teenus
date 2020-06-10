@@ -21,8 +21,8 @@ export default class BlogIndexPage extends React.Component {
         //}}
         >
           <motion.h1
-            initial={{ opacity: 0, x: '100vw' }}
-            animate={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: '-100vw' }}
+            animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.5, duration: 0.5 }}
             className="has-text-weight-bold is-size-1"
             style={{
