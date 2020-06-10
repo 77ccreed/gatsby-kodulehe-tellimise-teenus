@@ -4,6 +4,8 @@ import Layout from '../../components/Layout'
 import Helmet from 'react-helmet'
 import BlogRoll from '../../components/BlogRoll'
 
+import { motion } from "framer-motion"
+
 export default class BlogIndexPage extends React.Component {
   render() {
     return (
@@ -18,7 +20,10 @@ export default class BlogIndexPage extends React.Component {
         // backgroundImage: `url('/img/kodulehe-tegemine-taustapilt.jpg')`,
         //}}
         >
-          <h1
+          <motion.h1
+            initial={{ opacity: 0, x: '100vw' }}
+            animate={{ opacity: 1, x: 0 }}
+            transition={{ delay: 0.5, duration: 0.5 }}
             className="has-text-weight-bold is-size-1"
             style={{
               // boxShadow:
@@ -32,7 +37,7 @@ export default class BlogIndexPage extends React.Component {
             }}
           >
             Teenused
-          </h1>
+          </motion.h1>
         </div>
         <section className="section">
           <div className="container">

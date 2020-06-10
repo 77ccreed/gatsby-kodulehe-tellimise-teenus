@@ -8,6 +8,8 @@ import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
+import { motion } from "framer-motion"
+
 export const ProductPageTemplate = ({
   image,
   title,
@@ -28,7 +30,10 @@ export const ProductPageTemplate = ({
       // })`,
       // }}
       >
-        <h2
+        <motion.h2
+          initial={{ opacity: 0, x: '100vw' }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ delay: 0.5, duration: 0.5 }}
           className="has-text-weight-bold is-size-1"
           style={{
             // boxShadow:
@@ -42,7 +47,7 @@ export const ProductPageTemplate = ({
           }}
         >
           {title}
-        </h2>
+        </motion.h2>
       </div>
       <section className="section section--gradient">
         <div className="container">

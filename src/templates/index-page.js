@@ -47,7 +47,7 @@ export const IndexPageTemplate = ({
           <motion.h1
             initial={{ opacity: 0, x: '100vw' }}
             animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: 0.5, duration: 1 }}
+            transition={{ delay: 0.5, duration: 0.5 }}
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
               //boxShadow:
@@ -71,7 +71,7 @@ export const IndexPageTemplate = ({
           <motion.h4
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
-            transition={{ delay: 2, duration: 2 }}
+            transition={{ delay: 2, duration: 3 }}
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
               //boxShadow:
