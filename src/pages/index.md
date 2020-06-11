@@ -3,20 +3,18 @@ templateKey: index-page
 title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tellimine-taustapilt.jpg
 heading: >-
-  Täida küsimustik tellimise lehel. Selgitame välja, mida on vaja Sinu uue
-  kodulehe tegemiseks.
+  Täida küsimustik tellimise lehel. Selgitame välja, kuidas Sinu toode või teenus inimesteni viia.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?
-  description: 'Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus.'
+  description: "Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus."
 description: >-
   Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti
   alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija
   jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks
   mõeldud tehnoloogia ja heas eesti keeles loodud teksti. Valmistame ühekeelse,
-  firma vajadustest lähtuva veebilehe. Kirjutame Sinu äri tutvustava teksti ja
-  pakume veebihalduri teenust. Täislahendus teenus sisaldab domeeni ja
-  veebimajutust. Kui tellija ei jää rahule lehe külastajate arvuga, pakume
+  tellija vajadustest lähtuva veebilehe. Kirjutame Sinu äri tutvustava teksti ja
+  pakume veebihalduri teenust. Kui tellija ei jää rahule lehe külastajate arvuga, pakume
   igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
 intro:
   blurbs:
@@ -36,15 +34,12 @@ intro:
         tehtust ülevaate.
     - image: /img/kodulehe-redigeerimine-v.jpg
       text: >-
-        Indekseerime kodulehe interneti otsingumootoris. Tagame veebimajutuse ja
+        Indekseerime kodulehe interneti otsingumootoris. Tagame veebimajutuse, domeeni ning
         teostame vajalikud lisatööd. Hoolitseme, et kõik töötaks soovitud moel
         ja veebileht jõuaks külastajani parimal võimalikul viisil.
     - image: /img/kodulehe-optimeerimine.jpg
       text: >
-        Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab
-        vajalikud edasised hooldustööd. Lähtudes külastatavuse statistikast ja
-        veebilehe positsioonist interneti otsingus, redigeerime lehte ja selle
-        sisu.
+        Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab kodulehe toimimise parimal võimalikul moel. Redigeerime ja optimeerime veebilehte lähtudes tellija vajadustest. Nii jõuab Sinu toode või teenus inimesteni parimal võimalikul moel.
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
@@ -68,4 +63,3 @@ main:
     alt: Ettevõtte turundus
     image: /img/turundus.jpg
 ---
-
