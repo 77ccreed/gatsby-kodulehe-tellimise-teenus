@@ -11,14 +11,14 @@ Programmeerimist ja arvutialast konsultatsiooni pakkuv ettevõte ([reg. kood: 14
 
 Valmistame tehnoloogiliselt uuemaid, [React JS](https://reactjs.org/) põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi veebilehti. See tagab sujuva kasutajakogemuse ja annab edu interneti otsingumootori [orgaanilises otsingus](https://support.google.com/google-ads/answer/6054492?hl=et).
 
-Mõned meie valmistatud kodulehti iseloomustavad omadused::
+Mõned meie valmistatud kodulehti iseloomustavad omadused:
 
 - sujuv kasutuskogemus erinevate lehtede vahel
 - veebileht on kasutatav internetilevita
 - veebilehe saab salvestada avakuvale, nagu rakenduse
 - veebileht on kiire ka suuri pilte kasutades
 
-Pakume täislahendusena teenust kodulehe tegemise, sisu loomise ja halduse näol. Lisaks tasuta domeen ja veebimajutus.
+Pakume täislahendus teenust kodulehe tegemise, sisu loomise ja halduse näol. Lisaks tasuta domeen ja veebimajutus.
 
 ## Kuidas käib kodulehe tegemine - tööprotsess
 
