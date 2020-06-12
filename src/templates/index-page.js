@@ -1,6 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql } from 'gatsby'
+import { graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
@@ -45,9 +45,9 @@ export const IndexPageTemplate = ({
           }}
         >
           <motion.h1
-            initial={{ opacity: 0, y: '-100vw' }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.5, duration: 0.5 }}
+            initial={{ opacity: 0, y: -30, color: '#000' }}
+            animate={{ opacity: 1, y: 0, color: '#fff' }}
+            transition={{ delay: 0.5, duration: 0.8 }}
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
               //boxShadow:
@@ -69,8 +69,8 @@ export const IndexPageTemplate = ({
             {title}
           </motion.h1>
           <motion.h4
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
+            initial={{ opacity: 0, color: '#000' }}
+            animate={{ opacity: 1, color: '#fff' }}
             transition={{ delay: 2, duration: 3 }}
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
@@ -128,9 +128,8 @@ export const IndexPageTemplate = ({
                   </h3>
                     <BlogRoll />
                     <div className="column is-12 has-text-centered">
-                      <Link className="btn" to="/turundus/">
-                        Ava turunduse leht
-                    </Link>
+                      <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                        title="Ava tellimise leht">Ava tellimise leht</a>
                     </div>
                   </div>
                 </div>

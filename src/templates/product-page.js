@@ -31,9 +31,9 @@ export const ProductPageTemplate = ({
       // }}
       >
         <motion.h2
-          initial={{ opacity: 0, y: '-100vw' }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.5, duration: 0.5 }}
+          initial={{ opacity: 0, y: -30, color: '#000' }}
+          animate={{ opacity: 1, y: 0, color: '#fff' }}
+          transition={{ delay: 0.5, duration: 0.8 }}
           className="has-text-weight-bold is-size-1"
           style={{
             // boxShadow:

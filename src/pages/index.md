@@ -30,7 +30,7 @@ intro:
       text: >-
         Hindame konkurente ja ettevõtte positsiooni turul. Loome strateegia ja
         sellest lähtudes firmat, selle tooteid ja teenuseid tutvustava teksti.
-        Valmistame ettevõtte veebilehe prooviversiooni ja anname tellijale
+        Valmistame veebilehe prooviversiooni ja anname tellijale
         tehtust ülevaate.
     - image: /img/kodulehe-redigeerimine-v.jpg
       text: >-
