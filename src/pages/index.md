@@ -12,7 +12,7 @@ description: >-
   Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti
   alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija
   jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks
-  mõeldud tehnoloogia ja heas eesti keeles loodud teksti. Valmistame ühekeelse,
+  mõeldud tehnoloogia hea eesti keelse tekstiga. Valmistame ühekeelse,
   tellija vajadustest lähtuva veebilehe. Kirjutame Sinu äri tutvustava teksti ja
   pakume veebihalduri teenust. Kui tellija ei jää rahule lehe külastajate arvuga, pakume
   igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
