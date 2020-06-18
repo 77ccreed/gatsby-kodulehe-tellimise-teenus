@@ -110,7 +110,8 @@ export const IndexPageTemplate = ({
                       </h3>
 
                       <div className="column is-12 has-text-centered">
-                        <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                        <a
+                          className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
                           title="Ava tellimise leht">Ava tellimise leht</a>
                       </div>
 

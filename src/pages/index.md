@@ -39,7 +39,7 @@ intro:
         ja veebileht jõuaks külastajani parimal võimalikul viisil.
     - image: /img/kodulehe-optimeerimine.jpg
       text: >
-        Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab kodulehe toimimise igal ajahetkel parimal võimalikul moel. Redigeerime ja optimeerime veebilehte lähtudes tellija vajadustest ja külastatavuse statistikast.
+        Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab kodulehe toimimise. Redigeerime ja optimeerime veebilehte lähtudes tellija vajadustest ja külastatavuse statistikast. Nii jätad konkurendid varju.
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse

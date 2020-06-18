@@ -63,6 +63,13 @@ export const ProductPageTemplate = ({
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <Features gridItems={intro.blurbs} />
+
+                <div className="column is-12 has-text-centered">
+                  <a
+                    className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                    title="Ava tellimise leht">Ava tellimise leht</a>
+                </div>
+
                 <div className="columns">
                   <div className="column is-7">
                     <h3 className="has-text-weight-semibold is-size-3">
@@ -146,8 +153,8 @@ const ProductPage = ({ data }) => {
   return (
     <Layout>
       <Helmet>
-        <title>Kvaliteetne turundus läbi ettevõtte kodulehe</title>
-        <meta name="description" content="Koduleht on ettevõtte jaoks parim turunduskanal, sest see jõuab inimesteni, kes ise otsivad endale vajalikku toodet või teenust. Vali kvaliteetne turundus." />
+        <title>Ettevõtte turundus internetis - parim reklaam Sinu firmale</title>
+        <meta name="description" content="Koduleht on ettevõtte jaoks parim turunduskanal. Selle kaudu jõuab kliendini. Vali kvaliteetne turundus, reklaami oma firmat internetis." />
       </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}
