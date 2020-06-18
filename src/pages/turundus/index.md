@@ -4,11 +4,21 @@ title: Ettevõtte turundus internetis
 image: /img/kodulehe-tegemine-taustapilt.jpg
 heading: Turundus läbi kodulehe - see on parim reklaam firmale
 description: >-
+<<<<<<< HEAD
   Internet on turunduseks parim koht. Selle kaudu jõuab kliendini, kes otsib endale vajalikku toodet või teenust. Aitame edestada konkurenti interneti otsingumootori orgaanilise otsingus. See tähendab, et tellija ei pea reklaamile ja teistele turundusega seotud tegevustele tingimata aega ja raha enam kulutama. Kuid kui selleks on soov ja vajadus, siis on vajalik turundustekst olemas.
+=======
+  Internet on turunduseks parim koht. Selle kaudu jõuab kliendini, kes otsib
+  endale vajalikku toodet või teenust. Aitame edestada konkurenti interneti
+  otsingumootori orgaanilise otsingus. See tähendab, et tellija ei pea
+  reklaamile ja teistele turundusega seotud tegevustele tingimata aega ja raha
+  enam kulutama. Kuid kui selleks on soov ja vajadus, siis on vajalik
+  turundustekst olemas.
+>>>>>>> 54ee404e1ba9dd0481e47b1a8d82f05f77470fde
 intro:
   blurbs:
     - image: /img/toote-teenuse-otsing-internetist.jpg
       text: >-
+<<<<<<< HEAD
         Oled raskustes oma toote või teenuse turustamisel? Võimalikud kliendid ei leia Sind konkurentide seast?
     - image: /img/kodulehe-teksti-kirjutamine-v.jpg
       text: >-
@@ -19,6 +29,22 @@ intro:
     - image: /img/kodulehe-optimeerimine.jpg
       text: >-
         Täida küsimustik tellimise lehel. Muidu jätavad konkurendid Sind varju ja lähed väetiseks.
+=======
+        Oled raskustes oma toote või teenuse turustamisel? Võimalikud kliendid
+        ei leia Sind konkurentide seast?
+    - image: /img/turundus-viib-sihile.jpg
+      text: >-
+        Aitame ettevõttel inimesteni jõuda. Meil on oskus ja tahe luua lahendus,
+        mis kasvatab müüki.
+    - image: /img/kodulehe-redigeerimine-v.jpg
+      text: >-
+        Valmistame kaasaegse, ettevõtte vajadustest lähtuva veebilehe. Loome
+        firma turunduseks vajaliku teksti.
+    - image: /img/firma-edu.jpg
+      text: >-
+        Täida küsimustik tellimise lehel. Muidu jätavad konkurendid Sind varju
+        ja lähed väetiseks.
+>>>>>>> 54ee404e1ba9dd0481e47b1a8d82f05f77470fde
   heading: Kvaliteetne turundus läbi ettevõtte kodulehe
   description: >-
     Koduleht on ettevõtte jaoks parim turunduskanal, sest jõuab inimeseni, kes
@@ -29,8 +55,13 @@ main:
   description: >-
     Läbimõeldud tekst ja tehnoloogiliselt uuem, meeldiva kasutajakogemusega
     koduleht annab eelise. Olgu ettevõte väike või suur, ettevõtte turundus
+<<<<<<< HEAD
     internetis on lahendus, millele tasub panustada. Hästi tehtud internetiturundus
     on parim viis kliendini jõudmiseks - see toob kasumi.
+=======
+    internetis on lahendus, millele tasub panustada. Hästi tehtud
+    internetiturundus on parim viis kliendini jõudmiseks - see toob kasumi.
+>>>>>>> 54ee404e1ba9dd0481e47b1a8d82f05f77470fde
   image1:
     alt: Ettevõtte turundus internetis viib sihile
     image: /img/turundus-viib-sihile.jpg
