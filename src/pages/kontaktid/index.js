@@ -44,7 +44,9 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Saada meile kiri</h1>
+              <h1>Lisainfot teenuse kohta. Abi küsimustiku täitmisel.</h1>
+              <p>Saada meile kiri või helista numbril (+372) 56 8844 56. Tutvustame meeleldi teenust lähemalt ja pakume abi küsimustiku täitmisel.</p>
+              <hr />
               <form
                 name="kontakt"
                 method="post"
@@ -145,8 +147,8 @@ export default class Index extends React.Component {
               <p>E-mail: kiur.jullis@gmail.com</p>
               <p>Arveldusarve: SEB EE461010220285246226</p>
               <hr />
-              <a className="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdlZUuVoNFNecsp8M7wQ0zA_RhnkMMgndRmotmuEoMN5F3A5w/viewform" target="_blank" rel="noopener noreferrer"
-                title="Hinda teenust ja kodulehte">Hinda teenust ja kodulehte</a>
+              {/* <a className="btn" href="https://docs.google.com/forms/d/e/1FAIpQLSdlZUuVoNFNecsp8M7wQ0zA_RhnkMMgndRmotmuEoMN5F3A5w/viewform" target="_blank" rel="noopener noreferrer"
+    title="Hinda teenust ja kodulehte">Hinda teenust ja kodulehte</a>*/}
             </div>
           </div>
         </section>
