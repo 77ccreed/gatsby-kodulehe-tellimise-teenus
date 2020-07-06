@@ -20,22 +20,10 @@ export const IndexPageTemplate = ({
     <div>
       <div
         className="taust margin-top-0"
-        style={{
-          //backgroundImage: `url(${
-          // !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-          // })`,
-          //backgroundPosition: `top left`,
-          //backgroundAttachment: `fixed`,
-          //background: '#EEF6FC',
-          //backgroundImage: 'linear-gradient(to right, #145A8A, #1C81C4)',
-
-          //clipPath: ' polygon(50% 0%, 100% 0, 100% 85%, 50% 100%, 0 85%, 0 0)'
-        }}
       >
         <div
           style={{
             display: 'flex',
-            //height: '150px',
             lineHeight: '1',
             justifyContent: 'space-around',
             alignItems: 'left',
@@ -52,20 +40,9 @@ export const IndexPageTemplate = ({
             transition={{ delay: 0.5, duration: 0.8 }}
             className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
             style={{
-              //boxShadow:
-              //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
-              //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-
-              //lineHeight: '1',
-              //padding: '0.25em',
-              //fontFamily: 'Georgia'
-
-
               letterSpacing: '3.3px',
               lineHeight: '86%',
               fontWeight: '800'
-
-
             }}
           >
             {title}
@@ -78,10 +55,6 @@ export const IndexPageTemplate = ({
             transition={{ delay: 2, duration: 3 }}
             className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
             style={{
-              //boxShadow:
-              //'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
-              //backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              //lineHeight: '1',
               padding: '0.25em',
             }}
           >
