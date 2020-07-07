@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Kodulehe sisu loomine ja teksti kirjutamine
+title: Kodulehe sisu loomine - teksti kirjutamine, mis müüb
 date: 2020-04-07T04:42:12.611Z
 description: >-
   Loome strateegia ja sellest lähtudes kirjutame teksti, mis sobib kasutamiseks ettevõtte kõigis turunduskanalites. Pikaaegne sisutekstide kirjutamise kogemus.

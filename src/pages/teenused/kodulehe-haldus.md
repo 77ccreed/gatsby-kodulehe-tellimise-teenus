@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Loodud kodulehe haldus ja veebihalduri teenus
+title: Kodulehe haldus ja hooldus - soodne veebihalduri teenus
 date: 2020-02-20T05:16:16.845Z
 description: >-
-  Veebihalduri teenus tagab kodulehe halduse parimal moel. Tellijana saad veebilehte hallata sisuhaldustarkvara abil. Võid selle ka täielikult halduri hooleks jätta.
+  Veebihalduri teenus tagab kodulehe halduse parimal moel. Tellija võib veebilehte hallata sisuhaldustarkvara abil või kodulehe halduse halduri hooleks jätta.
 featuredpost: false
 featuredimage: /img/lisatööd-valminud-kodulehel.jpg
 tags:

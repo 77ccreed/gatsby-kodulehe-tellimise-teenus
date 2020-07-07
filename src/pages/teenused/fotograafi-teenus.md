@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Fotograafi teenus kodulehe piltide tegemiseks
+title: FOTOD | Fotograafi teenus kodulehe piltide tegemiseks
 date: 2019-12-31T05:34:09.541Z
 description: >-
   Fotograafi teenus Nikon d5500 kaameraga. Veebilehel kasutatavate fotode tegemine ja töötlemine. Lisaks pildistamisele video tegemise võimalus.

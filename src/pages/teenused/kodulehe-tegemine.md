@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Tänapäevase kodulehe tegemine - kiirelt ja lihtsalt
 date: 2020-04-08T04:57:25.469Z
 description: >-
-  Valmistame React JS põhise üheleherakendus tüüpi veebilehe. Hea kasutajakogemuse ja selge eesmärgiga kodulehe tegemine toob edu interneti otsingus.
+  Valmistame React JS põhise üheleherakendus tüüpi veebilehe. Hea kasutajakogemuse ja selge eesmärgiga kodulehe tegemine toob kliendid Sinu ettevõttele.
 featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
