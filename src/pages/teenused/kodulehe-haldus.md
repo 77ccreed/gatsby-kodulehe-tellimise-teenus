@@ -41,7 +41,7 @@ Kodulehe haldus aitab edu saavutada ja toob vajalikud kliendid. Kui tellija ei j
 
 [Tagasiside küsimustik](https://docs.google.com/forms/d/e/1FAIpQLSdlZUuVoNFNecsp8M7wQ0zA_RhnkMMgndRmotmuEoMN5F3A5w/viewform) kasutajakogemuse parandamiseks.
 
-## Kuidas käib loodud kodulehe haldus
+## Kuidas tellija saab kodulehte hallata
 
 Tellija saab veebilehe proovi ja valmis versiooni hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/). Teeme kasutuskoolituse ja pakume jooksvalt abi kodulehe haldamisega seotud küsimuste lahendamiseks.
 
