@@ -30,16 +30,16 @@ Teeme kodulehe halduse tellija jaoks lihtsaks. Tellija ei pea veebilehe arendami
 - konkurentide analüüs
 - veebilehe ja selle teksti analüüs, optimeerimine ning redigeerimine
 - sisu loomine
-- piltide tegemine
+- piltide tegemine, redigeerimine ja optimeerimine
 - funktsionaalsuse lisamine
 - kontaktvormi lisamine või muutmine
 - disaini ja kujunduse isikupärastamine
 
+#### Veebihalduri teenuse eesmärk on tuua tellijale kliendid
+
+OÜ Kodulehe Tellimine aitab edu saavutada. Kui tellija ei jää rahule veebilehe külastajate arvuga, pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
+
 Parim tulemus sünnib koostöös - kui tellija pakub infot oma ettevõtte, toodete ja teenuste kohta, saame selle parimal võimalikul moel külastajani viia. Tellija saab enda veebilehe ja OÜ Kodulehe Tellimine teenuse kohta [tagasisidet anda](https://docs.google.com/forms/d/e/1FAIpQLSdlZUuVoNFNecsp8M7wQ0zA_RhnkMMgndRmotmuEoMN5F3A5w/viewform) küsimustiku abil.
-
-Kodulehe haldus aitab edu saavutada ja toob vajalikud kliendid. Kui tellija ei jää rahule veebilehe külastajate arvuga, pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
-
-[Tagasiside küsimustik](https://docs.google.com/forms/d/e/1FAIpQLSdlZUuVoNFNecsp8M7wQ0zA_RhnkMMgndRmotmuEoMN5F3A5w/viewform) kasutajakogemuse parandamiseks.
 
 ## Kuidas tellija saab kodulehte hallata
 
