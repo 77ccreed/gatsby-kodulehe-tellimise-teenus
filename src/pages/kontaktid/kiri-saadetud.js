@@ -6,8 +6,8 @@ export default () => (
     <section className="section">
       <div className="container">
         <div className="content">
-          <h1>Täname kirja eest!</h1>
-          <p>Vastame Teile peatselt.</p>
+          <h1>Aitäh kirja eest!</h1>
+          <p>Vastame peatselt.</p>
         </div>
       </div>
     </section>

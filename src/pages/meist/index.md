@@ -22,7 +22,7 @@ Pakume täislahendus teenust kodulehe tegemise, sisu loomise ja halduse näol. L
 
 ## Kuidas käib kodulehe tegemine - tööprotsess
 
-[Küsimustiku](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform) abil selgitame esmalt välja, mida tellija täpselt vajab. Peale kohtumist tellija valitud kohas ja tellimuse saamist loome veebilehe prooviversiooni.
+Esmalt selgitame välja, mida tellija täpselt vajab. Peale kohtumist tellija valitud kohas ja tellimuse saamist loome veebilehe prooviversiooni.
 
 Kui tellijal puudub kodulehe valmistamiseks vajalik sisu, saame aidata ka sellega. Pakume teksti kirjutamise teenust - meil on pikaajaline kogemus erinevate sisutekstide ja artiklite loomise vallas. Samuti teeme vajalikud fotod Nikon d5500 kaameraga.
 
@@ -46,10 +46,8 @@ Asume Valga linnas ja töötame tellijatega üle Eesti. Kohtume tellija valitud 
 
 ## Hind ja kodulehe tegemiseks kuluv aeg
 
-Kodulehe tegemine, sisu loomine ja haldus hinnaga 99 € kuus. Veebilehe valmistamiseks kulub kuu. Kolm kuud kulub tulemuste saavutamiseks interneti otsingumootoris.
-
-Tellimiseks täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform).
+Kodulehe tegemine, sisu loomine ja haldus hinnaga 15 € tund. Veebilehe valmistamiseks kulub kuni kuu. Kolm kuud kulub tulemuste saavutamiseks interneti otsingumootoris.
 
 ## Garantiid, riskide hajutamine
 
-Pidev töö kodulehega aitab edu saavutada ja toob vajalikud kliendid. Kui tellija ei jää rahule kodulehe külastatavusega, pakume igakuisete maksete peatamist. Teenusest loobumisega tasusid ei kaasne.
+Pidev töö kodulehega aitab edu saavutada ja toob vajalikud kliendid.

@@ -44,8 +44,8 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Lisainfot teenuse kohta. Abi küsimustiku täitmisel.</h1>
-              <p>Saada meile kiri või helista numbril (+372) 56 8844 56. Tutvustame meeleldi teenust lähemalt ja pakume abi küsimustiku täitmisel.</p>
+              <h1>Lisainfot teenuse kohta.</h1>
+              <p>Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus parimal võimalikul moel inimesteni viia.</p>
               <hr />
               <form
                 name="kontakt"

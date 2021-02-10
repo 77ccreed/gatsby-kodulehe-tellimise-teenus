@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 
@@ -17,107 +18,108 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => (
-    <div>
+  <div>
+    <div
+      className="taust margin-top-0"
+    >
       <div
-        className="taust margin-top-0"
+        style={{
+          display: 'flex',
+          lineHeight: '1',
+          justifyContent: 'space-around',
+          alignItems: 'left',
+          flexDirection: 'column',
+          margin: '5px',
+          fontSize: '200%'
+        }}
       >
-        <div
+        <motion.h1
+          initial={{ opacity: 0, y: -30, color: '#000', textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
+          animate={{
+            opacity: 1, y: 0, color: '#fff', textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
+          }}
+          transition={{ delay: 0.5, duration: 0.8 }}
+          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            display: 'flex',
-            lineHeight: '1',
-            justifyContent: 'space-around',
-            alignItems: 'left',
-            flexDirection: 'column',
-            margin: '5px',
-            fontSize: '200%'
+            letterSpacing: '3.3px',
+            lineHeight: '86%',
+            fontWeight: '800'
           }}
         >
-          <motion.h1
-            initial={{ opacity: 0, y: -30, color: '#000', textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
-            animate={{
-              opacity: 1, y: 0, color: '#fff', textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
-            }}
-            transition={{ delay: 0.5, duration: 0.8 }}
-            className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-            style={{
-              letterSpacing: '3.3px',
-              lineHeight: '86%',
-              fontWeight: '800'
-            }}
-          >
-            {title}
-          </motion.h1>
-          <motion.h4
-            initial={{ opacity: 0, y: -30, color: '#000', textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
-            animate={{
-              opacity: 1, y: 0, color: '#fff', textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
-            }}
-            transition={{ delay: 2, duration: 3 }}
-            className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
-            style={{
-              padding: '0.25em',
-            }}
-          >
-            {subheading}
-          </motion.h4>
-        </div>
+          {title}
+        </motion.h1>
+        <motion.h4
+          initial={{ opacity: 0, y: -30, color: '#000', textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
+          animate={{
+            opacity: 1, y: 0, color: '#fff', textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
+          }}
+          transition={{ delay: 2, duration: 3 }}
+          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
+          style={{
+            padding: '0.25em',
+          }}
+        >
+          {subheading}
+        </motion.h4>
       </div>
-      <section className="section section--gradient">
-        <div className="container">
-          <div className="section">
-            <div className="columns">
-              <div className="column is-10 is-offset-1">
+    </div>
+    <section className="section section--gradient">
+      <div className="container">
+        <div className="section">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <div className="content">
                 <div className="content">
-                  <div className="content">
-                    <div className="tile">
-                      <h2 className="title is-size-3">{mainpitch.title}</h2>
-                    </div>
-                    <div className="tile">
-                      <h3 className="subtitle is-size-4">{mainpitch.description}</h3>
-                    </div>
+                  <div className="tile">
+                    <h2 className="title is-size-3">{mainpitch.title}</h2>
                   </div>
-                  <div className="columns">
-                    <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2 is-size-3-mobile">
-                        {heading}
-                      </h3>
-
-                      <div className="column is-12 has-text-centered">
-                        <a
-                          className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                          title="Ava tellimise leht">Ava tellimise leht</a>
-                      </div>
-
-                      <p>{description}</p>
-                    </div>
+                  <div className="tile">
+                    <h3 className="subtitle is-size-4">{mainpitch.description}</h3>
                   </div>
-
-                  <Features gridItems={intro.blurbs} />
-                  <div className="columns">
-                    <div className="column is-12 has-text-centered">
-                      <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                        title="Ava tellimise leht"
-                      >Ava tellimise leht</a>
-                    </div>
-                  </div>
+                </div>
+                <div className="columns">
                   <div className="column is-12">
-                    <h3 className="has-text-weight-semibold is-size-2">
-                      Kaasaegsed, lihtsad ja hästi töötavad lahendused
-                  </h3>
-                    <BlogRoll />
+                    <h3 className="has-text-weight-semibold is-size-2 is-size-3-mobile">
+                      {heading}
+                    </h3>
+
                     <div className="column is-12 has-text-centered">
-                      <a className="is-size-4 btn" href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                        title="Ava tellimise leht">Ava tellimise leht</a>
+                      <Link className="nis-size-4 btn" to="/kontaktid/">
+                        Ava kontaktide leht
+              </Link>
                     </div>
+
+                    <p>{description}</p>
+                  </div>
+                </div>
+
+                <Features gridItems={intro.blurbs} />
+                <div className="columns">
+                  <div className="column is-12 has-text-centered">
+                    <Link className="nis-size-4 btn" to="/kontaktid/">
+                      Ava kontaktide leht
+              </Link>
+                  </div>
+                </div>
+                <div className="column is-12">
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    Kaasaegsed, lihtsad ja hästi töötavad lahendused
+                  </h3>
+                  <BlogRoll />
+                  <div className="column is-12 has-text-centered">
+                    <Link className="nis-size-4 btn" to="/kontaktid/">
+                      Ava kontaktide leht
+              </Link>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </div>
-      </section>
-    </div>
-  )
+      </div>
+    </section>
+  </div>
+)
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
