@@ -13,6 +13,8 @@ tags:
 
 ![Ettevõtte kodulehe tegemine](/img/kodulehe-tegemine-sisu-loomine.jpg "Ettevõtte kodulehe tegemine")
 
+### Kodulehe tegemine hinnaga 15€ tund
+
 ## Kiireid, otsingumootoritele optimeeritud kodulehed
 
 Teeme tehnoloogiliselt uuemaid, React JS põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehti. See tagab sujuva kasutajakogemuse - valminud veebileht töötab nagu töölauaprogramm, katkestusteta eri lehtede vahel.
@@ -25,9 +27,9 @@ Mõned kodulehte iseloomustavad omadused:
 
 ## Kodulehe tegemine - tööprotsess
 
-[Tellimise lehel](https://tellikoduleht.ee/kodulehe-tellimine/) oleva [küsimustiku](https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform) abil selgitame esmalt välja, mida tellija täpselt vajab. Peale tellimuse saamist loome strateegia, mille alusel valmib lehel kasutatav tekst ja pannakse paika lehe ülesehitus.
+Esmalt selgitame välja, mida tellija täpselt vajab. Peale tellimuse saamist loome strateegia, mille alusel valmib lehel kasutatav tekst ja pannakse paika lehe ülesehitus.
 
-Esmalt valmistame lehe prooviversiooni [kodulehe põhjale](https://github.com/netlify-templates/gatsby-starter-netlify-cms), mida saab hallata sisuhaldustarkvaraga [Netlify CMS](https://www.netlifycms.org/). Lihtsustatud ülevaade tegevustest prooviversiooni loomisel:
+Valmistame lehe prooviversiooni, mida vajadusel saab hallata sisuhaldustarkvaraga. Lihtsustatud ülevaade tegevustest veebilehe loomisel:
 
 - prooviversiooni ülesseadmine ja kliendile kättesaadavaks tegemine
 - kodulehe struktuuri loomine
@@ -42,19 +44,16 @@ Esmalt valmistame lehe prooviversiooni [kodulehe põhjale](https://github.com/ne
 
 Prooviversiooni valmides viime lehe üle tellija soovitud domeenile ja pakume tasuta veebimajutust. Tavalahendus kodulehe valmimiseks kuluv aeg on üks kuu, tööaeg 40 tundi.
 
-### Tavalahendus koduleht sisaldab
+### Tavalahendusena valminud koduleht sisaldab
 
-- sisuhaldustarkvara
 - domeeni ja veebimajutust
 - versioonikontrolli
 
-### Tavalahendus koduleht ei sisalda
+### Erilahendusena valminud koduleht sisaldab
 
 - e kaubandus seotud lahendusi
 - mitmekeelseid veebilehti
 - broneerimissüsteeme
-
-Eelpool mainitud lahendusi on võimalik tellida kokkuleppel.
 
 ## Keskendume hea kasutajakogemuse pakkumisele
 
