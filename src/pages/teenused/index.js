@@ -16,16 +16,10 @@ export default class BlogIndexPage extends React.Component {
         </Helmet >
         <div
           className="full-width-image-container margin-top-0 taust"
-        //style={{
-        // backgroundImage: `url('/img/kodulehe-tegemine-taustapilt.jpg')`,
-        //}}
         >
           <motion.h1
-            initial={{ opacity: 0, y: -30, color: '#000', textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
-            animate={{
-              opacity: 1, y: 0, color: '#fff', textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
-            }}
-            transition={{ delay: 0.5, duration: 0.8 }}
+            initial={{ opacity: 0, textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
+            animate={{ opacity: 1, textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368' }}
             className="has-text-weight-bold is-size-1"
             style={{
               // boxShadow:
