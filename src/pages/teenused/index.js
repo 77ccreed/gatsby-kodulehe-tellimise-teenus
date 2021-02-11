@@ -22,10 +22,6 @@ export default class BlogIndexPage extends React.Component {
             animate={{ opacity: 1, textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368' }}
             className="has-text-weight-bold is-size-1"
             style={{
-              // boxShadow:
-              //  'rgb(31, 53, 77, 0.5) 0.5rem 0px 0px, rgb(31, 53, 77, 0.5) -0.5rem 0px 0px',
-              // backgroundColor: 'rgb(31, 53, 77, 0.5)',
-              //backgroundImage: 'linear-gradient(to right, rgb(31, 53, 77, 0.6) , rgb(236, 240, 244,0.2)',
               padding: '1rem',
               letterSpacing: '3.3px',
               lineHeight: '86%',
