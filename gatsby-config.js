@@ -13,7 +13,7 @@ module.exports = {
         short_name: `Kodulehe Tellimine`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#fff`,
+        theme_color: `#ffffff`,
         display: `standalone`,
         icon: `src/img/iconfinder_icon.png`,
       },
