@@ -3,7 +3,7 @@ templateKey: index-page
 title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tellimine-taustapilt.jpg
 heading: >-
-  Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus parimal võimalikul moel inimesteni viia.
+  Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus inimesteni viia.
 subheading: Kui soovid oma toote või teenusega inimesteni jõuda
 mainpitch:
   title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?

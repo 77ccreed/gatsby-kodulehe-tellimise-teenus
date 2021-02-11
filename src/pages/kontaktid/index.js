@@ -44,8 +44,8 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Lisainfot teenuse kohta.</h1>
-              <p>Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus parimal võimalikul moel inimesteni viia.</p>
+              <h1>Kirjuta, kuidas saame aidata.</h1>
+              <p>Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus inimesteni viia.</p>
               <hr />
               <form
                 name="kontakt"
