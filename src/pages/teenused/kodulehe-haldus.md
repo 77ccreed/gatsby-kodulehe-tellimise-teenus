@@ -11,7 +11,7 @@ tags:
   - põhiteenus
 ---
 
-![Ettevõtte kodulehe haldus](/img/kodulehe-haldus.jpg "Kodulehe haldus")
+![Ettevõtte kodulehe haldus](/img/kodulehe-haldus.jpg "Ettevõtte kodulehe haldus")
 
 ### Veebihalduri teenus hinnaga 15 € tund
 
