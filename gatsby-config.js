@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Kodulehe tellimine - täislahendus firma veebilehe loomiseks',
     description:
-      'Kodulehe tegemine, sisu loomine ja haldus hinnaga 15€ tund. Tellimiseks saada kiri meie lehel. Valmistame tänapäevase veebilehe Sinu ettevõttele.',
+      'Tänapäevane veebiarendus soodsalt Sinu ettevõttele. Kodulehe tegemine, sisu loomine ja haldus hinnaga 15 € tund.  Firma veebilehe tellimiseks saada kiri.',
     siteUrl: 'https://tellikoduleht.ee'
   },
   plugins: [
