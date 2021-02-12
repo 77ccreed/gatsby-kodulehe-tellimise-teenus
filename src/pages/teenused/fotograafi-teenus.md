@@ -17,7 +17,7 @@ tags:
 
 Lisateenus ettevõtte kodulehele piltide ja videode tegemiseks ja töötlemiseks. Portree- ja maastikuvaates pildistamine sobib inimeste, asjade ja erinevate vaadete jäädvustamiseks. Konsultatsioon, kuidas kodulehele pilte lisada.
 
-![Tee metsas](/img/dsc_1297.jpg "Fotograafi teenus hinnaga 15€ tunnis")
+![Tee metsas](/img/dsc_1297.jpg "Tee metsas")
 
 ![Maastikufoto](/img/dsc_0801.nef.jpg "Maastikufote")
 
