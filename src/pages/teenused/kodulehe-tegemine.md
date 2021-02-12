@@ -13,7 +13,7 @@ tags:
 
 ![Ettevõtte kodulehe tegemine](/img/kodulehe-tegemine-sisu-loomine.jpg "Ettevõtte kodulehe tegemine")
 
-### Kodulehe tegemine hinnaga 15€ tund
+### Kodulehe tegemine hinnaga 15 € tund
 
 ## Kiireid, otsingumootoritele optimeeritud kodulehed
 

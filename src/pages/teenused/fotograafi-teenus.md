@@ -13,7 +13,7 @@ tags:
 
 ![Fotograafi teenus](/img/kodulehe-piltide-ja-videode-tegemine.jpg "Fotograafi teenus")
 
-### Fotograafi teenus hinnaga 15€ tund
+### Fotograafi teenus hinnaga 15 € tund
 
 Lisateenus ettevõtte kodulehele piltide ja videode tegemiseks ja töötlemiseks. Portree- ja maastikuvaates pildistamine sobib inimeste, asjade ja erinevate vaadete jäädvustamiseks. Konsultatsioon, kuidas kodulehele pilte lisada.
 

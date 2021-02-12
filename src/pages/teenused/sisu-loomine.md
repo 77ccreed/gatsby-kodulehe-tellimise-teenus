@@ -13,7 +13,7 @@ tags:
 
 ![Kodulehe teksti kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe teksti kirjutamine")
 
-### Kodulehe sisu kirjutamine hinnaga 15€ tund
+### Kodulehe sisu kirjutamine hinnaga 15 € tund
 
 ## Miks tasub rõhku panna hea sisu loomisele
 
