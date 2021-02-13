@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Kodulehe sisu loomine - teksti kirjutamine, mis müüb
+title: Tellijale teksti kirjutamine - ettevõtte kodulehe sisuloome
 date: 2020-04-07T04:42:12.611Z
 description: >-
-  Loome strateegia ja sellest lähtudes kirjutame teksti, mis sobib kasutamiseks ettevõtte kõigis turunduskanalites. Pikaaegne sisutekstide kirjutamise kogemus.
+  Loome strateegia, mis aitab kaasa hea sisu loomisele. Sellest lähtudes kirjutame teksti, mis sobib kasutamiseks ettevõtte kõigis turunduskanalites.
 featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
