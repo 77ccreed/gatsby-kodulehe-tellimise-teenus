@@ -4,12 +4,12 @@ title: Ettevõtte kodulehe tellimine
 image: /img/kodulehe-tellimine-taustapilt.jpg
 heading: >-
   Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus inimesteni viia.
-subheading: Kui soovid oma toote või teenusega inimesteni jõuda
+subheading: Kui soovid toodet või teenust internetis turustada
 mainpitch:
   title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?
   description: "Kodulehe tegemine, sisu loomine ja haldus hinnaga 15 € tund."
 description: >-
-  Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia hea eesti keelse tekstiga. Valmistame tellija vajadustest lähtuva veebilehe ja kirjutame äri tutvustava teksti. Nii aitame tellija ettevõttel oma toodet või teenust internetis turustada.
+  Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia hea eesti keelse tekstiga. Valmistame tellija vajadustest lähtuva veebilehe ja kirjutame äri tutvustava teksti. Nii aitame toodet või teenust internetis turustada.
 intro:
   blurbs:
     - image: /img/tellijaga-kohtumine-v.jpg
