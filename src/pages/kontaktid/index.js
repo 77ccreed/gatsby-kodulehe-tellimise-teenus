@@ -82,21 +82,7 @@ export default class Index extends React.Component {
                     </div>
                   </div>
 
-                  <div className="field column">
-                    <label className="label" htmlFor={'telefon'}>
-                      Telefoninumber
-                  </label>
-                    <div className="control">
-                      <input
-                        className="input"
-                        type={'tel'}
-                        name={'telefon'}
-                        onChange={this.handleChange}
-                        id={'telefon'}
-                        required={true}
-                      />
-                    </div>
-                  </div>
+
 
                   <div className="field column">
                     <label className="label" htmlFor={'email'}>
@@ -113,8 +99,27 @@ export default class Index extends React.Component {
                       />
                     </div>
                   </div>
+                  <div className="field column">
+                    <label className="label" htmlFor={'ettevotte'}>
+                      Ettevõtte nimi
+                  </label>
+                    <div className="control">
+                      <input
+                        className="input"
+                        type={'text'}
+                        name={'ettevotte'}
+                        onChange={this.handleChange}
+                        id={'ettevotte'}
+                      />
+                    </div>
+                  </div>
+
+
+
 
                 </div>
+
+
 
 
                 <div className="field">
