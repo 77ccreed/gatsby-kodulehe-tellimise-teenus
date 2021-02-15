@@ -40,7 +40,7 @@ export const ProductPageTemplate = ({
           letterSpacing: '3.3px',
           lineHeight: '86%',
           fontWeight: '800',
-          color: '#fff',
+          color: '#fcd19c',
         }}
       >
         {title}
