@@ -45,7 +45,7 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Kirjuta, kuidas saame aidata.</h1>
-              <p>Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus inimesteni viia.</p>
+              <p>Selgitame välja, kuidas Sinu toode või teenus inimesteni viia.</p>
               <hr />
               <form
                 name="kontakt"
