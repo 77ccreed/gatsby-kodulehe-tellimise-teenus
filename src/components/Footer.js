@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import facebook from '../img/social/facebook.svg'
+import map from "../img/social/map-marker-alt-solid.svg"
 
 const Footer = class extends React.Component {
   render() {
@@ -82,17 +83,17 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
+                <a title="facebook" href="https://www.google.ee/maps/place/O%C3%9C+Kodulehe+Tellimine/@57.7777957,26.0583111,16z/data=!4m5!3m4!1s0x46eba314827a2273:0x9353985c48f4520b!8m2!3d57.7777587!4d26.0598346">
+                  <img
+                    src={map}
+                    alt="Google Maps"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>
               </div>
             </div>
           </div>
         </div>
-
-
-        {/* <div className="content has-text-centered">
-
-          <p className="has-text-grey">OÜ Kodulehe Tellimine | +(372) 5688 4456 | Valga, Petseri 8-53,	68204</p>
-        </div>
-        */}
       </footer>
     )
   }
