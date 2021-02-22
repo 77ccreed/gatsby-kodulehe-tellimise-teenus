@@ -2,44 +2,32 @@
 templateKey: product-page
 title: Ettevõtte turundus internetis
 image: /img/kodulehe-tegemine-taustapilt.jpg
-heading: Turundus läbi kodulehe - see on parim reklaam firmale
+heading: Millest alustada, kui on vaja internetis ettevõtet turundada
 description: >-
-  Internet on turunduseks parim koht. Selle kaudu jõuab kliendini, kes otsib
-  endale vajalikku toodet või teenust. Aitame edestada konkurenti interneti
-  otsingumootori orgaanilise otsingus. See tähendab, et tellija ei pea
-  reklaamile ja teistele turundusega seotud tegevustele tingimata aega ja raha
-  enam kulutama. Kuid kui selleks on soov ja vajadus, siis on vajalik
-  turundustekst olemas.
+  Internet on alustava ettevõtte turunduseks parim koht. Selle kaudu jõuab kliendini, kes otsib endale vajalikku toodet või teenust. Kuid kuidas seda teha? Kas firmat luues piisab reklaamiks ainult Facebook-i lehekülje tegemisest. Või peaks ettevõtet internetis turundama ka kodulehe kaudu? Kodulehe vajalikkus sõltub ettevõtte profiilist, asukohast ja sihtturust. Lihtsaim viis kodulehe vajalikkuse kindlaks tegemiseks on internetiotsingus kasutatavate märksõnade kaudu. Kui suur on inimeste hulk, kes otsib ettevõtte toote või teenusega seotud märksõnu. Nii on eeldatav kodulehe külastajate arv võimalik välja selgitada juba enne kodulehe tegemist. Lisaks tasub tähelepanu pöörata konkurentidele.
 intro:
   blurbs:
-    - image: /img/toote-teenuse-otsing-internetist.jpg
-      text: >-
-        Oled raskustes oma toote või teenuse turustamisel? Võimalikud kliendid
-        ei leia Sind konkurentide seast?
-    - image: /img/turundus-viib-sihile.jpg
-      text: >-
-        Aitame ettevõttel inimesteni jõuda. Meil on oskus ja tahe luua lahendus,
-        mis kasvatab müüki.
-    - image: /img/kodulehe-redigeerimine-v.jpg
-      text: >-
-        Valmistame kaasaegse, ettevõtte vajadustest lähtuva veebilehe. Loome
-        firma turunduseks vajaliku teksti.
     - image: /img/firma-edu.jpg
       text: >-
-        Täida küsimustik tellimise lehel. Muidu jätavad konkurendid Sind varju
-        ja lähed väetiseks.
+        Alustava ettevõtte turundus on raske. Kuid samas saab õppida konkurentidelt. Kuidas nad oma tooteid ja teenuseid internetis turundavad. Millisel tehnilisel tasemel on nende kodulehed. Kas veebilehe sisu on hästi kirjutatud.
+    - image: /img/turundus-viib-sihile.jpg
+      text: >-
+        Inimese tähelepanu on piiratud. Internetiotsingus endale sobivat toodet või teenust otsides külastab ta vaid paari esimest lehte. Seetõttu on tähtis omada konkurentidest paremal tehnilisel tasemel veebilehte.
+    - image: /img/toote-teenuse-otsing-internetist.jpg
+      text: >-
+        Kasutades otsingumootori turundust jõuab inimeseni, kes ise otsib ettevõtte poolt pakutavat toodet või teenust. Nii on lihtne uute klientideni jõuda. Sotsiaalmeedia turundus on sobilik juba olemasolevate klientidega sideme hoidmiseks.
+    - image: /img/kodulehe-redigeerimine-v.jpg
+      text: >-
+        Koduleht võiks inimesteni jõuda ilma, et ettevõtja reklaamile pidevalt raha kulutab. Veebileht peab interneti orgaanilises otsingus leitav olema. Tasulise reklaami tegemine võiks olla lisavõimalus ettevõtte turundamisel, mitte peamine strateegia.
   heading: Kvaliteetne turundus läbi ettevõtte kodulehe
   description: >-
     Koduleht on ettevõtte jaoks parim turunduskanal, sest jõuab inimeseni, kes
     ise otsib internetist endale  ja lähed väetiseksvajalikku toodet või
     teenust. Vali kvaliteetne turundus.
 main:
-  heading: Internetiturundus sobib igas suuruses ettevõttele
+  heading: Internetiturundus sobib igas suuruses ettevõttele reklaami tegemiseks
   description: >-
-    Läbimõeldud tekst ja tehnoloogiliselt uuem, meeldiva kasutajakogemusega
-    koduleht annab eelise. Olgu ettevõte väike või suur, ettevõtte turundus
-    internetis on lahendus, millele tasub panustada. Hästi tehtud
-    internetiturundus on parim viis kliendini jõudmiseks - see toob kasumi.
+    Läbimõeldud tekst ja tehnoloogiliselt uuem, meeldiva kasutajakogemusega koduleht annab eelise ka alustavale ettevõttele. Olgu firma väike või suur, ettevõtte turundus internetis on lahendus, millele tasub mõelda. Hästi tehtud internetiturundus on parim viis kliendini jõudmiseks. Selle abil on alustaval ettevõttel võimalik edukalt konkureerida ka juba pikalt turul olnud firmadega.
   image1:
     alt: Ettevõtte turundus internetis viib sihile
     image: /img/turundus-viib-sihile.jpg
@@ -56,48 +44,44 @@ testimonials:
       lihtsaid ja hästi töötavaid lahendus.
 full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
-  heading: 'Vaata, kui palju makstakse kasutaja toomise eest kodulehele'
+  heading: "Vaata, kui palju makstakse kasutaja toomise eest kodulehele"
   description: >-
-    Reklaami hinna suurusjärk, mida ettevõtjad maksavad ühe kasutaja toomise
-    eest kodulehele konkreetse märksõna kohta. Toodud hinnad on näitlikud,
-    illustreerimaks suurusjärku ja võivad ajas muutuda. Näide ei pretendeeri
-    lõplikule tõele.
+    Reklaami hinna suurusjärk, mida makstakse ühe kasutaja toomise eest kodulehele konkreetse märksõna kohta. Toodud hinnad on näitlikud, illustreerimaks suurusjärku. Näide ei pretendeeri lõplikule tõele.
   plans:
-    - description: 'Otsingusõnad või fraasid:'
+    - description: "Otsingusõnad või fraasid:"
       items:
         - kinnisvara uudised
-        - korterite müük tallinnas
-        - kõrge vererõhu tunnused
+        - firma loomine
+        - alustava ettevõtte turundus
         - kodulaen tagatisega
-        - elupuuheki pügamine
+        - ettevõtte koduleht
         - vana diivani äravedu
-        - erakorraline hambaravi tallinn
+        - reklaami tegemine
         - kuidas saada kaalust alla
-      plan: 'Kuni üks euro '
-      price: '1'
-    - description: 'Otsingusõnad või fraasid:'
+      plan: "Kuni üks euro "
+      price: "1"
+    - description: "Otsingusõnad või fraasid:"
       items:
         - alustav ettevõte
-        - põranda plaatimine
-        - mesilaspere toetus
+        - kodulehe haldus
+        - ettevõtte
         - müüa maa
-        - äripinnad tallinnas
+        - interneti turundus
         - kustutatud failide taastamine
-        - puidu hind
-        - söögikohad tartus
+        - reklaam internetis
+        - kodulehe tegemine
       plan: Üks kuni kolm eurot
       price: 1-3
-    - description: 'Otsingusõnad või fraasid:'
+    - description: "Otsingusõnad või fraasid:"
       items:
         - auto ei käivitu
         - kuidas leida naist
         - tuulesuunajate paigaldus
         - forex trading eesti
-        - kinnisvaramaakler
+        - google reklaam
         - advokaat tartus
         - laenu käendamine
         - investeerimine kulda
       plan: Üle kolme euro
       price: 3+
 ---
-
