@@ -29,10 +29,10 @@ main:
   description: >-
     Läbimõeldud tekst ja tehnoloogiliselt uuem, meeldiva kasutajakogemusega koduleht annab eelise ka alustavale ettevõttele. Olgu firma väike või suur, ettevõtte turundus internetis on lahendus, millele tasub mõelda. Hästi tehtud internetiturundus on parim viis kliendini jõudmiseks. Selle abil on alustaval ettevõttel võimalik edukalt konkureerida ka juba pikalt turul olnud firmadega.
   image1:
-    alt: Ettevõtte turundus internetis viib sihile
+    alt: Alustava ettevõtte turundus internetis
     image: /img/turundus-viib-sihile.jpg
   image2:
-    alt: Turundus
+    alt: Ettevõtte turundus internetis
     image: /img/turundus.jpg
   image3:
     alt: Firma turundus internetis
@@ -40,8 +40,8 @@ main:
 testimonials:
   - author: OÜ Kodulehe Tellimine
     quote: >-
-      Meie missiooniks on pakkuda kaasaegseid kodulehe tegemisega seotud
-      lihtsaid ja hästi töötavaid lahendus.
+      Pakume kaasaegseid kodulehe tegemisega seotud
+      lihtsaid ja hästi töötavaid lahendusi, mis sobivad ka alustava ettevõtte turunduseks.
 full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
   heading: "Vaata, kui palju makstakse kasutaja toomise eest kodulehele"
