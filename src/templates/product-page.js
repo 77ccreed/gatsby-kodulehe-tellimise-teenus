@@ -61,7 +61,7 @@ export const ProductPageTemplate = ({
 
               <div className="column is-12 has-text-centered">
                 <Link className="nis-size-4 btn" to="/kontaktid/">
-                  Ava kontaktide leht
+                  Saada meile kiri
               </Link>
               </div>
 
