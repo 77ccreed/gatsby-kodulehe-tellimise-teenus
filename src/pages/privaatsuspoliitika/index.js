@@ -15,7 +15,7 @@ const Privaatsuspoliitika = () => {
             <div className="column is-10 is-offset-1">
               <div className="section">
                 <h1 className="title is-size-3 has-text-weight-bold is-bold-light"> OÜ Kodulehe Tellimine - privaatsuspoliitika</h1>
-                <p className="content">Tellimuse saatmisel kinnitab tellija, et on tutvunud veebilehe tellikoduleht.ee privaatsuse ja andmekaitse tingimustega ning aktsepteerib neid.
+                <p className="content">Kirja saatmisel kinnitab tellija, et on tutvunud veebilehe tellikoduleht.ee privaatsuse ja andmekaitse tingimustega ning aktsepteerib neid.
 Isikuandmete töötlemine toimub kliendiga sõlmitud lepingu täitmise eesmärgil. Isikuandmete töötlemine toimub juriidilise kohustuse täitmiseks. OÜ Kodulehe Tellimine töötleb tellija isikuandmeid kooskõlas isikuandmete kaitse seaduses kehtestatud nõuetega.</p>
                 <p className="content">Isikuandmete vastutav töötleja on OÜ Kodulehe Tellimine.</p>
                 <p className="content">Andmeid kasutatakse hinnapakkumise tegemiseks, kontakti võtmiseks ja tellimuse täitmiseks. Andmete hoiustamisel lähtume ka raamatupidamise seaduse nõuetest.</p>
