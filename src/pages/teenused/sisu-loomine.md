@@ -74,11 +74,11 @@ Sisutekst peaks olema:
 
 ### Veebilehe struktuur
 
-Lehe koostamisel arvestame, et iga sisuleht ja postitus räägiks ühel kindlal teemal, ühest tootest või teenusest. Nii on lugejal lihtsam orienteeruda. Leida, mida ta kodulehelt otsib. Selline ülesehitus parandab kasutajakogemust ja aitab sisu luues keskenduda ühele kindlale teemale.
+Lehe koostamisel arvestame, et iga sisuleht ja postitus räägiks ühel kindlal teemal, ühest tootest või teenusest. Nii on lugejal lihtsam orienteeruda. Leida, mida ta kodulehelt otsib. Selline ülesehitus parandab kasutajakogemust ja teeb lugemise kergeks.
 
-### Sisulehtede loomine
+### Avalehe loomine
 
-Pealeht, meist ja tooteid või teenuseid kirjeldav leht. Need lehed annavad ülevaate ettevõttest ja selle tegevusest. Mis eeliseid klient saab valides koostöö. Milline on firma ajalugu, tulevased plaanid ja inimesed ettevõtte taga. Ülevaade toodetest ja teenustest. Kontaktide lehte võib kasutada nii lihtsama kui keerukama kontaktvormi koostamiseks. Võib ehitada kasvõi broneerimissüsteemi.
+Pealeht, meist ja tooteid või teenuseid kirjeldav leht. Need lehed annavad ülevaate ettevõttest ja selle tegevusest. Mis eeliseid klient saab valides koostöö. Milline on firma ajalugu, tulevased plaanid ja inimesed ettevõtte taga. Ülevaade toodetest ja teenustest. Kontaktide lehte saab kasutada nii lihtsama kui keerukama kontaktvormi koostamiseks. Võib ehitada kasvõi broneerimissüsteemi.
 
 ### Toodete ja teenuste lehed
 
