@@ -11,7 +11,7 @@ tags:
   - põhiteenus
 ---
 
-![Kodulehe teksti kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe teksti kirjutamine")
+![Kodulehe sisu kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe sisu kirjutamine")
 
 ### Kodulehe sisu kirjutamine hinnaga 15 € tund
 
