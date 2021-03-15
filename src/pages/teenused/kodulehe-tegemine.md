@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Veebiarendus ja tänapäevase kodulehe tegemine
+title: Rakendus tüüpi kodulehe tegemine. Parim hind Eestis
 date: 2020-04-08T04:57:25.469Z
 description: >-
-  Valmistame React JS põhise üheleherakendus tüüpi veebilehe. Hea kasutajakogemuse ja selge eesmärgiga kodulehe tegemine teeb lehe kasutamise lihtsaks.
+  Milliseid eeliseid ettevõttele annab hea kasutajakogemusega kodulehe tegemine. Kuidas saavutada kvaliteetne veebiarendus väikese kuluga.
 featuredpost: false
 featuredimage: /img/blur-close-up-code-computer-546819.jpg
 tags:
@@ -15,25 +15,55 @@ tags:
 
 ### Kodulehe tegemine hinnaga 15 € tund
 
-## Kiireid, otsingumootoritele optimeeritud kodulehed
+Rakendus tüüpi kodulehe omamisest tulenevad eelised ettevõttele:
 
-Teeme tehnoloogiliselt uuemaid, React JS põhiseid [üheleherakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehti. See tagab sujuva kasutajakogemuse - valminud veebileht töötab nagu töölauaprogramm, katkestusteta eri lehtede vahel.
-Mõned kodulehte iseloomustavad omadused:
+- konkurentsieelis interneti otsingumootoris
+- madalad arendus- ja püsikulud
+- veebiarendusega seonduvat on lihtne hallata.
+
+Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini? Telli kodulehe tegemine, et lahendab sedalaadi probleemid. Meie pakkumine:
+
+- eristuv, ettevõtte vajadustest lähtuva kodulehe tegemine
+- tasuta veebimajutus
+- soodsad maksetingimused ja parim hind Eestis.
+
+Sinu kliendini jõuab koduleht, mis on kaasaegne ja kiire. Hea kasutajakogemus on tagatud nii mobiilis kui suuremal ekraanil. Aitame tellijal konkurente edestada ja kliendini jõuda.
+
+## Miks valida rakendus tüüpi koduleht
+
+Tehnoloogiliselt uuema, [rakendus](https://et.wikipedia.org/wiki/%C3%9Cheleherakendus) tüüpi kodulehe tegemine tagab sujuva kasutajakogemuse - valminud veebileht töötab nagu töölauaprogramm, katkestusteta eri lehtede vahel. Mõned rakendus tüüpi veebilehte iseloomustavad omadused:
 
 - sujuv kasutuskogemus erinevate lehtede vahel
 - veebileht on kasutatav internetilevita
 - veebilehe saab salvestada avakuvale, nagu rakenduse
-- veebileht on kiire ka suuri pilte kasutades
+- veebileht on kiire ka suuri pilte kasutades.
+
+Nii saab veebilehe külastajale pakkuda meeldiva kasutajakogemuse kui ta tutvub ettevõtte toote või teenusega. Suureneb ettevõtte kodulehel veedetud aeg ja külastaja rahulolu.
+
+Veebiarenduse parima praktika kasutamine teeb lihtsaks veebilehele vajaliku funktsionaalsuse lisamise, uuendamise ja ajakohasena hoidmise. Versioonikontrolli kasutamine tagab lehe turvalisuse. Vajadusel on lihtne uue arendaja kaasamine, disaini muutmine vms.
+
+### Kodulehe leitavus internetiotsingus
+
+Eestis tehakse rakendus tüüpi kodulehti endiselt vähe. Uuema tehnoloogia kasutamine annab internetiotsingus eelise, sest seda tüüpi veebilehed on kiired ja kasutajasõbralikud.
+
+Kui kodulehe leitavus on ettevõtte jaoks tähtis siis tasub rakendus tüüpi kodulehe tegemist kaaluda.
+
+### Soodne veebiarendus
+
+Pakume rakendus tüüpi kodulehe tegemist Eesti parima hinnaga. Madalad arendus- ja püsikulud teevad teenuse kättesaadavaks ka alustavale ja väikese käibega ettevõtte jaoks. Kvaliteetne veebiarendus ei pea kallis olema.
 
 ## Kodulehe tegemine - tööprotsess
 
-Esmalt selgitame välja, mida tellija täpselt vajab. Peale tellimuse saamist loome strateegia, mille alusel valmib lehel kasutatav tekst ja pannakse paika lehe ülesehitus.
+Esmalt selgitame välja, millist kodulehe tellija täpselt vajab. Loome strateegia, mille alusel pannakse paika veebilehe ülesehitus. Vastuse saavad järgmised küsimused:
 
-Valmistame lehe prooviversiooni, mida vajadusel saab hallata sisuhaldustarkvaraga. Lihtsustatud ülevaade tegevustest veebilehe loomisel:
+- kes on kodulehe sihtrühm ja mida veebileht neile pakub
+- mis on kodulehe eesmärk tellija jaoks
+- kodulehe struktuur ja funktsionaalsus.
+
+Valmistame lehe prooviversiooni, millele saab lisada sisuhaldustarkvara. Lihtsustatud ülevaade tegevustest veebilehe loomisel:
 
 - prooviversiooni ülesseadmine ja kliendile kättesaadavaks tegemine
-- kodulehe struktuuri loomine
-- sisulehtede loomine
+- pealehe, meist lehe jms. loomine
 - privaatsuspoliitika ja teenuse tingimuste lehe loomine
 - blogi tüüpi lehtede loomine
 - kontaktvormi loomine
@@ -42,22 +72,24 @@ Valmistame lehe prooviversiooni, mida vajadusel saab hallata sisuhaldustarkvarag
 - isikupärase disaini lisamine
 - lehe redigeerimine, optimeerimine ja vajalike lisade lisamine
 
-Prooviversiooni valmides viime lehe üle tellija soovitud domeenile ja pakume tasuta veebimajutust. Tavalahendus kodulehe valmimiseks kuluv aeg on üks kuu, tööaeg 40 tundi.
+Prooviversiooni valmides viime lehe üle tellija soovitud domeenile ja pakume tasuta veebimajutust. Tavalahendus kodulehe valmimiseks kuluv aeg on kaks nädalat, tööaeg kuni 40 tundi.
 
 ### Tavalahendusena valminud koduleht sisaldab
 
 - domeeni ja veebimajutust
 - versioonikontrolli
+- garantii ja hooldustöid
 
-### Erilahendusena valminud koduleht sisaldab
+### Erilahendusena valminud koduleht võib sisaldada
 
+- sisuhaldustarkvara
 - e kaubandus seotud lahendusi
 - mitmekeelseid veebilehti
 - broneerimissüsteeme
 
-## Keskendume hea kasutajakogemuse pakkumisele
+### Hea kasutajakogemus kodulehe külastajale
 
-Loodud lehed on kiired. Lähtume programmeerimise parimast praktikast.
+Loodud veebilehed on kiired. Lähtume programmeerimise parimast praktikast.
 
 ![Tellikoduleht.ee mõõtmistulemused](/img/tellikoduleht.ee-mõõtmistulemused.png "Tellikoduleht.ee mõõtmistulemused")
 
