@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Ettevõtte kodulehe tellimine
+title: Ettevõttele kodulehe tellimine
 image: /img/kodulehe-tellimine-taustapilt.jpg
 heading: >-
   Saada meile kiri ja selgitame välja, kuidas Sinu toode või teenus inimesteni viia.
