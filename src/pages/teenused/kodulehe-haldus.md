@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Veebihalduri teenus - ettevõtte kodulehe haldus ja hooldus
 date: 2020-02-20T05:16:16.845Z
 description: >-
-  Veebihalduri teenus sinu firma kodulehe haldamiseks. Veebilehe analüüs, hooldus ja optimeerimine aitab ettevõtte eesmärgid saavutada turu parima hinnaga.
+  Läbimõeldud kodulehe haldus suurendab ettevõtte müüki. Veebiehe analüüs, arendamine, optimeerimine - tutvu kuidas lehte hallata või telli veebihalduri teenus.
 featuredpost: false
 featuredimage: /img/lisatööd-valminud-kodulehel.jpg
 tags:
@@ -69,24 +69,30 @@ Siin on kõik lihtne - kui soovid konkurendist edukam olla ja oma toote või tee
 
 ## Veebiarendus
 
-Kodulehe halduse saab lihtsamaks teha kui kasutada veebiarenduse parimat praktikat. Tasub kasutada versioonikontrolli. Piltide optimeerimise ja kodulehe uuendamise saab automatiseerida. See välistab inimlikud eksitused ja hoiab kodulehe alati turvalise ja ajakohasena.
+Kodulehe halduse saab lihtsamaks teha kui kasutada veebiarenduse parimat praktikat. Tasub mõelda, kas ja kuidas on võimalik kasutada:
 
-## Kodulehe hooldus ja optimeerimine
+- versioonikontrolli
+- automatiseerida piltide optimeerimine
+- automatiseerida kodulehe uuendamine.
 
-Teeme kodulehe halduse tellija jaoks lihtsaks. Tellija ei pea veebilehe arendamisega vaeva nägema ja võib selle täielikult halduri hooleks jätta. Veebihalduri töö võib sisaldab järgnevaid tegevusi:
+Selliste lahenduste kasutuselevõtmine välistab inimlikud eksitused ja hoiab veebilehe turvalise ja ajakohasena. Nii on kodulehe hooldus ja optimeerimine lihtsamalt teostatav.
 
+
+## Miks tellida kodulehe haldus meilt
+
+Kodulehte võib ise hallata. Aga alati ei ole see ettevõtja jaoks optimaalne lahendus. Teeme kodulehe halduse tellija jaoks lihtsaks. Tellija ei pea veebilehe arendamisega vaeva nägema ja võib selle täielikult halduri hooleks jätta. Veebihalduri töö võib sisaldab järgnevaid tegevusi:
+- ettevõtte analüüs
+- konkurentide analüüs
 - konsultatsioon
 - lehe külastatavuse analüüs
 - otsingusõnade analüüs ja optimeerimine
-- ettevõtte analüüs
-- konkurentide analüüs
-- veebilehe ja selle teksti analüüs, optimeerimine ning redigeerimine
-- sisu loomine
+- veebilehe ja selle sisu analüüs, optimeerimine ning redigeerimine
+- uue sisu loomine
 - piltide tegemine, redigeerimine ja optimeerimine
 - funktsionaalsuse lisamine
 - kontaktvormi lisamine või muutmine
-- disaini ja kujunduse isikupärastamine
+- disaini ja kujunduse isikupärastamine.
 
-#### Veebihalduri teenuse eesmärk on tuua tellijale kliendid
+Maailm meie ümber muutub kiiresti. Kas Sinu ettevõte suudab kohaneda? Konkurendi edestamiseks peaks kodulehe haldus olema järjepidev ja käima väikeste sammudena. Tänapäevase kodulehe tegemine ja sellega seotud lahendused ei pea kallid olema. Pakume kodulehe halduri teenust, mis sobib ka väikesele või alustavale ettevõttele. Ettevõttel võib olla suurepärane toode või teenus, kuid kas see jõuab kliendini?
 
-Parim tulemus sünnib koostöös - kui tellija pakub infot oma ettevõtte, toodete ja teenuste kohta, saame selle parimal võimalikul moel külastajani viia.
+[Saada meile kiri](https://tellikoduleht.ee/kontaktid/) ja selgitame välja, kuidas sinu toode või teenus inimesteni viia.
