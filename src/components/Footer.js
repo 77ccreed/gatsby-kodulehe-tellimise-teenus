@@ -17,7 +17,7 @@ const Footer = class extends React.Component {
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
-            <div className="columns">
+            <div className="columns" style={{ maxWidth: '100vw' }}>
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
@@ -94,7 +94,7 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-      </footer>
+      </footer >
     )
   }
 }
