@@ -47,7 +47,7 @@ const Navbar = class extends React.Component {
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 style={{
-                  color: '#154E79',
+                  color: '#275448',
                   fontSize: '1.2rem',
                   fontWeight: '600'
                 }}>Telli kodulehe tegemine</motion.p>
