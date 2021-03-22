@@ -7,9 +7,9 @@ heading: >-
 subheading: Kodulehe tegemine, sisu loomine ja haldus
 mainpitch:
   title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?
-  description: "Aitame, kui soovid ettevõtet internetis turundada. Kõik teenused on hinnaga 15 € tund"
+  description: "Aitame kodulehe tegemisega seotud küsimustes. Kõik teenused on hinnaga 15 € tund"
 description: >-
-  Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia hea eesti keelse tekstiga. Valmistame tellija vajadustest lähtuva veebilehe ja kirjutame äri tutvustava teksti. Nii aitame toodet või teenust internetis turustada.
+  Kõige raskem kodulehe tegemisel on isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Teeme tellija jaoks selle lihtsaks. Ühendame parima tänasel päeval kodulehtede loomiseks mõeldud tehnoloogia hea eesti keelse tekstiga. Valmistame tellija vajadustest lähtuva veebilehe ja kirjutame äri tutvustava teksti.
 intro:
   blurbs:
     - image: /img/tellijaga-kohtumine-v.jpg
