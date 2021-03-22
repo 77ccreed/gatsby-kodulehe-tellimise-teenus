@@ -3,7 +3,7 @@ templateKey: index-page
 title: Kodulehe Tellimine
 image: /img/kodulehe-tellimine-taustapilt.jpg
 heading: >-
-  Kirjuta oma kodulehest. Selgitame välja, kas on vaja midagi parandada. Kuidas Sinu toode või teenus inimesteni viia
+  Kirjuta oma kodulehest või täida küsimustik. Selgitame välja, kuidas Sinu toode või teenus inimesteni viia
 subheading: Kodulehe tegemine, sisu loomine ja haldus
 mainpitch:
   title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?
