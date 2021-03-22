@@ -14,14 +14,15 @@ const FeatureGrid = ({ gridItems }) => (
           borderRadius: ".375rem",
           boxShadow: "rgba(17,22,26,.16) 0 0 4px 0,rgba(17,22,26,.08) 0 2px 4px 0,rgba(17,22,26,.08) 0 4px 8px 0",
           boxSizing: "border-box",
-          color: " #525c65",
+          color: "#525c65",
           cursor: "default",
           display: "inline-block",
           lineHeight: "24px",
           margin: "0 10px 15px 0",
           perspective: "1000px",
-          position: " relative",
-          textAlign: " center",
+          position: "relative",
+          textAlign: "center",
+          clipPath: "polygon(1% 1%, 97% 3%, 100% 100%, 0% 100%)"
         }}>
           <div className="has-text-centered">
             <motion.div
