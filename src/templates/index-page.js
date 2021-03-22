@@ -82,7 +82,7 @@ export const IndexPageTemplate = ({
 
                     <div className="column is-12 has-text-centered">
                       <Link className="nis-size-4 btn" to="/kontaktid/">
-                        Saada meile kiri
+                        Kirjuta oma kodulehest
               </Link>
                     </div>
 
@@ -105,7 +105,7 @@ export const IndexPageTemplate = ({
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
                     <Link className="nis-size-4 btn" to="/kontaktid/">
-                      Saada meile kiri
+                      Kirjuta oma kodulehest
               </Link>
                   </div>
                 </div>
