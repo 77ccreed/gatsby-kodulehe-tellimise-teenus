@@ -45,7 +45,7 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Kirjuta, kuidas saame aidata.</h1>
-              <p>Saada kiri või <a href="https://docs.google.com/forms/d/19NBnQIatfFF7wnhEhpYx81M0m40WFb8Jyxm37OZIcOw/" target="_blank" rel="noopener noreferrer"
+              <p>Saada kiri või <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
                 title="Kodulehe tellimise küsimustik">täida küsimustik siin.</a></p>
               <hr />
               <form
