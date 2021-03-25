@@ -52,7 +52,9 @@ export const ProductPageTemplate = ({
           <div className="columns">
             <div className="column is-7 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-              <p>{description}</p>
+              <p className="card-disain2" style={{
+                clipPath: "polygon(0 0, 100% 0, 98% 99%, 0% 100%)",
+              }}>{description}</p>
             </div>
           </div>
           <div className="columns">

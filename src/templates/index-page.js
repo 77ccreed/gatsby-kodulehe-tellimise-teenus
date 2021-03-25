@@ -85,8 +85,9 @@ export const IndexPageTemplate = ({
                         Kirjuta oma kodulehest
               </Link>
                     </div>
-
-                    <p>{description}</p>
+                    <p className="card-disain2" style={{
+                      clipPath: "polygon(0 0, 100% 0, 98% 98%, 0% 100%)",
+                    }}>{description}</p>
                   </div>
                 </div>
 
