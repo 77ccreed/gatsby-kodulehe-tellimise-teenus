@@ -40,7 +40,7 @@ export const ProductPageTemplate = ({
           letterSpacing: '3.3px',
           lineHeight: '86%',
           fontWeight: '800',
-          color: '#fcd19c',
+          color: '#def7ed'
         }}
       >
         {title}
@@ -72,7 +72,9 @@ export const ProductPageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
-                  <p>{main.description}</p>
+                  <p className="card-disain2" style={{
+                    clipPath: "polygon(0 0, 100% 0, 98% 99%, 0% 100%)",
+                  }}>{main.description}</p>
                 </div>
               </div>
               <div className="tile is-ancestor">

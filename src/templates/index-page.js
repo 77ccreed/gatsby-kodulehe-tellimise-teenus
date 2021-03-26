@@ -40,7 +40,8 @@ export const IndexPageTemplate = ({
           style={{
             letterSpacing: '3.3px',
             lineHeight: '86%',
-            fontWeight: '800'
+            fontWeight: '800',
+            color: '#e58a92'
           }}
         >
           {title}
@@ -54,6 +55,8 @@ export const IndexPageTemplate = ({
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
             padding: '0.25em',
+            color: '#def7ed'
+
           }}
         >
           {subheading}

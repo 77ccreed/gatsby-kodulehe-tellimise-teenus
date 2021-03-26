@@ -25,7 +25,8 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
               letterSpacing: '3.3px',
               lineHeight: '86%',
-              fontWeight: '800'
+              fontWeight: '800',
+              color: '#def7ed'
             }}
           >
             Teenused
