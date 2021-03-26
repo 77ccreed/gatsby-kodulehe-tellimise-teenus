@@ -46,9 +46,9 @@ export const IndexPageTemplate = ({
           {title}
         </motion.h1>
         <motion.h4
-          initial={{ opacity: 0, y: -30, color: '#000', textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
+          initial={{ opacity: 0, y: -30, textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
           animate={{
-            opacity: 1, y: 0, color: '#fddab0', textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
+            opacity: 1, y: 0, textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
           }}
           transition={{ delay: 0.5, duration: 1.2 }}
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
