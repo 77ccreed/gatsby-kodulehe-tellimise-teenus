@@ -41,7 +41,7 @@ export const IndexPageTemplate = ({
             letterSpacing: '3.3px',
             lineHeight: '86%',
             fontWeight: '800',
-            color: '#e58a92'
+            color: '#def7ed'
           }}
         >
           {title}
@@ -56,7 +56,6 @@ export const IndexPageTemplate = ({
           style={{
             padding: '0.25em',
             color: '#def7ed'
-
           }}
         >
           {subheading}
