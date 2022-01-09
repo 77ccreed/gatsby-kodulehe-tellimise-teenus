@@ -6,18 +6,6 @@ module.exports = {
     siteUrl: 'https://tellikoduleht.ee'
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `OÜ Kodulehe Tellimine`,
-        short_name: `Kodulehe Tellimine`,
-        start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
-        display: `standalone`,
-        icon: `src/img/iconfinder_icon.png`,
-      },
-    },
     `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -28,7 +16,14 @@ module.exports = {
     'gatsby-plugin-robots-txt',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
+    {
+      resolve: "gatsby-plugin-sass",
+      options: {
+        sassOptions: {
+          indentedSyntax: true,
+        },
+      },
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',

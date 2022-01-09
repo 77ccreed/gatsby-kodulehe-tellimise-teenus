@@ -25,11 +25,6 @@ export const ProductPageTemplate = ({
   <div className="content">
     <div
       className="full-width-image-container margin-top-0 taust"
-    //style={{
-    //backgroundImage: `url(${
-    // !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-    // })`,
-    // }}
     >
       <motion.h2
         initial={{ opacity: 0, textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
@@ -64,7 +59,7 @@ export const ProductPageTemplate = ({
               <div className="column is-12 has-text-centered">
                 <Link className="nis-size-4 btn" to="/kontaktid/">
                   Saada meile kiri
-              </Link>
+                </Link>
               </div>
 
               <div className="columns">
