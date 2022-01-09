@@ -7,12 +7,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-offline`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-160191922-1",
-      },
-    },
     'gatsby-plugin-robots-txt',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-react-helmet',
