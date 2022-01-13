@@ -8,7 +8,6 @@
     "framer-motion": "^1.11.0",
     "gatsby": "^4.0.0",
     "gatsby-plugin-canonical-urls": "^4.4.0",
-    "gatsby-plugin-google-analytics": "^2.11.0",
     "gatsby-plugin-google-gtag": "^4.4.0",
     "gatsby-plugin-image": "^2.5.1",
     "gatsby-plugin-manifest": "^4.4.0",
@@ -36,8 +35,7 @@
     "react-dom": "^16.8.4",
     "react-helmet": "^6.0.0",
     "sass": "^1.47.0",
-    "uuid": "^8.0.0",
-    "yarn": "^1.9.4"
+    "uuid": "^8.0.0"
   },
   "keywords": [
     ""
