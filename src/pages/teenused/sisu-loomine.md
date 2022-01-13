@@ -57,6 +57,7 @@ Nii saab juba enne teksti loomist paika panna kodulehe struktuuri, eesmärgi ja 
 
 Miks peaks klient just Sind konkurendile eelistama? Kodulehe sisu kirjutades tasub seda endalt küsida.
 Kirjutatud tekst peab lugejale midagi pakkuma, temas huvi äratama. Lehe külastaja otsib lahendust enda probleemile. Ta otsib teejuhti, kes aitab probleemi lahendada. Heal teejuhil peaks olema empaatiat. Ja autoriteeti. Lugeja saab usaldada ainult teejuhti, kellel on probleemi lahendamiseks plaan.
+
 Külastaja peaks lehelt lihtsa vaevaga leidma, mida otsib, sest muidu ta läheb ja otsib seda mujalt.
 Loodav tekst peab olema:
 
