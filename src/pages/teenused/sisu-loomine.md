@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Kodulehe teksti kirjutamine - veebilehe sisuloome ✍
+title: Kodulehe teksti kirjutamine - veebilehe sisuloome teenus ✍
 date: 2020-04-07T04:42:12.611Z
 description: >-
-  Miks sisuloome on tähtis. Kuidas luua strateegia ja sellest lähtudes kodulehe sisu kirjutada. Tingimused, millele loodud tekst peaks vastama.
+  Kuidas kodulehe sisu kirjutada. Tingimused, millele loodud tekst peaks vastama. Vajad abi? Tee enda elu lihtsaks - telli sisuloome teenus.
 featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
@@ -13,13 +13,21 @@ tags:
 
 ![Kodulehe sisu kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe sisu kirjutamine")
 
-### Kodulehe sisu kirjutamine hinnaga 15 € tund
+### Vajad sisuloomel abi? Kodulehe teksti kirjutamine hinnaga 15 € tund
 
 ## Miks tasub rõhku panna hea sisu loomisele
 
-Kodulehe tegemisel on kõige raskem huvitava ja isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Kui tahad konkurendist eristuda, peab sisutekst hästi kirjutatud ja lihtsalt loetav olema. Samuti peaks kirjutatud tekst lugejale midagi pakkuma.
+Kodulehe tegemisel on kõige raskem huvitava ja isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Kui tahad konkurendist eristuda, peab sisutekst hästi kirjutatud ja lihtsalt loetav olema. Samuti peab tekst lugejale midagi pakkuma.
 
-Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame sisuloomel aidata - pakume teksti kirjutamise teenust hinnaga 15 € tund. Aitame tellija ettevõtte tegevuse lahti mõtestada ja kliendini viia läbi kirjutatud teksti, mida saab kasutada ettevõtte kõigis turunduskanalites.
+### Vajad kirjutamisel abi? Tee enda elu lihtsaks - telli sisuloome teenus
+
+Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame teksti kirjutamisel aidata - pakume sisuloome teenust hinnaga 15 € tund. Aitame tellija ettevõtte tegevuse lahti mõtestada ja kliendini viia läbi teksti, mida saab kasutada ettevõtte kõigis turunduskanalites.
+
+Lihtsaim viis kodulehe sisu loomiseks - telli sisuloome teenus. Täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link).
+
+Kehva sisuga koduleht jääb internetiotsingus konkurendile alla. Toome lihtsas ja selges eesti keeles ettevõtte tooted ja teenused külastajani.
+
+Meile meeldib töötada kindlat visiooni või äriplaani omava tellijaga. See annab lõpptulemusele palju juurde, kui oled asjast huvitatud - avatud ja valmis panustama.
 
 ## Vajalikud eeltööd enne kodulehe sisu kirjutamist - strateegia loomine
 
@@ -31,63 +39,70 @@ Enne kodulehe sisu kirjutamist tasub ettevõtte tegevusharuga tutvuda. Millised 
 - märksõnad ja leitavus internetiotsingus
 - mida on konkurentidelt üle võtta.
 
-Tuleb luua ülevaate ettevõte eelistest ja puudustest.
+Loo ülevaate enda ettevõte eelistest ja puudustest.
 
-### Kodulehe sisu kirjutamist alustame strateegiast
+### Kodulehe sisu kirjutamist alusta strateegiast
 
-Mõistlik on oma tegevus enne tööle asumist läbi mõelda. See kehtib ka veebilehe sisu luues. Tutvume ettevõtte ja konkurentidega. Selgitame välja valdkonnas kasutatavad otsisõnad, terminid ja kellele on toode või teenuse mõeldud. Selle järgi saab planeerida kodulehe sisuloome ning oletatava lehe külastajate hulga.
-Enne kodulehe sisu kirjutamist tasuks vastust otsida küsimustele:
+Mõistlik on oma tegevus enne tööle asumist läbi mõelda. See kehtib ka veebilehe sisu luues. Tutvu konkurentidega. Selgita välja valdkonnas kasutatavad otsisõnad, terminid ja kellele on toode või teenus, mida kavatsed pakkuda, mõeldud. Selle järgi saab planeerida kodulehe sisuloome ning oletatava lehe külastajate hulga. Enne kodulehe sisu kirjutamist tasub vastust otsida järgnevatele küsimustele.
 
-- kes on kodulehe sihtrühm
-- mida soovitakse külastajale öelda
-- mis on külastuse eesmärk ettevõtte jaoks.
+- Kes on kodulehe sihtrühm. Kellele on seda lehte vaja.
+- Loodava kodulehe peamine ülesanne on külastajale pakkuda. Mis on kodulehe eesmärk külastaja jaoks. Probleem, mida aitad lahendada.
+- Ettevõtte jaoks on külastuse eesmärk. Tegevus, mida tahad, et külastaja kodulehel teeks.
 
-Nii saab juba enne teksti loomist paika panna lehe struktuuri, eesmärgi ja kuidas seda saavutada.
+Nii saab juba enne teksti loomist paika panna kodulehe struktuuri, eesmärgi ja kuidas seda saavutada.
 
-Meile meeldib töötada kindlat visiooni või äriplaani omava tellijaga. See annab lõpptulemusele palju juurde, kui oled asjast huvitatud - avatud ja valmis panustama.
+## Kodulehe sisu kirjutamine
 
 ### Mida on Sul kliendile pakkuda
 
-Miks peaks klient just Sind konkurendile eelistama? Kodulehe sisu kirjutades tasub endalt seda küsida. Hea sisu loome koostöös tellijaga. Sest kes veel on ekspert pakutavate toodete ja teenuste alal.
-
-Aitame teksti loomisel, redigeerimisel ja kliendini viimisel parimal võimalikul moel. Avame toodete ja teenuste omadused ja omapära, et nad jõuaks inimeseni, kes neid internetist otsib.
-
-### Tingimused, millele kodulehe sisu peab vastama
-
-Kirjutatud tekst peab lugejale midagi pakkuma, temas huvi äratama. Lehe külastaja otsib lahendust oma probleemile. Teejuhti, kes aitab probleemi lahendada. Külastaja peaks lehelt lihtsa vaevaga leidma, mida otsib, sest muidu ta läheb otsib seda mujalt.
-
-Loodav tekst peaks olema:
+Miks peaks klient just Sind konkurendile eelistama? Kodulehe sisu kirjutades tasub seda endalt küsida.
+Kirjutatud tekst peab lugejale midagi pakkuma, temas huvi äratama. Lehe külastaja otsib lahendust enda probleemile. Ta otsib teejuhti, kes aitab probleemi lahendada. Heal teejuhil peaks olema empaatiat. Ja autoriteeti. Lugeja saab usaldada ainult teejuhti, kellel on probleemi lahendamiseks plaan.
+Külastaja peaks lehelt lihtsa vaevaga leidma, mida otsib, sest muidu ta läheb ja otsib seda mujalt.
+Loodav tekst peab olema:
 
 - kasulik ja huvitav
 - kergelt kasutatav
 - lihtsalt leitav.
 
 Hea sisu räägib ühel kindlal teemal. On lihtsalt loetav, isikupärane ning jutustama ettevõtte loo. Ei tasu oodata, et inimene ise mõistaks kuidas ettevõtte toode või teenus muudab tema elu. Seda tuleb talle öelda.
-
 Sisutekst peaks olema:
 
 - fokuseeritud ja hästi sihitud
 - konkurentidest eristuv
 - terviklik.
 
-## Kodulehe sisu kirjutamine
+Meeles tasub pidada, et kirjutad teksti inimesele. Aga veebisisu omapäraks on et sama teksti loeb ka masin. Temagi peab kirjutatust aru saama.
 
-### Veebilehe struktuur
+### Üks leht korraga - sisulehe struktuur
 
-Lehe koostamisel arvestame, et iga sisuleht ja postitus räägiks ühel kindlal teemal, ühest tootest või teenusest. Nii on lugejal lihtsam orienteeruda. Leida, mida ta kodulehelt otsib. Selline ülesehitus parandab kasutajakogemust ja teeb lugemise kergeks.
+Arvesta, et iga sisuleht räägiks ühel kindlal teemal, ühest tootest või teenusest. Nii on lugejal lihtsam orienteeruda. Leida, mida ta lehelt otsib. Selline ülesehitus parandab kasutajakogemust ja teeb lugemise lihtsaks. Teksti kirjutamisel võib kasutada järgnevat spikrit:
 
-### Avalehe loomine
+- Kes sa oled?
+- Mida on pakkuda?
+- Mis eelis kliendile?
+- Üleskutse tegudele!
+- Garantii.
 
-Pealeht, meist ja tooteid või teenuseid kirjeldav leht. Need lehed annavad ülevaate ettevõttest ja selle tegevusest. Mis eeliseid klient saab valides koostöö. Milline on firma ajalugu, tulevased plaanid ja inimesed ettevõtte taga. Ülevaade toodetest ja teenustest. Kontaktide lehte saab kasutada nii lihtsama kui keerukama kontaktvormi koostamiseks. Võib ehitada kasvõi broneerimissüsteemi.
+Sellise spikri järgi sisu luues on erinevad sisulehed sarnase struktuuriga.
+
+### Avaleht ja ettevõtte tutvustus
+
+Pealeht, meist ja tooteid või teenuseid kirjeldavad lehed. Need lehed annavad ülevaate ettevõttest ja selle tegevusest. Mis eeliseid klient saab valides koostöö. Milline on firma ajalugu, tulevased plaanid ja inimesed ettevõtte taga. Üldine ülevaade toodetest ja teenustest.
 
 ### Toodete ja teenuste lehed
 
-Lehed iga toote või teenuse tutvustamiseks. See on koht, kus tuleb põhjalikuks minna ja kõik pisiasjadeni lahti kirjutada. Võimalikult täpse info andmine teeb kliendil toote või teenuse kasuks otsustamise lihtsaks.
+Lehed iga toote ja teenuse tutvustamiseks. See on koht, kus tuleb põhjalikuks minna ja kõik pisiasjadeni lahti kirjutada. Võimalikult täpse info andmine teeb kliendil toote või teenuse kasuks otsustamise lihtsaks.
 
 Sarnased tooted ja teenused saab siltidega ühtseks tervikuks siduda. See aitab kodulehe loogilisele ülesehitusele kaasa. Parandab kasutajakogemust ja navigeerimist lehel.
 
 ### Sisu optimeerimine ja teksti redigeerimine
 
-Sisu valmides on hea see mõne aja pärast uuesti läbi kirjutada. Seda peaks tegema uuesti ja uuesti. Nii muutub kodulehe sisu loetavamaks. Kodulehe külastatavuse statistika järgi tuleb välja, mis pakub lehe külastajale huvi. Selgub, milline osa sisust tuleb põhjalikumalt lahti kirjutada, et interneti otsingus parem positsioon saavutada. Siit võib välja tulla kuhu ettevõte võiks edasi arendada. Millised on arengud tegevusharus ja klientide käitumises.
+Sisu valmides on hea see mõne aja pärast uuesti läbi kirjutada. Seda peaks tegema uuesti ja uuesti. Nii muutub kodulehe sisu loetavamaks. Kodulehe külastatavuse statistika järgi tuleb välja, mis pakub lehe külastajale huvi. Selgub, milline osa sisust tuleb põhjalikumalt lahti kirjutada, et interneti otsingus parem positsioon saavutada. Siit võib välja tulla suund, kuhu ettevõte võiks edasi areneda. Millised on võimalikud arengud tegevusharus ja klientide käitumises.
 
-Kodulehe sisu kirjutamine on suur ja aeganõudev töö. Kui tunned, et saame abiks olla siis [saada meile kiri](https://support.google.com/google-ads/answer/6054492?hl=et). Aitame meeleldi.
+## Kirjutamine on raske töö
+
+Kodulehe sisu kirjutamine on suur ja aeganõudev töö. Tavaliselt alahinnatakse vaeva, mis sellele kulub. Ka hästi kirjutatud teksti saab parandada - teinekord annab kõrvaltvaataja pilk palju juurde.
+
+Kui vajad kirjutamisel abi siis telli sisuloome teenus. Võta ühendust kontaktide lehel või täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link).
+
+Me ei tee suuri sõnu. Viime tellija toote või teenuse lihtsas ja selges eesti keeles võimaliku kliendini.
