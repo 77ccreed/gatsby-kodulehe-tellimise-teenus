@@ -71,7 +71,7 @@ Sisutekst peaks olema:
 - konkurentidest eristuv
 - terviklik.
 
-Meeles tasub pidada, et kirjutad teksti inimesele. Aga veebisisu omapäraks on et sama teksti loeb ka masin. Temagi peab kirjutatust aru saama.
+Meeles tasub pidada, et lood teksti inimesele. Aga veebisisu loeb ka masin. Temagi peab kirjutatust aru saama.
 
 ### Üks leht korraga - sisulehe struktuur
 
