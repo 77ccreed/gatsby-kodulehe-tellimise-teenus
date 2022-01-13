@@ -18,6 +18,12 @@ module.exports = {
         icon: `src/img/iconfinder_icon.png`,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-160191922-1",
+      },
+    },
     `gatsby-plugin-offline`,
     'gatsby-plugin-robots-txt',
     'gatsby-plugin-sitemap',
