@@ -25,7 +25,7 @@ Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast
 
 Lihtsaim viis kodulehe sisu loomiseks - telli sisuloome teenus. Täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link).
 
-Kehva sisuga koduleht jääb internetiotsingus konkurendile alla. Toome lihtsas ja selges eesti keeles ettevõtte tooted ja teenused külastajani.
+Kehva sisuga koduleht jääb internetiotsingus konkurendile alla. Toome lihtsas ja selges eesti keeles ettevõtte tooted ja teenused võimaliku kliendini.
 
 Meile meeldib töötada kindlat visiooni või äriplaani omava tellijaga. See annab lõpptulemusele palju juurde, kui oled asjast huvitatud - avatud ja valmis panustama.
 
