@@ -97,11 +97,11 @@ Sarnased tooted ja teenused saab siltidega ühtseks tervikuks siduda. See aitab 
 
 ### Sisu optimeerimine ja teksti redigeerimine
 
-Sisu valmides on hea see mõne aja pärast uuesti läbi kirjutada. Nii muutub see loetavamaks. Kodulehe külastatavuse statistika järgi tuleb välja, mis pakub lehe külastajale huvi. Selgub, milline osa sisust tuleb põhjalikumalt lahti kirjutada, et interneti otsingus parem positsioon saavutada. Siit võib välja tulla suund, kuhu ettevõte võiks edasi areneda. Millised on võimalikud arengud tegevusharus ja klientide käitumises.
+Sisu valmides on hea see mõne aja pärast uuesti läbi kirjutada. Nii muutub tekst loetavamaks. Kodulehe külastatavuse statistika järgi tuleb välja, mis pakub inimestele huvi. Selgub, milline osa sisust tuleb põhjalikumalt lahti kirjutada, et interneti otsingus parem positsioon saavutada. Siit võib välja tulla suund, kuhu ettevõte võiks edasi areneda. Millised on võimalikud arengud tegevusharus ja klientide käitumises.
 
 ## Kirjutamine on raske töö
 
-Kodulehe sisu kirjutamine on suur ja aeganõudev töö. Tavaliselt alahinnatakse vaeva, mis sellele kulub. Ka hästi kirjutatud teksti saab parandada - teinekord annab kõrvaltvaataja pilk palju juurde.
+Kodulehe tegemine on suur ja aeganõudev töö. Tavaliselt alahinnatakse vaeva, mis sellele kulub. Ka hästi kirjutatud teksti saab parandada - teinekord annab kõrvaltvaataja pilk palju juurde.
 
 Kui vajad kirjutamisel abi siis telli sisuloome teenus. Võta ühendust kontaktide lehel või täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link).
 
