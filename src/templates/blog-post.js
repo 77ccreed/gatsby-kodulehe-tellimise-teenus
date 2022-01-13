@@ -6,6 +6,7 @@ import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
+// eslint-disable-next-line
 export const BlogPostTemplate = ({
   content,
   contentComponent,
@@ -64,7 +65,6 @@ const BlogPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          //<Helmet titleTemplate="%s | Teenused">
           <Helmet titleTemplate="%s">
             <title>{`${post.frontmatter.title}`}</title>
             <meta

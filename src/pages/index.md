@@ -1,7 +1,6 @@
 ---
 templateKey: index-page
 title: Kodulehe Tellimine
-image: /img/kodulehe-tellimine-taustapilt.jpg
 heading: >-
   Kirjuta oma kodulehest või täida küsimustik. Selgitame välja, kuidas Sinu toode või teenus kodulehe abil inimesteni viia
 subheading: Kodulehe tegemine, sisu loomine ja haldus

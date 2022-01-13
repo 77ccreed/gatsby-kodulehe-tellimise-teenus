@@ -5,6 +5,7 @@ import Layout from '../components/Layout'
 import Helmet from 'react-helmet'
 import Content, { HTMLContent } from '../components/Content'
 
+// eslint-disable-next-line
 export const AboutPageTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 

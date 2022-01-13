@@ -9,8 +9,8 @@ import BlogRoll from '../components/BlogRoll'
 
 import { motion } from "framer-motion"
 
+// eslint-disable-next-line
 export const IndexPageTemplate = ({
-  image,
   title,
   heading,
   subheading,
@@ -85,7 +85,7 @@ export const IndexPageTemplate = ({
                     <div className="column is-12 has-text-centered">
                       <Link className="nis-size-4 btn" to="/kontaktid/">
                         Kirjuta oma kodulehest
-              </Link>
+                      </Link>
                     </div>
                     <p className="card-disain2" style={{
                       clipPath: "polygon(0 0, 100% 0, 98% 98%, 0% 100%)",
@@ -98,7 +98,7 @@ export const IndexPageTemplate = ({
                   <div className="column is-12 has-text-centered">
                     <Link className="nis-size-4 btn" to="/turundus/">
                       Alusava ettevõtte turundus
-              </Link>
+                    </Link>
                   </div>
                 </div>
                 <div className="column is-12">
@@ -109,7 +109,7 @@ export const IndexPageTemplate = ({
                   <div className="column is-12 has-text-centered">
                     <Link className="nis-size-4 btn" to="/kontaktid/">
                       Kirjuta oma kodulehest
-              </Link>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -166,13 +166,6 @@ export const pageQuery = graphql`
         markdownRemark(frontmatter: {templateKey: {eq: "index-page" } }) {
         frontmatter {
         title
-        image {
-        childImageSharp {
-        fluid(maxWidth: 2048,quality: 100) {
-        ...GatsbyImageSharpFluid
-      }
-      }
-    }
     heading
     subheading
         mainpitch {
@@ -182,13 +175,11 @@ export const pageQuery = graphql`
     description
         intro {
         blurbs {
-        image {
-        childImageSharp {
-        fluid(maxWidth: 240, quality: 64) {
-        ...GatsbyImageSharpFluid
-      }
-      }
-    }
+     image {
+              childImageSharp {
+                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+              }
+            }
     text
   }
   heading
