@@ -97,7 +97,7 @@ Sarnased tooted ja teenused saab siltidega ühtseks tervikuks siduda. See aitab 
 
 ### Sisu optimeerimine ja teksti redigeerimine
 
-Sisu valmides on hea see mõne aja pärast uuesti läbi kirjutada. Seda peaks tegema uuesti ja uuesti. Nii muutub kodulehe sisu loetavamaks. Kodulehe külastatavuse statistika järgi tuleb välja, mis pakub lehe külastajale huvi. Selgub, milline osa sisust tuleb põhjalikumalt lahti kirjutada, et interneti otsingus parem positsioon saavutada. Siit võib välja tulla suund, kuhu ettevõte võiks edasi areneda. Millised on võimalikud arengud tegevusharus ja klientide käitumises.
+Sisu valmides on hea see mõne aja pärast uuesti läbi kirjutada. Nii muutub see loetavamaks. Kodulehe külastatavuse statistika järgi tuleb välja, mis pakub lehe külastajale huvi. Selgub, milline osa sisust tuleb põhjalikumalt lahti kirjutada, et interneti otsingus parem positsioon saavutada. Siit võib välja tulla suund, kuhu ettevõte võiks edasi areneda. Millised on võimalikud arengud tegevusharus ja klientide käitumises.
 
 ## Kirjutamine on raske töö
 
