@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Kodulehe teksti kirjutamine - veebilehe sisuloome teenus ✍
 date: 2020-04-07T04:42:12.611Z
 description: >-
-  Kuidas kodulehe sisu kirjutada. Tingimused, millele loodud tekst peaks vastama. Vajad abi? Tee enda elu lihtsaks - telli sisuloome teenus.
+  Kuidas kodulehe sisu kirjutada. Tingimused, millele loodud tekst peaks vastama. Vajad abi? Tee enda elu lihtsaks - telli sisuloome teenus!
 featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
@@ -23,7 +23,7 @@ Kodulehe tegemisel on kõige raskem huvitava ja isikupärase sisu loomine. Enama
 
 Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame teksti kirjutamisel aidata - pakume sisuloome teenust hinnaga 15 € tund. Aitame tellija ettevõtte tegevuse lahti mõtestada ja kliendini viia läbi teksti, mida saab kasutada ettevõtte kõigis turunduskanalites.
 
-Sisuloome teenuse tellimiseks täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link).
+Sisuloome teenuse tellimiseks täida küsimustik [siin](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link)!
 
 Kehva sisuga koduleht jääb internetiotsingus konkurendile alla. Toome lihtsas ja selges eesti keeles ettevõtte tooted ja teenused võimaliku kliendini.
 
@@ -53,7 +53,7 @@ Nii saab juba enne teksti loomist paika panna kodulehe struktuuri, eesmärgi ja 
 
 ## Kodulehe sisu kirjutamine
 
-### Mida on Sul kliendile pakkuda
+### Mida on Sul kliendile pakkuda?
 
 Miks peaks klient just Sind konkurendile eelistama? Kodulehe sisu kirjutades tasub seda endalt küsida.
 Kirjutatud tekst peab lugejale midagi pakkuma, temas huvi äratama. Lehe külastaja otsib lahendust enda probleemile. Ta otsib teejuhti, kes aitab probleemi lahendada. Heal teejuhil peaks olema empaatiat. Ja autoriteeti. Lugeja saab usaldada ainult teejuhti, kellel on probleemi lahendamiseks plaan.
