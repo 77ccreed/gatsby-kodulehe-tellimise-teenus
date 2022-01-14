@@ -8,7 +8,7 @@ featuredpost: false
 featuredimage: /img/lisatööd-valminud-kodulehel.jpg
 tags:
   - teenused
-  - põhiteenus
+  - lisateenus
 ---
 
 ![Ettevõtte kodulehe haldus](/img/kodulehe-haldus.jpg "Ettevõtte kodulehe haldus")
@@ -77,10 +77,10 @@ Kodulehe halduse saab lihtsamaks teha kui kasutada veebiarenduse parimat praktik
 
 Selliste lahenduste kasutuselevõtmine välistab inimlikud eksitused ja hoiab veebilehe turvalise ja ajakohasena. Nii on kodulehe hooldus ja optimeerimine lihtsamalt teostatav.
 
-
 ## Miks tellida kodulehe haldus meilt
 
 Kodulehte võib ise hallata. Aga alati ei ole see ettevõtja jaoks optimaalne lahendus. Teeme kodulehe halduse tellija jaoks lihtsaks. Tellija ei pea veebilehe arendamisega vaeva nägema ja võib selle täielikult halduri hooleks jätta. Veebihalduri töö võib sisaldab järgnevaid tegevusi:
+
 - ettevõtte analüüs
 - konkurentide analüüs
 - konsultatsioon
