@@ -13,17 +13,17 @@ tags:
 
 ![Kodulehe sisu kirjutamine](/img/kodulehe-teksti-kirjutamine.jpg "Kodulehe sisu kirjutamine")
 
-### Vajad sisuloomel abi? Kodulehe teksti kirjutamine hinnaga 15 € tund
+### Vajad sisuloomel abi? Kodulehe teksti kirjutamine hinnaga 15 € tund! ✔️
 
-## Miks tasub rõhku panna hea sisu loomisele
+## Miks tasub rõhku panna hea sisu loomisele?
 
 Kodulehe tegemisel on kõige raskem huvitava ja isikupärase sisu loomine. Enamasti alahinnatakse aega ja vaeva, mis kulub hea teksti kirjutamisele. Kui tahad konkurendist eristuda, peab sisutekst hästi kirjutatud ja lihtsalt loetav olema. Samuti peab tekst lugejale midagi pakkuma.
 
 ### Vajad kirjutamisel abi? Tee enda elu lihtsaks - telli sisuloome teenus
 
-Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame teksti kirjutamisel aidata - pakume sisuloome teenust hinnaga 15 € tund. Aitame tellija ettevõtte tegevuse lahti mõtestada ja kliendini viia läbi teksti, mida saab kasutada ettevõtte kõigis turunduskanalites.
+#### Tellimiseks täida küsimustik [siin!](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link)
 
-#### Sisuloome teenuse tellimiseks täida küsimustik [siin!](https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link)
+Tahad olemasolevale veebilehele uue näo anda? Või sisu loomisega päris otsast alustada. Nii ühel kui teisel juhul saame teksti kirjutamisel aidata - pakume sisuloome teenust hinnaga 15 € tund. Aitame tellija ettevõtte tegevuse lahti mõtestada ja kliendini viia läbi teksti, mida saab kasutada ettevõtte kõigis turunduskanalites.
 
 Kehva sisuga koduleht jääb internetiotsingus konkurendile alla. Toome lihtsas ja selges eesti keeles ettevõtte tooted ja teenused võimaliku kliendini.
 
