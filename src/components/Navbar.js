@@ -50,7 +50,7 @@ const Navbar = class extends React.Component {
                   color: '#024650',
                   fontSize: '1.2rem',
                   fontWeight: '600'
-                }}>Telli kodulehe tegemine</motion.p>
+                }}>Telli koduleht</motion.p>
             </Link>
             {/* Hamburger menu */}
             <div
