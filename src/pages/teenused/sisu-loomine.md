@@ -35,8 +35,8 @@ Meile meeldib töötada kindlat visiooni või äriplaani omava tellijaga. See an
 
 Enne kodulehe sisu kirjutamist tasub ettevõtte tegevusharuga tutvuda. Millised on konkurentide veebilehed, nende tugevused ja nõrkused:
 
-- kasutusmugavust silmas pidades
-- märksõnad ja leitavus internetiotsingus
+- kasutusmugavust silmas pidades,
+- märksõnad ja leitavus internetiotsingus,
 - mida on konkurentidelt üle võtta.
 
 Loo ülevaate enda ettevõte eelistest ja puudustest.
@@ -61,15 +61,15 @@ Kirjutatud tekst peab lugejale midagi pakkuma, temas huvi äratama. Lehe külast
 Külastaja peaks lehelt lihtsa vaevaga leidma, mida otsib, sest muidu ta läheb ja otsib seda mujalt.
 Loodav tekst peab olema:
 
-- kasulik ja huvitav
-- kergelt kasutatav
+- kasulik ja huvitav,
+- kergelt kasutatav,
 - lihtsalt leitav.
 
 Hea sisu räägib ühel kindlal teemal. On lihtsalt loetav, isikupärane ning jutustama ettevõtte loo. Ei tasu oodata, et inimene ise mõistaks kuidas ettevõtte toode või teenus muudab tema elu. Seda tuleb talle öelda.
 Sisutekst peaks olema:
 
-- fokuseeritud ja hästi sihitud
-- konkurentidest eristuv
+- fokuseeritud ja hästi sihitud,
+- konkurentidest eristuv,
 - terviklik.
 
 Meeles tasub pidada, et lood teksti inimesele. Aga veebisisu loeb ka masin. Temagi peab kirjutatust aru saama.
