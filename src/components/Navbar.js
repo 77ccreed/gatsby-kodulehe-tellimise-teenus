@@ -57,6 +57,7 @@ const Navbar = class extends React.Component {
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
               role="menuitem"
+              aria-label="Ava menüü"
               tabIndex={0}
               onKeyPress={() => this.toggleHamburger()}
               onClick={() => this.toggleHamburger()}

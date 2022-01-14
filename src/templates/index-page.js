@@ -83,8 +83,8 @@ export const IndexPageTemplate = ({
                     </h3>
 
                     <div className="column is-12 has-text-centered">
-                      <Link className="nis-size-4 btn" to="/kontaktid/">
-                        Kirjuta oma kodulehest
+                      <Link className="nis-size-4 btn" to="/teenused/sisu-loomine">
+                        Loe sisuloomest
                       </Link>
                     </div>
                     <p className="card-disain2" style={{
