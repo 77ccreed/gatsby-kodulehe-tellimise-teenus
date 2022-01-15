@@ -22,14 +22,13 @@ const Teenusetingimused = () => {
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">2. Hinnainfo</h2>
                 <p className="content">2.1. Teenuste hinnad on eurodes ja ei sisalda käibemaksu. Teenuste hinnad on lõplikud ja käibemaksu ei lisandu. Teenuste hinnad kodulehel ja saadavus võivad muutuda ilma etteteatamiseta.</p>
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">3. Tellimuse vormistamine</h2>
-                <p className="content">3.1. Teenuse tellimiseks saada OÜ Kodulehe Tellimisele kiri. Seejärel toimub kohtumine sobivas kohas või interneti vahendusel, millel lepitakse kokku täpsed tingimused.</p>
+                <p className="content">3.1. Teenuse tellimiseks saada OÜ Kodulehe Tellimisele kiri või täida küsimustik. Seejärel toimub kohtumine sobivas kohas, telefoni teel või interneti vahendusel, millel lepitakse kokku täpsed tingimused.</p>
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">4. Tellimuse eest tasumine</h2>
-                <p className="content">4.1. Teenuse eest tuleb tasuda maksega kokkulepitud summas ja ajal. Teenuse eest tuleb tasuda pangaülekandega.</p>
+                <p className="content">4.1. Teenuse eest tuleb tasuda maksega kokkulepitud summas ja ajal. Teenuse eest tuleb tasuda pangaülekandega (Arveldusarve: SEB EE461010220285246226).</p>
                 <p className="content">4.2. Tellija ja OÜ Kodulehe Tellimine vahel kokku lepitud hinnad võivad muutuda ainult mõlemapoolsel nõusolekul.</p>
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">5. Tellimuse täitmine</h2>
-                <p className="content">5.1. OÜ Kodulehe Tellimine hakkab teenust osutama pärast esimese makse laekumist (Arveldusarve: SEB EE461010220285246226).</p>
-                <p className="content">5.2. OÜ Kodulehe Tellimine osutab teenust kokkulepitud ajal ja mahus.</p>
-                <p className="content">5.3. Kui tellitud teenust ei ole võimalik osutada, teavitatakse sellest tellijat viivitamatult.</p>
+                <p className="content">5.1. OÜ Kodulehe Tellimine osutab teenust kokkulepitud ajal ja mahus.</p>
+                <p className="content">5.2. Kui tellitud teenust ei ole võimalik osutada, teavitatakse sellest tellijat viivitamatult.</p>
                 <h2 className="title is-size-4 has-text-weight-bold is-bold-light">6. Veebimajutus</h2>
                 <p className="content">6.1. OÜ Kodulehe Tellimine kasutab tellija kodulehele veebis majutamiseks <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer"
                   title="Kodulehe tellimise kontaktvorm">Netlify</a> teenust <a href="https://www.netlify.com/pricing/" target="_blank" rel="noopener noreferrer"
