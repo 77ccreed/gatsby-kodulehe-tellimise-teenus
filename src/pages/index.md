@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Kodulehe Tellimine
 heading: >-
-  Alustame sisu loomisest. Tutvu kuidas töötame.  Täida küsimustik ja telli firmale uus koduleht!
+  Tavaliselt alustame sisu loomisest. Tutvu kuidas töötame. Täida küsimustik ja telli firmale uus koduleht!
 subheading: Kodulehe tegemine, sisu loomine ja haldus
 mainpitch:
   title: Kas Sinu ettevõttel puudub koduleht? Olemasolev ei jõua sihtgrupini?
@@ -13,26 +13,18 @@ intro:
   blurbs:
     - image: /img/tellijaga-kohtumine-v.jpg
       text: >+
-        Peale tellimuse saamist kohtume tellija valitud kohas. Täpsustame tööde
-        sisu, mahu ja orienteeruva ajakulu, mis on aluseks maksetingimuste
-        paikapanemisel. Määrame võimalikud lisatööd, kodulehe eesmärgi ja kuidas
-        seda saavutada.
+        Peale tellimuse saamist täpsustame tööde sisu, mahu ja orienteeruva ajakulu e-kirja või telefoni teel. Vajadusel kohtume tellija valitud kohas. Määrame võimalikud lisatööd, kodulehe eesmärgi ja kuidas seda saavutada.
 
 
     - image: /img/kodulehe-tellimine-v.jpg
       text: >-
-        Hindame konkurente ja ettevõtte positsiooni turul. Loome strateegia ja
-        sellest lähtudes firmat, selle tooteid ja teenuseid tutvustava teksti.
-        Valmistame veebilehe prooviversiooni ja anname tellijale
-        tehtust ülevaate.
+        Hindame konkurente ja ettevõtte positsiooni turul. Loome strateegia ja sellest lähtudes kirjutame tellija firmat, selle tooteid ja teenuseid tutvustava teksti, mida saab kasutada kodulehe tegemisel.
     - image: /img/kodulehe-redigeerimine-v.jpg
       text: >-
-        Indekseerime kodulehe interneti otsingumootoris. Tagame veebimajutuse, domeeni ning
-        teostame vajalikud lisatööd. Hoolitseme, et kõik töötaks soovitud moel
-        ja veebileht jõuaks külastajani parimal võimalikul viisil.
+        Teeme ettevõttele kodulehe ja anname tellijale tehtust ülevaate. Indekseerime valminud veebilehe interneti otsingumootoris. Tagame veebimajutuse, domeeni ning teostame vajalikud lisatööd. Hoolitseme, et kõik töötaks soovitud moel.
     - image: /img/kodulehe-optimeerimine.jpg
       text: >
-        Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab kodulehe toimimise. Redigeerime ja optimeerime veebilehte lähtudes tellija vajadustest ja külastatavuse statistikast. Nii jätad konkurendid varju.
+        Peale kodulehe valmimist on pool tööd tehtud. Veebihalduri teenus tagab kodulehe toimimise. Redigeerime ja optimeerime veebilehte lähtudes tellija vajadustest ja külastatavuse statistikast. Nii jõuab Sinu toode või teenud võimaliku kliendini.
   heading: Miks valida meid
   description: >
     Üks raskemaid osi kodulehe tegemisel on sisu loomine. Enamasti alahinnatakse
