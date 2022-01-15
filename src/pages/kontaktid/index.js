@@ -45,8 +45,9 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Kirjuta, kuidas saame aidata.</h1>
-              <p>Saada kiri või <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
-                title="Kodulehe tellimise küsimustik">täida küsimustik siin.</a></p>
+              <p>Saada kiri, <a href="https://docs.google.com/forms/d/e/1FAIpQLScVMGz5NTSQwmRcnAZd9xYYORZHracDfPQ0DLsWyGw0fgpMkg/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                title="Kodulehe tellimise küsimustik">täida sisuloome teenuse tellimiseks küsimustik siin</a> või <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9TPVo1_SMyTlpZ6Vo0StZv0H5aoo2-K_P01o9woEdOdUsMA/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"
+                  title="Kodulehe tellimise küsimustik">kodulehe tellimiseks küsimustik siin.</a></p>
               <hr />
               <form
                 name="kontakt"
@@ -70,7 +71,7 @@ export default class Index extends React.Component {
                   <div className="field column">
                     <label className="label" htmlFor={'name'}>
                       Sinu nimi
-                  </label>
+                    </label>
                     <div className="control">
                       <input
                         className="input"
@@ -88,7 +89,7 @@ export default class Index extends React.Component {
                   <div className="field column">
                     <label className="label" htmlFor={'email'}>
                       E-mail
-                  </label>
+                    </label>
                     <div className="control">
                       <input
                         className="input"
@@ -103,7 +104,7 @@ export default class Index extends React.Component {
                   <div className="field column">
                     <label className="label" htmlFor={'ettevotte'}>
                       Ettevõtte nimi
-                  </label>
+                    </label>
                     <div className="control">
                       <input
                         className="input"
