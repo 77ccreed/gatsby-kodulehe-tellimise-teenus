@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: Kodulehe teksti kirjutamine - veebilehe sisuloome teenus ✍
-date: 2020-04-07T04:42:12.611Z
-description: >-
-  Kuidas kodulehe sisu kirjutada. Tingimused, millele loodud tekst peaks vastama. Vajad abi? Tee enda elu lihtsaks - telli sisuloome teenus!
+date: 2022-02-01T07:06:41.212Z
+description: Kuidas kodulehe sisu kirjutada. Tingimused, millele loodud tekst
+  peaks vastama. Vajad abi? Tee enda elu lihtsaks - telli sisuloome teenus!
 featuredpost: false
 featuredimage: /img/businessman-man-space-desk-7059.jpg
 tags:
