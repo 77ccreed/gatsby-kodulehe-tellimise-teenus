@@ -7,10 +7,6 @@ const PreviewCompatibleImage = ({ imageInfo }) => {
 
   const { alt = "", childImageSharp, image } = imageInfo;
 
-  console.log(imageInfo)
-  console.log(childImageSharp)
-  console.log(image)
-
   if (!!image && !!image.childImageSharp) {
     return (
       <GatsbyImage
