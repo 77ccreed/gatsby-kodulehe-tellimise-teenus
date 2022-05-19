@@ -6,7 +6,6 @@ import Layout from '../components/Layout'
 import Helmet from 'react-helmet'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
-import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 import { motion } from "framer-motion"
@@ -19,7 +18,6 @@ export const ProductPageTemplate = ({
   intro,
   main,
   testimonials,
-  pricing,
 }) => (
 
 
@@ -48,29 +46,56 @@ export const ProductPageTemplate = ({
           <div className="columns">
             <div className="column is-7 is-offset-1">
               <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-              <p className="card-disain2" style={{
-                clipPath: "polygon(0 0, 100% 0, 98% 99%, 0% 100%)",
-              }}>{description}</p>
+              <p>{description}</p>
             </div>
           </div>
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <Features gridItems={intro.blurbs} />
-
-              <div className="column is-12 has-text-centered">
-                <Link className="nis-size-4 btn" to="/kontaktid/">
-                  Saada meile kiri
-                </Link>
-              </div>
-
               <div className="columns">
                 <div className="column is-7">
                   <h3 className="has-text-weight-semibold is-size-3">
                     {main.heading}
                   </h3>
-                  <p className="card-disain2" style={{
-                    clipPath: "polygon(0 0, 100% 0, 98% 99%, 0% 100%)",
-                  }}>{main.description}</p>
+                  <p>{main.description}</p>
+                </div>
+              </div>
+              <div className="columns">
+                <div className="column is-7">
+                  <h3 className="has-text-weight-semibold is-size-3">
+                    Tingimused, millele peab vastama koduleht, mida on lihtne turundada?
+                  </h3>
+                  <ul>
+                    <li>
+                      <p>Selgelt on määratud kes on kodulehe külastaja või sihtgrupp.</p>
+                    </li>
+                    <li><p>Mis on kodulehe eesmärk külastaja jaoks?</p></li>
+                    <li><p>Mis on kodulehe eesmärk ettevõtte jaoks?</p></li>
+                    <li><p>Mis on tegevused, mida ootad, et külastaja kodulehel teeks?</p></li>
+                    <li><p>Omanäoline ja kvaliteetne sisu.</p></li>
+                    <li><p>Selge üleskutse tegudele.</p></li>
+                    <li><p>Hea kasutajakogemus ja funktsionaalsus. </p></li>
+                    <li><p>Kasutatav kõigis seadmetes.</p></li>
+                    <li><p>Ettevõtte kontakt ja asukoht on lihtsasti leitav.</p></li>
+                  </ul>
+                </div>
+              </div>
+              <div className="columns">
+                <div className="column is-7">
+                  <h3 className="has-text-weight-semibold is-size-3">
+                    Kodulehe turundus - kuidas seda ise teha?
+                  </h3>
+                  <ul>
+                    <li>
+                      <p>Google Business Profil - lisa oma ettevõte.</p>
+                    </li>
+                    <li>
+                      <p>Tee kodulehele sisu ja tehniline analüüs.</p>
+                    </li>
+                    <li><p>Loo kodulehele omanäoline sisu.</p></li>
+                    <li><p>Optimeeri kodulehe otsingumootoritele (SEO) ja sotsiaalmeediakanalite jaoks sobivaks.</p></li>
+                    <li><p>Kasuta tasulist reklaami klientideni jõudmiseks.</p></li>
+                  </ul>
                 </div>
               </div>
               <div className="tile is-ancestor">
@@ -95,11 +120,11 @@ export const ProductPageTemplate = ({
                 </div>
               </div>
               <Testimonials testimonials={testimonials} />
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
-              <Pricing data={pricing.plans} />
+              <div className="column is-12 has-text-centered">
+                <Link className="nis-size-4 btn" to="/kontaktid/">
+                  Aitame kodulehe turundusel!
+                </Link>
+              </div>
             </div>
           </div>
         </div>
@@ -138,8 +163,8 @@ const ProductPage = ({ data }) => {
   return (
     <Layout>
       <Helmet>
-        <title>Alustava ettevõtte turundus - kuidas teha reklaami internetis</title>
-        <meta name="description" content="Koduleht on alustava ettevõtte jaoks parim turunduskanal. Selle kaudu jõuab kliendin. Vali kvaliteetne turundus - reklaami oma firmat internetis väikese kuluga." />
+        <title>Kodulehe turundus - alusta ettevõtte turundust veebilehe abil</title>
+        <meta name="description" content="TASUTA NIPID + Loe kuidas alustada ettevõtte kodulehe turundust. Milline on hea veebileht, mida on lihtne reklaamida. Kuidas leida abi kodulehe turundamisel. " />
       </Helmet >
       <ProductPageTemplate
         image={frontmatter.image}
@@ -167,77 +192,77 @@ ProductPage.propTypes = {
 export default ProductPage
 
 export const productPageQuery = graphql`
-  query ProductPage($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      frontmatter {
+      query ProductPage($id: String!) {
+        markdownRemark(id: {eq: $id }) {
+        frontmatter {
         title
         image {
-          childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+        childImageSharp {
+        gatsbyImageData(quality: 100, layout: FULL_WIDTH)
           }
         }
+      heading
+      description
+      intro {
+        blurbs {
+        image {
+        childImageSharp {
+        gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
+              }
+            }
+      text
+          }
+      heading
+      description
+        }
+      main {
         heading
-        description
-        intro {
-          blurbs {
-            image {
-              childImageSharp {
-                gatsbyImageData(width: 240, quality: 64, layout: CONSTRAINED)
-              }
-            }
-            text
-          }
-          heading
           description
-        }
-        main {
-          heading
-          description
-          image1 {
-            alt
+      image1 {
+        alt
             image {
-              childImageSharp {
-                gatsbyImageData(width: 526, quality: 92, layout: CONSTRAINED)
+        childImageSharp {
+        gatsbyImageData(width: 526, quality: 92, layout: CONSTRAINED)
               }
             }
           }
-          image2 {
-            alt
+      image2 {
+        alt
             image {
-              childImageSharp {
-                gatsbyImageData(width: 526, quality: 92, layout: CONSTRAINED)
+        childImageSharp {
+        gatsbyImageData(width: 526, quality: 92, layout: CONSTRAINED)
               }
             }
           }
-          image3 {
-            alt
+      image3 {
+        alt
             image {
-              childImageSharp {
-                gatsbyImageData(quality: 72, layout: FULL_WIDTH)
+        childImageSharp {
+        gatsbyImageData(quality: 72, layout: FULL_WIDTH)
               }
             }
           }
         }
-        testimonials {
-          author
+      testimonials {
+        author
           quote
         }
-        full_image {
-          childImageSharp {
-            gatsbyImageData(quality: 100, layout: FULL_WIDTH)
+      full_image {
+        childImageSharp {
+        gatsbyImageData(quality: 100, layout: FULL_WIDTH)
           }
         }
-        pricing {
-          heading
+      pricing {
+        heading
           description
-          plans {
-            description
+      plans {
+        description
             items
-            plan
-            price
+      plan
+      price
           }
         }
       }
     }
   }
-`;
+      `;

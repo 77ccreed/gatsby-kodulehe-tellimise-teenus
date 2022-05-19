@@ -1,33 +1,33 @@
 ---
 templateKey: product-page
-title: Ettevõtte turundus internetis
+title: Ettevõtte kodulehe turundus
 image: /img/kodulehe-tegemine-taustapilt.jpg
-heading: Millest alustada, kui on vaja internetis ettevõtet turundada
+heading: Millest alustada, kui on vaja ettevõtet ja selle kodulehte turundada
 description: >-
-  Internet on alustava ettevõtte turunduseks parim koht. Selle kaudu jõuab kliendini, kes otsib endale vajalikku toodet või teenust. Kuid kuidas seda teha? Kas firmat luues piisab reklaamiks ainult Facebook-i lehekülje tegemisest. Või peaks ettevõtet internetis turundama ka kodulehe kaudu? Kodulehe vajalikkus sõltub ettevõtte profiilist, asukohast ja sihtturust. Lihtsaim viis kodulehe vajalikkuse kindlaks tegemiseks on internetiotsingus kasutatavate märksõnade kaudu. Kui suur on inimeste hulk, kes otsib ettevõtte toote või teenusega seotud märksõnu. Nii on eeldatav kodulehe külastajate arv võimalik välja selgitada juba enne kodulehe tegemist. Lisaks tasub tähelepanu pöörata konkurentidele.
+  Koduleht on alustava ja väikese ettevõtte turunduseks parim lahendus. Hästi tehtud veebilehe kaudu jõuad kliendini, kes ise otsib internetist sinu poolt pakutavat toodet või teenust. Loe, millised on mõned lihtsad ja tasuta nipid, mis sobivad nii alustava kui ka juba pikalt tegutsenud ettevõtte kodulehe turunduseks. Milline on koduleht, mida on lihtne turundada?
 intro:
   blurbs:
     - image: /img/firma-edu.jpg
       text: >-
-        Alustava ettevõtte turundus on raske. Kuid samas saab õppida konkurentidelt. Kuidas nad oma tooteid ja teenuseid internetis turundavad. Millisel tehnilisel tasemel on nende kodulehed. Kas veebilehe sisu on hästi kirjutatud.
+        Kodulehe turundusega alustamine on raske. Kuid samas saad õppida konkurentidelt. Kuidas nad oma tooteid ja teenuseid internetis müüvad? Konkurentide kodulehtede analüüs aitab välja selgitada millised on nende tugevused ja nõrkused.
     - image: /img/turundus-viib-sihile.jpg
       text: >-
-        Inimese tähelepanu on piiratud. Internetiotsingus endale sobivat toodet või teenust otsides külastab ta vaid paari esimest lehte. Seetõttu on tähtis omada konkurentidest paremal tehnilisel tasemel veebilehte.
+        Tähtis on omada konkurentidest paremat kodulehte, et internetiotsingus hea positsioon saavutada. Inimese tähelepanu on piiratud. Internetis endale vajalikku toodet või teenust otsides külastab ta vaid paari esimest veebilehte. 
     - image: /img/toote-teenuse-otsing-internetist.jpg
       text: >-
-        Kasutades otsingumootori turundust jõuab inimeseni, kes ise otsib ettevõtte poolt pakutavat toodet või teenust. Nii on lihtne uute klientideni jõuda. Sotsiaalmeedia turundus on sobilik juba olemasolevate klientidega sideme hoidmiseks.
+        Lisa oma ettevõte Google Business Profile - see on lihtsaim viis kuidas alustada ettevõtte kodulehe turundust. Sotsiaalmeedia kaudu ettevõtte kodulehe reklaamimine on hea lahendus. Kuid on aeganõudvam ja ei sobi kõigile.
     - image: /img/kodulehe-redigeerimine-v.jpg
       text: >-
-        Koduleht võiks inimesteni jõuda ilma, et ettevõtja reklaamile pidevalt raha kulutab. Veebileht peab interneti orgaanilises otsingus leitav olema. Tasulise reklaami tegemine võiks olla lisavõimalus ettevõtte turundamisel, mitte peamine strateegia.
+        Hästi tehtud koduleht jõuab interneti otsingumootori kaudu inimesteni ilma, et ettevõtja reklaamile raha kulutab. Tasulise reklaami tegemine peaks olema lisavõimalus ettevõtte kodulehe turundamisel, mitte peamine strateegia.
   heading: Kvaliteetne turundus läbi ettevõtte kodulehe
   description: >-
     Koduleht on ettevõtte jaoks parim turunduskanal, sest jõuab inimeseni, kes
     ise otsib internetist endale  ja lähed väetiseksvajalikku toodet või
     teenust. Vali kvaliteetne turundus.
 main:
-  heading: Internetiturundus sobib igas suuruses ettevõttele reklaami tegemiseks
+  heading: Kodulehe turundus interneti kaudu sobib igas suuruses ettevõttele reklaami tegemiseks
   description: >-
-    Läbimõeldud tekst ja tehnoloogiliselt uuem, meeldiva kasutajakogemusega koduleht annab eelise ka alustavale ettevõttele. Olgu firma väike või suur, ettevõtte turundus internetis on lahendus, millele tasub mõelda. Hästi tehtud internetiturundus on parim viis kliendini jõudmiseks. Selle abil on alustaval ettevõttel võimalik edukalt konkureerida ka juba pikalt turul olnud firmadega.
+    Läbimõeldud teksti ja meeldiva kasutajakogemusega koduleht annab internetiotsingus eelise. Olgu firma väike või suur, alles uus või juba pikalt tegutsenud,  ettevõtte turundus kodulehe kaudu on lahendus, millele tasub mõelda. Nii on ka alustaval ettevõttel võimalik edukalt konkureerida juba pikalt turul olnud suuremate konkurentidega.
   image1:
     alt: Alustava ettevõtte turundus internetis
     image: /img/turundus-viib-sihile.jpg
@@ -41,10 +41,10 @@ testimonials:
   - author: OÜ Kodulehe Tellimine
     quote: >-
       Pakume kaasaegseid kodulehe tegemisega seotud
-      lihtsaid ja hästi töötavaid lahendusi, mis sobivad ka alustava ettevõtte turunduseks.
+      lihtsaid ja hästi töötavaid lahendusi, mis sobivad nii suurema kui ka väiksema ja alles alustava ettevõtte turundusl.
 full_image: /img/blur-close-up-code-computer-546819.jpg
 pricing:
-  heading: "Vaata, kui palju makstakse kasutaja toomise eest kodulehele"
+  heading: "Kodulehe turundus - kuidas seda ise teha?"
   description: >-
     Reklaami hinna suurusjärk, mida makstakse ühe kasutaja toomise eest kodulehele konkreetse märksõna kohta. Toodud hinnad on näitlikud, illustreerimaks suurusjärku. Näide ei pretendeeri lõplikule tõele.
   plans:
