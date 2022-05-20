@@ -26,7 +26,12 @@ module.exports = {
       },
     },
     'gatsby-plugin-robots-txt',
-    'gatsby-plugin-sitemap',
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        excludes: ["/admin/**", "/kontakt/kiri-saadetud/", "/privaatsuspoliitika/", /teenusetingimused/],
+      }
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: "gatsby-plugin-sass",
