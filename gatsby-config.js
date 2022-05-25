@@ -29,10 +29,7 @@ module.exports = {
     {
       resolve: "gatsby-plugin-sitemap",
       options: {
-        excludes: ["/admin/**", "/kontakt/kiri-saadetud/", "/privaatsuspoliitika/", /teenusetingimused/],
-        filterPages: () => allPages.filter(
-          page => !excludes.some(excludedRoute => thisFunc(page, excludedRoute, tools))
-        ),
+        excludes: ['/kontakt/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
       },
     },
     'gatsby-plugin-react-helmet',
