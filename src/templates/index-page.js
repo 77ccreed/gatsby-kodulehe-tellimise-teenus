@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
+import Pricing from '../components/Pricing'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
@@ -17,6 +18,7 @@ export const IndexPageTemplate = ({
   mainpitch,
   description,
   intro,
+  pricing
 }) => (
   <div>
     <div
@@ -115,6 +117,17 @@ export const IndexPageTemplate = ({
               </div>
             </div>
           </div>
+
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <h2 className="has-text-weight-semibold is-size-2">
+                {pricing.heading}
+              </h2>
+              <p className="is-size-5">{pricing.description}</p>
+              <Pricing data={pricing.plans} />
+            </div>
+          </div>
+
         </div>
       </div>
     </section>
@@ -131,6 +144,11 @@ IndexPageTemplate.propTypes = {
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
+  pricing: PropTypes.shape({
+    heading: PropTypes.string,
+    description: PropTypes.string,
+    plans: PropTypes.array,
+  }),
 }
 
 const IndexPage = ({ data }) => {
@@ -146,6 +164,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        pricing={frontmatter.pricing}
       />
     </Layout>
   )
@@ -185,6 +204,16 @@ export const pageQuery = graphql`
   heading
   description
 }
+      pricing {
+        heading
+          description
+      plans {
+        description
+            items
+      plan
+      price
+          }
+        }
 }
 }
 }

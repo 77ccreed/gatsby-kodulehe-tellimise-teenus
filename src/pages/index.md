@@ -47,4 +47,52 @@ main:
   image3:
     alt: Ettevõtte turundus
     image: /img/turundus.jpg
+pricing:
+  heading: "Kodulehe tellimine - mõned võimalikud lahendused"
+  description: >-
+     Milline on koduleht, mis vastab Sinu ettevõtte vajadustele? Tutvu ja telli sobiv. Kõik teenused ja hilisemad hooldustööd on hinnaga 15 € tund. 
+  plans:
+    - description: "Kodulehe tegemine sisaldab:"
+      items:
+        - valmisdisain
+        - kasutatav kõigis seadmetes
+        - kontaktvorm
+        - sisuhaldustarkvara
+        - sisumaterjalide sisestamine
+        - otsimootoritele optimeerimine (SEO)
+        - veebimajutuse haldamine
+      plan: "Lihtne"
+      price: "450"
+    - description: "Kodulehe tegemine sisaldab:"
+      items:
+        - konkurentide ja tegevusharu analüüs
+        - märksõnade analüüs
+        - sisustrateegia loomine
+        - sisumaterjalide loomine
+        - valmisdisain
+        - kasutatav kõigis seadmetes
+        - kontaktvorm
+        - sisuhaldustarkvara
+        - domeeni registreerimine, 3 aastat
+        - otsimootoritele optimeerimine (SEO)
+        - veebimajutuse haldamine
+      plan: Standard
+      price: "900"
+    - description: "Kodulehe tegemine sisaldab:"
+      items:
+        - e-poe, portaali või tellimiskeskuse tegemine
+        - konkurentide ja tegevusharu analüüs
+        - märksõnade analüüs
+        - sisustrateegia loomine
+        - sisumaterjalide loomine
+        - valmisdisain või erilahendus
+        - makselahenduse liitumine
+        - kasutatav kõigis seadmetes
+        - kontaktvorm
+        - sisuhaldustarkvara
+        - domeeni registreerimine, 5 aastat
+        - otsimootoritele optimeerimine (SEO)
+        - veebimajutuse haldamine
+      plan: Eritellimus
+      price: "2900"              
 ---
