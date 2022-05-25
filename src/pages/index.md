@@ -52,7 +52,7 @@ pricing:
   description: >-
      Milline on koduleht, mis vastab Sinu ettevõtte vajadustele? Tutvu ja telli sobiv. Kõik teenused ja hilisemad hooldustööd on hinnaga 15 € tund. 
   plans:
-    - description: "Kodulehe tegemine sisaldab:"
+    - description: "30 tunniga kodulehe tegemine:"
       items:
         - valmisdisain
         - kasutatav kõigis seadmetes
@@ -63,7 +63,7 @@ pricing:
         - veebimajutuse haldamine
       plan: "Lihtne"
       price: "450"
-    - description: "Kodulehe tegemine sisaldab:"
+    - description: "60 tunniga kodulehe tegemine:"
       items:
         - konkurentide ja tegevusharu analüüs
         - märksõnade analüüs
@@ -78,7 +78,7 @@ pricing:
         - veebimajutuse haldamine
       plan: Standard
       price: "900"
-    - description: "Kodulehe tegemine sisaldab:"
+    - description: "200 tunniga kodulehe tegemine:"
       items:
         - e-poe, portaali või tellimiskeskuse tegemine
         - konkurentide ja tegevusharu analüüs
@@ -94,5 +94,5 @@ pricing:
         - otsimootoritele optimeerimine (SEO)
         - veebimajutuse haldamine
       plan: Eritellimus
-      price: "2900"              
+      price: "3000"              
 ---
