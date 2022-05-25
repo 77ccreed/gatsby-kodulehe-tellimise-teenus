@@ -113,6 +113,11 @@ export const IndexPageTemplate = ({
                       Kirjuta oma kodulehest
                     </Link>
                   </div>
+
+                  <h3 className="has-text-weight-semibold is-size-2">
+                    {pricing.heading}
+                  </h3>
+                  <p className="is-size-5">{pricing.description}</p>
                 </div>
               </div>
             </div>
@@ -120,10 +125,6 @@ export const IndexPageTemplate = ({
 
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <h2 className="has-text-weight-semibold is-size-2">
-                {pricing.heading}
-              </h2>
-              <p className="is-size-5">{pricing.description}</p>
               <Pricing data={pricing.plans} />
             </div>
           </div>
