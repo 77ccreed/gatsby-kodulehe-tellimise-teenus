@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
         >
           {title}
         </motion.h1>
-        <motion.h4
+        <motion.h2
           initial={{ opacity: 0, y: -30, textShadow: '1px 1px 2px #000, 0 0 1em #000, 0 0 0.2em #000' }}
           animate={{
             opacity: 1, y: 0, textShadow: '1px 1px 2px #124368, 0 0 1em #124368, 0 0 0.2em #124368'
@@ -61,7 +61,7 @@ export const IndexPageTemplate = ({
           }}
         >
           {subheading}
-        </motion.h4>
+        </motion.h2>
       </div>
     </div>
     <section className="section section--gradient">
