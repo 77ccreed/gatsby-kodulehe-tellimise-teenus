@@ -94,22 +94,15 @@ export const IndexPageTemplate = ({
                 </div>
 
                 <Features gridItems={intro.blurbs} />
-                <div className="columns">
-                  <div className="column is-12 has-text-centered">
 
-                    <Button path='/teenused/kodulehe-tegemine' title='Loe kodulehe tegemisest' />
-                  </div>
-                </div>
+                <Button path='/teenused/kodulehe-tegemine' title='Loe kodulehe tegemisest' />
+
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Telli kodulehe tegemisega seotud teenus
                   </h3>
                   <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-
-                    <Button path='/kontaktid/' title='Saada meile kiri!' />
-                  </div>
-
+                  <Button path='/kontaktid/' title='Saada meile kiri!' />
                   <h3 className="has-text-weight-semibold is-size-2">
                     {pricing.heading}
                   </h3>
@@ -126,9 +119,9 @@ export const IndexPageTemplate = ({
           </div>
 
         </div>
-      </div>
-    </section>
-  </div>
+      </div >
+    </section >
+  </div >
 )
 
 IndexPageTemplate.propTypes = {

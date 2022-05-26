@@ -120,11 +120,9 @@ export const ProductPageTemplate = ({
                 </div>
               </div>
               <Testimonials testimonials={testimonials} />
-              <div className="column is-12 has-text-centered">
-                <Button
-                  path="/kontaktid/"
-                  title="Kirjuta meile!" />
-              </div>
+              <Button
+                path="/kontaktid/"
+                title="Kirjuta meile!" />
             </div>
           </div>
         </div>
