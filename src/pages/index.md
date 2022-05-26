@@ -50,7 +50,7 @@ main:
 pricing:
   heading: "Kodulehe tellimine - mõned võimalikud lahendused"
   description: >-
-     Milline on koduleht, mis vastab Sinu ettevõtte vajadustele? Tutvu ja telli sobiv. Kõik teenused ja hilisemad hooldustööd on hinnaga 15 € tund. 
+     Milline on koduleht, mis vastab Sinu ettevõtte vajadustele? Kas tahad vanale veebilehele uue näo anda. Või tuleb tööga päris otsast alata. Tutvu erinevate võimalustega, mida pakume ja kirjuta meile. Leiame parima lahenduse. Kõik teenused ja hilisemad hooldustööd on hinnaga 15 € tund.
   plans:
     - description: "30 tunniga kodulehe tegemine:"
       items:
