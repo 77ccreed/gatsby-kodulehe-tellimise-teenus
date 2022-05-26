@@ -1,8 +1,8 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Pricing from '../components/Pricing'
+import Button from '../components/Button'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
@@ -85,9 +85,7 @@ export const IndexPageTemplate = ({
                     </h3>
 
                     <div className="column is-12 has-text-centered">
-                      <Link className="nis-size-4 btn" to="/teenused/sisu-loomine">
-                        Loe sisuloomest
-                      </Link>
+                      <Button path='/teenused/sisu-loomine' title='Loe sisuloomest' />
                     </div>
                     <p className="card-disain2" style={{
                       clipPath: "polygon(0 0, 100% 0, 98% 98%, 0% 100%)",
@@ -98,9 +96,8 @@ export const IndexPageTemplate = ({
                 <Features gridItems={intro.blurbs} />
                 <div className="columns">
                   <div className="column is-12 has-text-centered">
-                    <Link className="nis-size-4 btn" to="/teenused/kodulehe-tegemine">
-                      Loe kodulehe tegemisest
-                    </Link>
+
+                    <Button path='/teenused/kodulehe-tegemine' title='Loe kodulehe tegemisest' />
                   </div>
                 </div>
                 <div className="column is-12">
@@ -109,9 +106,8 @@ export const IndexPageTemplate = ({
                   </h3>
                   <BlogRoll />
                   <div className="column is-12 has-text-centered">
-                    <Link className="nis-size-4 btn" to="/kontaktid/">
-                      Kirjuta oma kodulehest
-                    </Link>
+
+                    <Button path='/kontaktid/' title='Saada meile kiri!' />
                   </div>
 
                   <h3 className="has-text-weight-semibold is-size-2">

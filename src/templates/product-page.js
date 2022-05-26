@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
@@ -7,6 +6,7 @@ import Helmet from 'react-helmet'
 import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Button from '../components/Button'
 
 import { motion } from "framer-motion"
 
@@ -121,9 +121,9 @@ export const ProductPageTemplate = ({
               </div>
               <Testimonials testimonials={testimonials} />
               <div className="column is-12 has-text-centered">
-                <Link className="nis-size-4 btn" to="/kontaktid/">
-                  Aitame kodulehe turundusel!
-                </Link>
+                <Button
+                  path="/kontaktid/"
+                  title="Kirjuta meile!" />
               </div>
             </div>
           </div>
