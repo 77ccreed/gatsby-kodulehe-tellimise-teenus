@@ -3,7 +3,7 @@ module.exports = {
     title: 'Kodulehe tellimine - täislahendus firma veebilehe loomiseks',
     description:
       'Sinu ettevõte vajab kodulehte? Tee enda elu lihtsaks - kodulehe tellimine küsimustiku abil! Kõik veebilehe tegeminesega seotud teenused hinnaga 15 € tund!',
-    siteUrl: 'https://tellikoduleht.ee'
+    siteUrl: `https://tellikoduleht.ee`,
   },
   plugins: [
     {
@@ -27,10 +27,36 @@ module.exports = {
     },
     'gatsby-plugin-robots-txt',
     {
-      resolve: "gatsby-plugin-sitemap",
+      resolve: `gatsby-plugin-sitemap`,
       options: {
-        excludes: ['/kontakt/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
-      },
+        query: `
+          {
+            site {
+              siteMetadata {
+                siteUrl
+              }
+            }
+            allSitePage {
+              edges {
+                node {
+                  path
+                }
+              }
+            }
+          }
+        `,
+        output: `/sitemap.xml`,
+        serialize: ({ site, allSitePage }) =>
+          allSitePage.edges.map(edge => {
+            return {
+              url: site.siteMetadata.siteUrl + edge.node.path,
+              changefreq: `daily`,
+              priority: 0.7,
+            }
+          }
+          ),
+        exclude: ['/kontakt/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
+      }
     },
     'gatsby-plugin-react-helmet',
     {
