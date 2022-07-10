@@ -10,3 +10,12 @@
 
   [plugins.inputs]
     skipPatterns = ['https://www.google-analytics.com']  
+
+[[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "public"
+  exclude = [
+    '/kontakt/kiri-saadetud/file.html', '/privaatsuspoliitika/file.html', '/teenusetingimused/file.html'
+  ]
