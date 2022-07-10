@@ -85,7 +85,7 @@ export const IndexPageTemplate = ({
                     </h3>
 
                     <div className="column is-12 has-text-centered">
-                      <Button path='/teenused/sisu-loomine' title='Loe sisuloomest' />
+                      <Button path='/teenused/sisu-loomine/' title='Loe sisuloomest' />
                     </div>
                     <p className="card-disain2" style={{
                       clipPath: "polygon(0 0, 100% 0, 98% 98%, 0% 100%)",
@@ -95,7 +95,7 @@ export const IndexPageTemplate = ({
 
                 <Features gridItems={intro.blurbs} />
 
-                <Button path='/teenused/kodulehe-tegemine' title='Loe kodulehe tegemisest' />
+                <Button path='/teenused/kodulehe-tegemine/' title='Loe kodulehe tegemisest' />
 
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
