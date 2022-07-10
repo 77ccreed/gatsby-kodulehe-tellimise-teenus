@@ -45,16 +45,9 @@ module.exports = {
             }
           }
         `,
+        resolvePages: data =>
+          data.allSitePage.edges.map(edge => edge.node),
         output: `/sitemap.xml`,
-        serialize: ({ site, allSitePage }) =>
-          allSitePage.edges.map(edge => {
-            return {
-              url: site.siteMetadata.siteUrl + edge.node.path,
-              changefreq: `daily`,
-              priority: 0.7,
-            }
-          }
-          ),
         excludes: ['/kontakt/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
       }
     },
