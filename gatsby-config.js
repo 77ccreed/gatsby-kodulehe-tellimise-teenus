@@ -26,6 +26,38 @@ module.exports = {
       },
     },
     'gatsby-plugin-robots-txt',
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        output: `/sitemap.xml`,
+        query: `
+          {
+            site {
+              siteMetadata {
+                siteUrl
+              }
+            }
+            allSitePage {
+              edges {
+                node {
+                  path
+                }
+              }
+            }
+          }
+        `,
+        exclude: [`/dev-404-page`, `/404`, `/404.html`, `/offline-plugin-app-shell-fallback`, '/kontaktid/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
+        serialize: ({ site, allSitePage }) =>
+          allSitePage.edges.map(edge => {
+            return {
+              url: site.siteMetadata.siteUrl + edge.node.path,
+              changefreq: `weekly`,
+              priority: 0.7,
+            }
+          }
+          ),
+      },
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: "gatsby-plugin-sass",
