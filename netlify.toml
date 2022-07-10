@@ -17,5 +17,6 @@ package = "@netlify/plugin-sitemap"
   [plugins.inputs]
   buildDir = "public"
   exclude = [
-    '/kontakt/kiri-saadetud/file.html', '/privaatsuspoliitika/file.html', '/teenusetingimused/file.html'
+     # By Glob pattern
+    '**/kontaktid/kiri-saadetud/.html', '/**/privaatsuspoliitika/.html', '/**/teenusetingimused/.html', '**/404.html', '**/admin.html', '**/offline-plugin-app-shell-fallback.html'
   ]
