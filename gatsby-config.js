@@ -26,31 +26,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-robots-txt',
-    {
-      resolve: `gatsby-plugin-sitemap`,
-      options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                siteUrl
-              }
-            }
-            allSitePage {
-              edges {
-                node {
-                  path
-                }
-              }
-            }
-          }
-        `,
-        resolvePages: data =>
-          data.allSitePage.edges.map(edge => edge.node),
-        output: `/sitemap.xml`,
-        excludes: ['/kontakt/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
-      }
-    },
     'gatsby-plugin-react-helmet',
     {
       resolve: "gatsby-plugin-sass",

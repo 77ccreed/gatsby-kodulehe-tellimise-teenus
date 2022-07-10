@@ -19,7 +19,6 @@
     "gatsby-plugin-robots-txt": "^1.5.0",
     "gatsby-plugin-sass": "^5.0.0",
     "gatsby-plugin-sharp": "^4.5.1",
-    "gatsby-plugin-sitemap": "^5.4.0",
     "gatsby-remark-copy-linked-files": "^5.0.0",
     "gatsby-remark-images": "^6.0.0",
     "gatsby-remark-relative-images": "^0.3.0",
