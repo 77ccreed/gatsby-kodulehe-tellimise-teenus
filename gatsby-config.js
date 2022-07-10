@@ -55,7 +55,7 @@ module.exports = {
             }
           }
           ),
-        exclude: ['/kontakt/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
+        excludes: ['/kontakt/kiri-saadetud/', '/privaatsuspoliitika/', '/teenusetingimused/'],
       }
     },
     'gatsby-plugin-react-helmet',
